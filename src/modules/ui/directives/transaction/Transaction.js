@@ -6,7 +6,7 @@
      * @param $filter
      * @param {ModalManager} modalManager
      * @param {INotification} notification
-     * @param {Waves} waves
+     * @param {Bancoin} waves
      * @param {User} user
      * @param {$rootScope.Scope} $scope
      * @return {Transaction}

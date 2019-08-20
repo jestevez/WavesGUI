@@ -6,7 +6,7 @@
      * @param {ng.IScope} $scope
      * @param {GatewayService} gatewayService
      * @param {User} user
-     * @param {Waves} waves
+     * @param {Bancoin} waves
      * @return {ReceiveCtrl}
      */
     const controller = function (Base, $scope, gatewayService, user, waves) {

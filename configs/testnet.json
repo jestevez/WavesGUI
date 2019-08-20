@@ -46,7 +46,7 @@
     "ERGO": "AvxDjVat8ErppBRxM56KewbQq3RMv8QibBNssqn6P7Fd"
   },
   "matcherPriorityList": [
-    { "ticker": "WAVES", "id": "WAVES"},
+    { "ticker": "BCT", "id": "BCT"},
     { "ticker": "BTC", "id": "Fmg13HEHJHuZYbtJq8Da8wifJENq8uBxDuWoP9pVe2Qe"},
     { "ticker": "USD", "id": "HyFJ3rrq5m7FxdkWtQXkZrDat1F7LjVVGfpSkUuEXQHj"},
     { "ticker": "EUR", "id": "2xnE3EdpqXtFgCP156qt1AbyjpqdZ5jGjWo3CwTawcux"},

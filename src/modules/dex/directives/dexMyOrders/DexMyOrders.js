@@ -9,7 +9,7 @@
 
     /**
      * @param Base
-     * @param {Waves} waves
+     * @param {Bancoin} waves
      * @param {User} user
      * @param {IPollCreate} createPoll
      * @param {INotification} notification

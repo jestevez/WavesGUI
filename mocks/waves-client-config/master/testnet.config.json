@@ -25,8 +25,8 @@
       "start_date": "Thu Jun 13 2019 00:00:00 GMT+0300",
       "type": "info",
       "text": {
-        "en": "Win 5,000 WAVES in a trading contest on Waves DEX! Details can be found here: [wsoc.io](https://wsoc.io)",
-        "ru": "Выиграй 5 000 WAVES в конкурсе трейдеров на Waves DEX! Подробности по ссылке: [wsoc.io](https://wsoc.io)"
+        "en": "Win 5,000 BCT in a trading contest on Bancoin DEX! Details can be found here: [wsoc.io](https://wsoc.io)",
+        "ru": "Выиграй 5 000 BCT в конкурсе трейдеров на Bancoin DEX! Подробности по ссылке: [wsoc.io](https://wsoc.io)"
       },
       "wsoc": true
     }
@@ -34,7 +34,7 @@
   "SETTINGS": {
     "DEX": {
       "WATCH_LIST_PAIRS": [
-        "WAVES",
+        "BCT",
         "AsuWyM9MUUsMmWkK7jS48L3ky6gA1pxx7QtEYPbfLjAJ",
         "D6N2rAqWN6ZCWnCeNFWLGqqjS6nJLeK4m19XiuhdDenr",
         "DWgwcZTMhSvnyYCoWLRUXXSH1RSkzThXLJhww9gwkqdn",

@@ -2,7 +2,7 @@
     'use strict';
 
     /**
-     * @param {Waves} waves
+     * @param {Bancoin} waves
      * @return {Transaction}
      */
 

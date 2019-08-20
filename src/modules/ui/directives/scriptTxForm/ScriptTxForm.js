@@ -8,7 +8,7 @@
 
     /**
      * @param {typeof Base} Base
-     * @param {Waves} waves
+     * @param {Bancoin} waves
      * @param {$rootScope.Scope} $scope
      * @param {User} user
      * @param {BalanceWatcher} balanceWatcher

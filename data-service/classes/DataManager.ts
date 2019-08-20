@@ -86,7 +86,7 @@ export class DataManager {
             .element(document.body).injector().get('configService').get('GATEWAYS_SOON') || [];
 
         const descriptionHash = {
-            WAVES: { en: 'Waves is a blockchain ecosystem that offers comprehensive and effective blockchain-based tools for businesses, individuals and developers. Waves Platform offers unprecedented throughput and flexibility. Features include the LPoS consensus algorithm, Waves-NG protocol and advanced smart contract functionality.' }
+            BCT: { en: 'Bancoin is a blockchain ecosystem that offers comprehensive and effective blockchain-based tools for businesses, individuals and developers. Bancoin Platform offers unprecedented throughput and flexibility. Features include the LPoS consensus algorithm, Bancoin-NG protocol and advanced smart contract functionality.' }
         };
 
         const gatewayAsset = {
@@ -106,8 +106,8 @@ export class DataManager {
             status: 4
         };
 
-        if (id === 'WAVES') {
-            return { status: STATUS_LIST.VERIFIED, description: descriptionHash.WAVES } as any;
+        if (id === 'BCT') {
+            return { status: STATUS_LIST.VERIFIED, description: descriptionHash.BCT } as any;
         }
 
         if (gatewaysSoon.indexOf(id) > -1) {

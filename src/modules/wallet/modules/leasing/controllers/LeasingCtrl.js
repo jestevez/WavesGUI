@@ -5,7 +5,7 @@
      * @param Base
      * @param {$rootScope.Scope} $scope
      * @param {app.utils} utils
-     * @param {Waves} waves
+     * @param {Bancoin} waves
      * @param {ModalManager} modalManager
      * @param {IPollCreate} createPoll
      * @param {BalanceWatcher} balanceWatcher
@@ -103,7 +103,7 @@
              * @private
              */
             _updateLeasingData() {
-                const waves = balanceWatcher.getFullBalanceList().find(pathEq(['asset', 'id'], 'WAVES'));
+                const waves = balanceWatcher.getFullBalanceList().find(pathEq(['asset', 'id'], 'BCT'));
 
                 if (!waves) {
                     return null;

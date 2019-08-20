@@ -44,7 +44,7 @@
              */
             @decorators.cachable(5)
             info(assetId) {
-                if (assetId === WavesApp.defaultAssets.WAVES) {
+                if (assetId === WavesApp.defaultAssets.BCT) {
                     return this.getAsset(assetId);
                 }
 

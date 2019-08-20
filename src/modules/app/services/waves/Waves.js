@@ -6,11 +6,11 @@
      * @param {Matcher} matcher
      * @param {WavesUtils} wavesUtils
      * @param {app.utils} utils
-     * @return {Waves}
+     * @return {Bancoin}
      */
     const factory = function (node, matcher, wavesUtils, utils) {
 
-        class Waves {
+        class Bancoin {
 
             constructor() {
                 /**
@@ -29,7 +29,7 @@
 
         }
 
-        return utils.bind(new Waves());
+        return utils.bind(new Bancoin());
     };
 
     factory.$inject = ['node', 'matcher', 'wavesUtils', 'utils'];

@@ -3,7 +3,7 @@
 
     /**
      * @param {typeof Base} Base
-     * @param {Waves} waves
+     * @param {Bancoin} waves
      * @param {User} user
      * @param {$rootScope.Scope} $scope
      */
@@ -109,10 +109,10 @@
                     return null;
                 }
 
-                const wavesFee = list.find(item => item.asset.id === 'WAVES');
+                const wavesFee = list.find(item => item.asset.id === 'BCT');
                 const filteredList = list.filter(fee => {
                     const feeBalance = this.balanceHash[fee.asset.id];
-                    const canUseOwnFee = user.address !== fee.asset.sender || this.balanceHash.WAVES.gte(wavesFee);
+                    const canUseOwnFee = user.address !== fee.asset.sender || this.balanceHash.BCT.gte(wavesFee);
                     return hasBalances && feeBalance && feeBalance.gte(fee) && canUseOwnFee;
                 });
 

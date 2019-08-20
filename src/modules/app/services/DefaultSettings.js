@@ -51,7 +51,7 @@
                     },
                     orderLimit: 0.05,
                     pinnedAssetIdList: [
-                        WavesApp.defaultAssets.WAVES,
+                        WavesApp.defaultAssets.BCT,
                         WavesApp.defaultAssets.BTC,
                         WavesApp.defaultAssets.ETH,
                         WavesApp.defaultAssets.USD,
@@ -70,9 +70,9 @@
                         activeState: 'assets',
                         assets: {
                             chartMode: 'month',
-                            activeChartAssetId: WavesApp.defaultAssets.WAVES,
+                            activeChartAssetId: WavesApp.defaultAssets.BCT,
                             chartAssetIdList: [
-                                WavesApp.defaultAssets.WAVES,
+                                WavesApp.defaultAssets.BCT,
                                 WavesApp.defaultAssets.BTC,
                                 WavesApp.defaultAssets.ETH
                             ]
@@ -91,7 +91,7 @@
                     dex: {
                         chartCropRate: 1.5,
                         assetIdPair: {
-                            amount: WavesApp.defaultAssets.WAVES,
+                            amount: WavesApp.defaultAssets.BCT,
                             price: WavesApp.defaultAssets.BTC
                         },
                         createOrder: {
@@ -100,7 +100,7 @@
                         watchlist: {
                             showOnlyFavorite: false,
                             favourite: [
-                                [WavesApp.defaultAssets.WAVES, WavesApp.defaultAssets.BTC]
+                                [WavesApp.defaultAssets.BCT, WavesApp.defaultAssets.BTC]
                             ],
                             activeTab: 'all'
                         },

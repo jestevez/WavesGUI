@@ -3,7 +3,7 @@
 
     /**
      * @param {typeof Base} Base
-     * @param {Waves} waves
+     * @param {Bancoin} waves
      * @param {User} user
      * @return {ReceiveInvoice}
      */

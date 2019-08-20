@@ -10,7 +10,7 @@
      * @param Base
      * @param {$rootScope.Scope} $scope
      * @param {User} user
-     * @param {Waves} waves
+     * @param {Bancoin} waves
      * @param {INotification} notification
      * @param {app.utils} utils
      * @param {BalanceWatcher} balanceWatcher
@@ -193,7 +193,7 @@
             }
 
             _updateBalance() {
-                balanceWatcher.getBalanceByAssetId(WavesApp.defaultAssets.WAVES)
+                balanceWatcher.getBalanceByAssetId(WavesApp.defaultAssets.BCT)
                     .then(money => {
                         this._balance = money;
                         utils.safeApply($scope);

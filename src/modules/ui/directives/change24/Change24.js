@@ -6,7 +6,7 @@
      * @param {object} $attrs
      * @param {IPollCreate} createPoll
      * @param {JQuery} $element
-     * @param {Waves} waves
+     * @param {Bancoin} waves
      * @return {Change24}
      */
     const controller = function (Base, $attrs, createPoll, $element, waves) {

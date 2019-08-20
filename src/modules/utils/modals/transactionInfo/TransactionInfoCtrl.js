@@ -6,7 +6,7 @@
      * @param Base
      * @param {$rootScope.Scope} $scope
      * @param {ExplorerLinks} explorerLinks
-     * @param {Waves} waves
+     * @param {Bancoin} waves
      * @param {IPollCreate} createPoll
      * @return {TransactionInfoCtrl}
      */

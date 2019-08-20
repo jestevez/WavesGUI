@@ -8,7 +8,7 @@
      * @param Base
      * @param {JQuery} $element
      * @param {app.utils} utils
-     * @param {Waves} waves
+     * @param {Bancoin} waves
      * @return {AssetLogo}
      */
     const controller = function (Base, $element, utils, waves) {

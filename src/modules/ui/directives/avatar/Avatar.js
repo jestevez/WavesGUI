@@ -8,7 +8,7 @@
      * @param $q
      * @param {$rootScope.Scope} $scope
      * @param {User} user
-     * @param {Waves} waves
+     * @param {Bancoin} waves
      * @return {Avatar}
      */
     const controller = function (Base, $q, $scope, user, waves) {

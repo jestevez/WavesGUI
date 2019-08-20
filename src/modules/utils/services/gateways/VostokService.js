@@ -34,7 +34,7 @@
             }
 
             /**
-             * From Vostok to Waves
+             * From Vostok to Bancoin
              * @param {Asset} asset
              * @param {string} wavesAddress
              * @return {Promise}
@@ -61,7 +61,7 @@
             }
 
             /**
-             * From Waves to Vostok
+             * From Bancoin to Vostok
              * @param {Asset} asset
              * @param {string} targetAddress
              * @param {string} [paymentId]

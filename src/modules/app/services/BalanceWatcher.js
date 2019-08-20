@@ -9,7 +9,7 @@
      * @param {User} user
      * @param {Poll} Poll
      * @param {app.utils} utils
-     * @param {Waves} waves
+     * @param {Bancoin} waves
      */
     const factory = function (user, Poll, utils, waves) {
 

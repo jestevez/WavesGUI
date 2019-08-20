@@ -143,7 +143,7 @@
 
                         return Promise.all([
                             this._scriptInfo(matcherAddress),
-                            ds.api.assets.get('WAVES')
+                            ds.api.assets.get('BCT')
                         ]).then(([info, asset]) => ({
                             asset,
                             hasScript: info.extraFee.getTokens().gt(0),

@@ -36,7 +36,7 @@
              */
             @decorators.cachable(350)
             getRate(assetFrom, assetTo, date) {
-                const WavesId = WavesApp.defaultAssets.WAVES;
+                const WavesId = WavesApp.defaultAssets.BCT;
                 const from = WavesUtils.toId(assetFrom);
                 const to = WavesUtils.toId(assetTo);
 
@@ -87,7 +87,7 @@
             getRateHistory(assetFrom, assetTo, from, to) {
                 const idFrom = WavesUtils.toId(assetFrom);
                 const idTo = WavesUtils.toId(assetTo);
-                const wavesId = WavesApp.defaultAssets.WAVES;
+                const wavesId = WavesApp.defaultAssets.BCT;
                 to = to || Date.now();
 
                 if (idFrom === idTo) {

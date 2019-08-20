@@ -4,7 +4,7 @@
     /**
      * @param {User} user
      * @param {ModalManager} modalManager
-     * @param {Waves} waves
+     * @param {Bancoin} waves
      * @param {typeof Router} Router
      * @param {app.utils} utils
      * @return {ModalRouter}

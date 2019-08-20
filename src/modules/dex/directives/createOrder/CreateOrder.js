@@ -3,7 +3,7 @@
 
     /**
      * @param Base
-     * @param {Waves} waves
+     * @param {Bancoin} waves
      * @param {User} user
      * @param {app.utils} utils
      * @param {IPollCreate} createPoll
@@ -922,7 +922,7 @@
                 return this._getFeeRates()
                     .then(list => {
                         const { baseFee, otherFee } = Object.keys(list).reduce((acc, id) => {
-                            if (id === WavesApp.defaultAssets.WAVES) {
+                            if (id === WavesApp.defaultAssets.BCT) {
                                 acc.baseFee.push(id);
                             } else {
                                 acc.otherFee.push(id);

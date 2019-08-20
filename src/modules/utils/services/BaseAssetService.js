@@ -4,7 +4,7 @@
     /**
      * @param {User} user
      * @param {app.utils.decorators} decorators
-     * @param {Waves} waves
+     * @param {Bancoin} waves
      * @return {BaseAssetService}
      */
     const factory = function (user, decorators, waves) {

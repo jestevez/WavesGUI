@@ -5,7 +5,7 @@
 
     /**
      * @param $scope
-     * @param {Waves} waves
+     * @param {Bancoin} waves
      * @param {Base} Base
      * @param {app.utils} utils
      * @param {User} user
@@ -72,7 +72,7 @@
                  * @type {ISendState}
                  */
                 this.state = {
-                    assetId: options.assetId || WavesApp.defaultAssets.WAVES,
+                    assetId: options.assetId || WavesApp.defaultAssets.BCT,
                     mirrorId: user.getSetting('baseAssetId'),
                     outerSendMode: false,
                     gatewayDetails: null,

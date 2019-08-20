@@ -5,7 +5,7 @@
      * @param {typeof Base} Base
      * @param {User} user
      * @param {BaseAssetService} baseAssetService
-     * @param {Waves} waves
+     * @param {Bancoin} waves
      * @param {$rootScope.Scope} $scope
      * @param {app.utils} utils
      * @return {MassTransfer}

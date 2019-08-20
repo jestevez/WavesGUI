@@ -5,7 +5,7 @@
      * @param Base
      * @param {IPollCreate} createPoll
      * @param {User} user
-     * @param {Waves} waves
+     * @param {Bancoin} waves
      * @param {app.utils} utils
      * @param {JQuery} $element
      * @param {$rootScope.Scope} $scope

@@ -3,7 +3,7 @@
 
     /**
      * @param Base
-     * @param {Waves} waves
+     * @param {Bancoin} waves
      * @param {object} $attrs
      * @param {app.utils} utils
      * @return {BalanceInput}

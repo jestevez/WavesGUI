@@ -7,7 +7,7 @@
      * @param {$rootScope.Scope} $scope
      * @param {app.utils} utils
      * @param {ValidateService} validateService
-     * @param {Waves} waves
+     * @param {Bancoin} waves
      * @param {User} user
      * @param {app.utils.decorators} decorators
      * @return {MassSend}

@@ -10,7 +10,7 @@
      * @param {app.utils} utils
      * @param {TimeLine} timeLine
      * @param {SymbolInfoService} symbolInfoService
-     * @param {Waves} waves
+     * @param {Bancoin} waves
      * @param {Matcher} matcher
      * @return {CandlesService}
      */

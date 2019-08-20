@@ -100,7 +100,7 @@
              */
             utils = null;
             /**
-             * @type {Waves}
+             * @type {Bancoin}
              */
             waves = null;
             /**
@@ -167,7 +167,7 @@
             }
 
             $postLink() {
-                this._isWaves = this.balance.asset.id === WavesApp.defaultAssets.WAVES;
+                this._isWaves = this.balance.asset.id === WavesApp.defaultAssets.BCT;
                 this._isMyAsset = this.balance.asset.sender === this.user.address;
                 this.canShowDex = this._getCanShowDex();
                 const canStopSponsored = this._getCanStopSponsored();
@@ -275,7 +275,7 @@
                 return this.balance.isPinned ||
                     this._isMyAsset ||
                     this.balance.asset.isMyAsset ||
-                    this.balance.asset.id === WavesApp.defaultAssets.WAVES ||
+                    this.balance.asset.id === WavesApp.defaultAssets.BCT ||
                     this.gatewayService.getPurchasableWithCards()[this.balance.asset.id] ||
                     this.gatewayService.getCryptocurrencies()[this.balance.asset.id] ||
                     this.gatewayService.getFiats()[this.balance.asset.id] ||

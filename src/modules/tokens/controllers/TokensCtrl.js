@@ -5,7 +5,7 @@
      * @param {typeof Base} Base
      * @param {$rootScope.Scope} $scope
      * @param {ModalManager} modalManager
-     * @param {Waves} waves
+     * @param {Bancoin} waves
      * @param {BalanceWatcher} balanceWatcher
      * @param {User} user
      * @param {app.utils} utils

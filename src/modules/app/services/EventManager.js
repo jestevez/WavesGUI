@@ -37,7 +37,7 @@
                  */
                 this._events = Object.create(null);
                 /**
-                 * @type {Waves}
+                 * @type {Bancoin}
                  * @private
                  */
                 this._waves = null;

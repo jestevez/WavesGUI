@@ -34,7 +34,7 @@
             }
 
             /**
-             * From Coinomat to Waves
+             * From Coinomat to Bancoin
              * @param {Asset} asset
              * @param {string} wavesAddress
              * @return {Promise}
@@ -49,7 +49,7 @@
             }
 
             /**
-             * From Waves to Coinomat
+             * From Bancoin to Coinomat
              * @param {Asset} asset
              * @param {string} targetAddress
              * @param {string} [paymentId]

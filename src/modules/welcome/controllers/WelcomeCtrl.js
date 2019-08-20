@@ -11,7 +11,7 @@
      * @param ChartFactory
      * @param {app.utils} utils
      * @param {JQuery} $element
-     * @param {Waves} waves
+     * @param {Bancoin} waves
      * @return {WelcomeCtrl}
      */
     const controller = function (Base,
@@ -37,15 +37,15 @@
         const PAIRS_IN_SLIDER = [
             {
                 amount: WavesApp.defaultAssets.VST,
-                price: 'WAVES'
+                price: 'BCT'
             },
             {
                 amount: WavesApp.defaultAssets.BTC,
-                price: 'WAVES'
+                price: 'BCT'
             },
             {
                 amount: WCT_ID,
-                price: 'WAVES'
+                price: 'BCT'
             },
             {
                 amount: WavesApp.defaultAssets.DASH,
@@ -61,15 +61,15 @@
             },
             {
                 amount: WavesApp.defaultAssets.ETH,
-                price: 'WAVES'
+                price: 'BCT'
             },
             {
-                amount: 'WAVES',
+                amount: 'BCT',
                 price: WavesApp.defaultAssets.USD
             },
             {
                 amount: WavesApp.defaultAssets.ZEC,
-                price: 'WAVES'
+                price: 'BCT'
             },
             {
                 amount: WavesApp.defaultAssets.XMR,

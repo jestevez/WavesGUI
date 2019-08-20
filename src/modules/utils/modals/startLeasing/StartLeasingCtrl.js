@@ -6,7 +6,7 @@
      * @param $scope
      * @param {User} user
      * @param {app.utils} utils
-     * @param {Waves} waves
+     * @param {Bancoin} waves
      * @param {app.i18n} i18n
      * @return {StartLeasingCtrl}
      */
@@ -25,7 +25,7 @@
                  * @type {string}
                  */
                 this.title = i18n.translate('modal.startLease.title', 'app.utils');
-                this.assetId = WavesApp.defaultAssets.WAVES;
+                this.assetId = WavesApp.defaultAssets.BCT;
                 this.recipient = '';
                 this.amount = null;
 

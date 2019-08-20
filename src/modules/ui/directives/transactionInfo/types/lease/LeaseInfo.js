@@ -4,7 +4,7 @@
     /**
      * @param {$rootScope.Scope} $scope
      * @param {app.utils} utils
-     * @param {Waves} waves
+     * @param {Bancoin} waves
      * @param Base
      * @return {LeaseInfo}
      */

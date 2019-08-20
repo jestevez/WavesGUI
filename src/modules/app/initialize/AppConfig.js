@@ -33,7 +33,7 @@
                     exchangeTimeout: WavesApp.sign.exchangeTimeout,
                     debug: !WavesApp.isProduction(),
                     transport: Transport && Transport.default,
-                    extension: () => typeof Waves === 'undefined' ? null : Waves
+                    extension: () => typeof Bancoin === 'undefined' ? null : Bancoin
                 }));
             }
 

@@ -23,7 +23,7 @@
     /**
      * @param {Base} Base
      * @param {$rootScope.Scope} $scope
-     * @param {Waves} waves
+     * @param {Bancoin} waves
      * @param {app.utils} utils
      * @param {ModalManager} modalManager
      * @param {User} user
@@ -216,7 +216,7 @@
             canShowDex(balance) {
                 return balance.isPinned ||
                     balance.asset.isMyAsset ||
-                    balance.asset.id === WavesApp.defaultAssets.WAVES ||
+                    balance.asset.id === WavesApp.defaultAssets.BCT ||
                     gatewayService.getPurchasableWithCards()[balance.asset.id] ||
                     gatewayService.getCryptocurrencies()[balance.asset.id] ||
                     gatewayService.getFiats()[balance.asset.id];
@@ -255,7 +255,7 @@
             }
 
             isDepositSupported(asset) {
-                const isWaves = asset.id === WavesApp.defaultAssets.WAVES;
+                const isWaves = asset.id === WavesApp.defaultAssets.BCT;
 
                 return gatewayService.hasSupportOf(asset, 'deposit') || isWaves;
             }

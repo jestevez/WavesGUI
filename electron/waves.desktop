@@ -1,5 +1,5 @@
 [Desktop Entry]
-Name=Waves Client
+Name=Bancoin Client
 Exec={{APP_PATH}} %u
 Type=Application
 NoDisplay=true

@@ -24,7 +24,7 @@
     };
 
     /**
-     * @param {Waves} waves
+     * @param {Bancoin} waves
      * @param {app.utils.decorators} decorators
      * @return {SymbolInfoService}
      */
@@ -48,7 +48,7 @@
                     const amount = pair.amountAsset;
                     const price = pair.priceAsset;
 
-                    // TODO : remove when Waves.Asset is created via factory
+                    // TODO : remove when Bancoin.Asset is created via factory
                     return Promise.all([
                         waves.node.assets.getAsset(amount.id),
                         waves.node.assets.getAsset(price.id)

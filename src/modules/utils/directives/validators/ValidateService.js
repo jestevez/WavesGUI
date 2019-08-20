@@ -5,7 +5,7 @@
     const { BigNumber } = require('@waves/bignumber');
 
     /**
-     * @param {Waves} waves
+     * @param {Bancoin} waves
      * @param {$q} $q
      * @param {Object.<string, {function} isValidAddress>} outerBlockchains
      * @param {app.utils} utils

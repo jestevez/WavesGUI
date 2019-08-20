@@ -4,7 +4,7 @@
     /**
      * @param {typeof Base} Base
      * @param {$rootScope.Scope} $scope
-     * @param {Waves} waves
+     * @param {Bancoin} waves
      * @param {BalanceWatcher} balanceWatcher
      * @param {app.utils} utils
      * @return {SponsoredModalCtrl}
@@ -128,7 +128,7 @@
 
             _updateBalances() {
                 Promise.all([
-                    balanceWatcher.getBalanceByAssetId(WavesApp.defaultAssets.WAVES),
+                    balanceWatcher.getBalanceByAssetId(WavesApp.defaultAssets.BCT),
                     balanceWatcher.getBalanceByAssetId(this.assetId)
                 ]).then(([waves, asset]) => {
                     this.wavesBalance = waves;

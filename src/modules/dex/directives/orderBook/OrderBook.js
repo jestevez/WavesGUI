@@ -6,7 +6,7 @@
      * @param {Base} Base
      * @param {IPollCreate} createPoll
      * @param {JQuery} $element
-     * @param {Waves} waves
+     * @param {Bancoin} waves
      * @param {DexDataService} dexDataService
      * @param {app.utils} utils
      * @param {$rootScope.Scope} $scope

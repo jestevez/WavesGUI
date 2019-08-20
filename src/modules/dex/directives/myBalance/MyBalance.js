@@ -112,7 +112,7 @@
              * @param {string} assetId
              */
             setPair(assetId) {
-                const wavesId = WavesApp.defaultAssets.WAVES;
+                const wavesId = WavesApp.defaultAssets.BCT;
                 const btcId = WavesApp.defaultAssets.BTC;
                 const assetId2 = assetId === wavesId ? btcId : wavesId;
 

@@ -5,7 +5,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <title>Waves Client</title>
+    <title>Bancoin Client</title>
     <link rel="icon" href="{{domain}}/img/favicon.ico" type="image/x-icon"/>
 
     <script>
@@ -318,7 +318,7 @@
              * @type {IWavesApp}
              */
             var WavesApp = {
-                name: 'Waves Client',
+                name: 'Bancoin Client',
                 version: config.pack.version,
                 type: !config.isWeb() ? 'desktop' : 'web',
                 matcherPriorityList: config.network.matcherPriorityList,
@@ -349,7 +349,7 @@
                     feeConfigUrl: config.feeConfigUrl
                 },
                 defaultAssets: {
-                    WAVES: 'WAVES',
+                    BCT: 'BCT',
                     EUR: config.network.assets.EUR,
                     USD: config.network.assets.USD,
                     BTC: config.network.assets.BTC,
@@ -365,7 +365,7 @@
                     ERGO: config.network.assets.ERGO
                 },
                 tradingPairs: config.tradingPairs,
-                ALWAYS_PINNED_ASSETS: ['WAVES'],
+                ALWAYS_PINNED_ASSETS: ['BCT'],
 
                 otherAssetsWithIcons: {
                     // TODO @xenohunter : remove that when icons are in @dvshur's service
@@ -524,9 +524,9 @@
     <div class="connection-problem__headline">We couldn't connect to the server</div>
     <div class="connection-problem__description">Check your internet connection and try again.</div>
     <div class="connection-problem__description">
-        <div>If you have been using the Waves Desktop app and refreshing does</div>
+        <div>If you have been using the Bancoin Desktop app and refreshing does</div>
         <div>not help, try reinstalling the app. Download the latest version from</div>
-        <div>the official Waves site.</div>
+        <div>the official Bancoin site.</div>
     </div>
     <button class="submit big submit connetion-problem__button" onclick="WavesApp.reload();">Refresh page</button>
 </div>

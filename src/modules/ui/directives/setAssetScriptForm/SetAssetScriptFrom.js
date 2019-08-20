@@ -7,7 +7,7 @@
 
     /**
      * @param {typeof Base} Base
-     * @param {Waves} waves
+     * @param {Bancoin} waves
      * @param {$rootScope.Scope} $scope
      * @param {User} user
      * @param {BalanceWatcher} balanceWatcher
@@ -159,7 +159,7 @@
              * @private
              */
             _currentHasFee() {
-                const waves = balanceWatcher.getBalance().WAVES;
+                const waves = balanceWatcher.getBalance().BCT;
 
                 if (!this.fee) {
                     return null;

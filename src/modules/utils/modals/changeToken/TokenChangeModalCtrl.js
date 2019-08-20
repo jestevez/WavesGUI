@@ -6,7 +6,7 @@
      * @param {$rootScope.Scope} $scope
      * @param createPoll
      * @param {app.utils} utils
-     * @param {Waves} waves
+     * @param {Bancoin} waves
      * @param {User} user
      * @param {BalanceWatcher} balanceWatcher
      * @return {TokenChangeModalCtrl}
@@ -113,7 +113,7 @@
                 });
 
                 createPoll(this, this._getGraphData, 'chartData', 15000);
-                ds.api.assets.get(WavesApp.defaultAssets.WAVES).then(asset => {
+                ds.api.assets.get(WavesApp.defaultAssets.BCT).then(asset => {
                     this.receive(balanceWatcher.change, () => this._updateWavesBalance(asset));
                     this._updateWavesBalance(asset);
                 });

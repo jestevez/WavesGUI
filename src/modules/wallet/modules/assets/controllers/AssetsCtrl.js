@@ -2,7 +2,7 @@
     'use strict';
 
     /**
-     * @param {Waves} waves
+     * @param {Bancoin} waves
      * @param {AssetsData} assetsData
      * @param {$rootScope.Scope} $scope
      * @param {app.utils} utils

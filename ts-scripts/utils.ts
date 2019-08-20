@@ -832,13 +832,15 @@ export function loadLocales(path: string, options?: object) {
     const zipName = `locale.zip`;
     const filePath = join(path, zipName);
 
+    console.log(filePath)
+
     const loadAndExtract = () => {
         return new Promise((resolve, reject) => {
             const req = request(postOptions, response => {
                 response.on('data', (data: string) => {
                     const file = createWriteStream(filePath);
                     const url = JSON.parse(data).bundle_url;
-
+                    console.log(url)
                     get(url, (response) => {
                         response.pipe(file);
                         response.on('end', () => {

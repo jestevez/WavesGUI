@@ -11,7 +11,7 @@
      * @param {User} user
      * @param {$rootScope.Scope} $scope
      * @param {IPollCreate} createPoll
-     * @param {Waves} waves
+     * @param {Bancoin} waves
      * @return {DexCtrl}
      */
     const controller = function (Base, $element, $state, $location, user, $scope, createPoll, waves) {
@@ -93,7 +93,7 @@
 
             $onDestroy() {
                 super.$onDestroy();
-                window.document.title = 'Waves Client';
+                window.document.title = 'Bancoin Client';
             }
 
             // hide and show graph to force its resize
@@ -145,7 +145,7 @@
                         if (urlPair) {
                             return this._getPair(urlPair)
                                 .catch(() => this._getPair({
-                                    amount: WavesApp.defaultAssets.WAVES,
+                                    amount: WavesApp.defaultAssets.BCT,
                                     price: WavesApp.defaultAssets.BTC
                                 }))
                                 .then((pair) => {
@@ -178,7 +178,7 @@
                 if (pair) {
                     return ds.api.pairs.get(pair.amount, pair.price);
                 } else {
-                    return ds.api.pairs.get(WavesApp.defaultAssets.WAVES, WavesApp.defaultAssets.BTC);
+                    return ds.api.pairs.get(WavesApp.defaultAssets.BCT, WavesApp.defaultAssets.BTC);
                 }
             }
 

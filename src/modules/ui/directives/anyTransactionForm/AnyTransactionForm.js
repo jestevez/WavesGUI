@@ -5,7 +5,7 @@
     /**
      * @param {typeof Base} Base
      * @param {$rootScope.Scope} $scope
-     * @param {Waves} waves
+     * @param {Bancoin} waves
      * @return {AnyTransactionForm}
      */
     const controller = function (Base, $scope, waves) {
@@ -161,7 +161,7 @@
             static _parseOrder(data) {
                 const moneyFactory = ds.api.matcher.factory;
                 return Promise.all([
-                    waves.node.assets.getAsset('WAVES'),
+                    waves.node.assets.getAsset('BCT'),
                     waves.node.assets.getAsset(ds.utils.normalizeAssetId(data.assetPair.amountAsset)),
                     waves.node.assets.getAsset(ds.utils.normalizeAssetId(data.assetPair.priceAsset))
                 ])

@@ -10,7 +10,7 @@ const R = require('ramda');
      *
      * @param Base
      * @param $scope
-     * @param {Waves} waves
+     * @param {Bancoin} waves
      * @param {IPollCreate} PromiseControl
      * @param $mdDialog
      * @param {User} user

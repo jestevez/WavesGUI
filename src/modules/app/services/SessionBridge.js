@@ -131,30 +131,30 @@
 
                 // switch (request.data.type) {
                 //     case 'order':
-                //         transaction = new Waves.Transactions.Order(request.data.tx);
+                //         transaction = new Bancoin.Transactions.Order(request.data.tx);
                 //         break;
-                //     case Waves.constants.ISSUE_TX_NAME:
-                //         transaction = new Waves.Transactions.IssueTransaction(request.data.tx);
+                //     case Bancoin.constants.ISSUE_TX_NAME:
+                //         transaction = new Bancoin.Transactions.IssueTransaction(request.data.tx);
                 //         break;
-                //     case Waves.constants.TRANSFER_TX_NAME:
-                //         transaction = new Waves.Transactions.TransferTransaction(request.data.tx);
+                //     case Bancoin.constants.TRANSFER_TX_NAME:
+                //         transaction = new Bancoin.Transactions.TransferTransaction(request.data.tx);
                 //         break;
-                //     case Waves.constants.REISSUE_TX_NAME:
-                //         transaction = new Waves.Transactions.ReissueTransaction(request.data.tx);
+                //     case Bancoin.constants.REISSUE_TX_NAME:
+                //         transaction = new Bancoin.Transactions.ReissueTransaction(request.data.tx);
                 //         break;
-                //     case Waves.constants.BURN_TX_NAME:
-                //         transaction = new Waves.Transactions.BurnTransaction(request.data.tx);
+                //     case Bancoin.constants.BURN_TX_NAME:
+                //         transaction = new Bancoin.Transactions.BurnTransaction(request.data.tx);
                 //         break;
-                //     case Waves.constants.LEASE_TX_NAME:
-                //         transaction = new Waves.Transactions.LeaseTransaction(request.data.tx);
+                //     case Bancoin.constants.LEASE_TX_NAME:
+                //         transaction = new Bancoin.Transactions.LeaseTransaction(request.data.tx);
                 //         break;
-                //     case Waves.constants.CANCEL_LEASING_TX_NAME:
-                //         transaction = new Waves.Transactions.CancelLeasingTransaction(request.data.tx);
+                //     case Bancoin.constants.CANCEL_LEASING_TX_NAME:
+                //         transaction = new Bancoin.Transactions.CancelLeasingTransaction(request.data.tx);
                 //         break;
-                //     case Waves.constants.CREATE_ALIAS_TX_NAME:
-                //         transaction = new Waves.Transactions.CreateAliasTransaction(request.data.tx);
+                //     case Bancoin.constants.CREATE_ALIAS_TX_NAME:
+                //         transaction = new Bancoin.Transactions.CreateAliasTransaction(request.data.tx);
                 //         break;
-                //     case Waves.constants.MASS_TRANSFER_TX_NAME:
+                //     case Bancoin.constants.MASS_TRANSFER_TX_NAME:
                 //         throw new Error('Unsupported method mass transfer!');
                 //     default:
                 //         throw new Error('Unknown transaction type!');

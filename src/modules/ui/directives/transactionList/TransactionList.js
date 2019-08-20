@@ -5,7 +5,7 @@
      * @param Base
      * @param {User} user
      * @param i18n
-     * @param {Waves} waves
+     * @param {Bancoin} waves
      * @param {app.utils} utils
      * @return {TransactionList}
      */

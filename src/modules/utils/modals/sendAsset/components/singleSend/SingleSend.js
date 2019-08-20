@@ -26,7 +26,7 @@
      * @param {IOuterBlockchains} outerBlockchains
      * @param {User} user
      * @param {GatewayService} gatewayService
-     * @param {Waves} waves
+     * @param {Bancoin} waves
      */
     const controller = function (Base,
                                  $scope,

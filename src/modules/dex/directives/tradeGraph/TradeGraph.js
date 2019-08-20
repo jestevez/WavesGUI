@@ -33,7 +33,7 @@
     /**
      * @param Base
      * @param utils
-     * @param {Waves} waves
+     * @param {Bancoin} waves
      * @param {IPollCreate} createPoll
      * @param {$rootScope.Scope} $scope
      * @param {app.utils} utils

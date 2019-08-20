@@ -6,7 +6,7 @@
      * @param Base
      * @param {$rootScope.Scope} $scope
      * @param {TransactionsCsvGen} transactionsCsvGen
-     * @param {Waves} waves
+     * @param {Bancoin} waves
      * @param {IPollCreate} createPoll
      * @param {INotification} notification
      * @return {TransactionsCtrl}

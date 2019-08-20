@@ -6,7 +6,7 @@
     /**
      * @param {Base} Base
      * @param {IPollCreate} createPoll
-     * @param {Waves} waves
+     * @param {Bancoin} waves
      * @param {app.utils} utils
      * @param {User} user
      * @return {AssetRateChart}
