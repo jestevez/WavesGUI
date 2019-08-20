@@ -1,5 +1,5 @@
 [Desktop Entry]
-Name=Bancoin Client
+Name=Bancoin DEX
 Exec={{APP_PATH}} %u
 Type=Application
 NoDisplay=true

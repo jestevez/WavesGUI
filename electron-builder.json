@@ -1,7 +1,7 @@
 {
   "appId": "com.wavesplatform.client.lite",
   "copyright": "Bancoin Platform",
-  "productName": "Bancoin Client",
+  "productName": "Bancoin DEX",
   "files": "**/*",
   "asar": true,
   "compression": "normal",
