@@ -78,8 +78,8 @@
         "tryDesktop": {
             "cancel": "Doorgaan met internet",
             "label": "Onthoud mijn keuze en herinner me er niet meer aan",
-            "message": "We raden u aan de Waves-desktop-app te gebruiken. Als u dit niet hebt, kunt u het downloaden van de officiële site.",
-            "title": "Gebruik de Waves desktop-app",
+            "message": "We raden u aan de Bancoin-desktop-app te gebruiken. Als u dit niet hebt, kunt u het downloaden van de officiële site.",
+            "title": "Gebruik de Bancoin desktop-app",
             "try": "Open desktop app"
         }
     },

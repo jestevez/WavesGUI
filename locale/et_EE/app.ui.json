@@ -75,7 +75,7 @@
         "success": "Teie tehing on teostamisel!",
         "wavesKeeperUnconfirmed": {
             "description": "Palun proovige uuesti. Kui viga püsib, saatke palun pilet [kasutajatoele](https://support.wavesplatform.com)",
-            "header": "Te ei kinnitanud päringut Waves Keeperiga"
+            "header": "Te ei kinnitanud päringut Bancoin Keeperiga"
         }
     },
     "copyError": "Ei saa kopeerida! Teie brauser võib olla aegunud",
@@ -99,9 +99,9 @@
             "confirmRequestKeeper": {
                 "cancel": "Tühista",
                 "errorDescription": "Palun proovige uuesti. Kui viga püsib, saatke palun pilet [kasutajatoele](https://support.wavesplatform.com)",
-                "errorHeader": "Te pole kinnitanud päringut Waves Keeperiga",
+                "errorHeader": "Te pole kinnitanud päringut Bancoin Keeperiga",
                 "sign": "Jätka",
-                "waiting": "Waves Keeperilt kinnituse ootel ..."
+                "waiting": "Bancoin Keeperilt kinnituse ootel ..."
             },
             "confirmRequestLedger": {
                 "cancel": "Tühista",
@@ -135,7 +135,7 @@
         "token": {
             "warning": {
                 "header": "Te nõustute, et:",
-                "text": "{div.line} [I) Te ei kasuta tokeni pettuse eesmärgil;]\n{div.line} [II) Te ei kopeeri täielikult või osaliselt olemasoleva krüptovaluuta või tuntud ettevõtte nime/kaubemärki, eesmärgiga eksitada kasutajaid;]\n{div.line} [III) Te ei kasuta tokeni nimes kasutajate eksitamiseks riiki, teisi haldusüksusi või kohalikke asutusi nime.]\n{div.line} [IV) Te ei loo skripti Smart Asset'ile, mis piirab Waves DEXi vahetustehinguid varade koguse järgi;]\n{div.line} [V) Te ei esitada Smart Asset'i kirjelduses valeandmeid, mis käsitlevad tokeni kasutamist reguleerivaid reegleid, mis ei vasta sellele paigaldatud skripti sisule;]",
+                "text": "{div.line} [I) Te ei kasuta tokeni pettuse eesmärgil;]\n{div.line} [II) Te ei kopeeri täielikult või osaliselt olemasoleva krüptovaluuta või tuntud ettevõtte nime/kaubemärki, eesmärgiga eksitada kasutajaid;]\n{div.line} [III) Te ei kasuta tokeni nimes kasutajate eksitamiseks riiki, teisi haldusüksusi või kohalikke asutusi nime.]\n{div.line} [IV) Te ei loo skripti Smart Asset'ile, mis piirab Bancoin DEXi vahetustehinguid varade koguse järgi;]\n{div.line} [V) Te ei esitada Smart Asset'i kirjelduses valeandmeid, mis käsitlevad tokeni kasutamist reguleerivaid reegleid, mis ei vasta sellele paigaldatud skripti sisule;]",
                 "textWarning": "Nende punktide eiramine toob kaasa, et teie token klassifitseeritakse rämpsiks ja seda saab otsida ainult ID alusel."
             }
         }

@@ -36,7 +36,7 @@
                 "required": "Selle välja täitmine on kohustuslik"
             },
             "fee": "Tasu {{fee, money-currency}}",
-            "ideLink": "Skripti saab arendada kasutade [Waves Ride IDE](https://ide.wavesplatform.com/)",
+            "ideLink": "Skripti saab arendada kasutade [Bancoin Ride IDE](https://ide.wavesplatform.com/)",
             "ok": "Kinnita",
             "textAreaTitle": "Base64 script",
             "warning": {
@@ -65,19 +65,19 @@
         "addressSaved": "Address saved",
         "back": "Mine tagasi",
         "error": {
-            "hasLockedKeeperDescription": "Waves Keeperiga töötamise jätkamiseks peate sisestama eelnevalt loodud salasõna või looma uue.",
-            "hasLockedKeeperHeader": "Sisestage salasõna Waves Keeperis",
+            "hasLockedKeeperDescription": "Bancoin Keeperiga töötamise jätkamiseks peate sisestama eelnevalt loodud salasõna või looma uue.",
+            "hasLockedKeeperHeader": "Sisestage salasõna Bancoin Keeperis",
             "hasNoUsersDescription": "Logige olemasolevasse kontosse või looge uus, seejärel proovige uuesti.",
             "hasNoUsersHeader": "Teil pole aktiivset kontot",
             "install": "Installige",
             "networkDescription": "Valitud konto on vales võrgus. Muutke võrku ja proovige uuesti.",
             "networkHeader": "Võrgu muutmine",
             "notInstalledDescription": "Pärast installimist looge konto, logige sisse ja värskendage leht jätkamiseks.",
-            "notInstalledHeader": "Teil pole Waves Keeperit?",
+            "notInstalledHeader": "Teil pole Bancoin Keeperit?",
             "refresh": "Uuesti proovima"
         },
-        "heading": "Impordi konto Waves Keeperist",
-        "loading": "Import account from the Waves Keeper",
+        "heading": "Impordi konto Bancoin Keeperist",
+        "loading": "Import account from the Bancoin Keeper",
         "login": "Jätka",
         "name": "Kontonimi",
         "nameExists": "That name is taken",
@@ -86,7 +86,7 @@
         "saveUserData": "Hoia mind selles arvutis sisse logituna"
     },
     "LedgerClient_utils": "Ledger Device",
-    "LedgerClientDescription": "Impordi konto Waves Keeperist",
+    "LedgerClientDescription": "Impordi konto Bancoin Keeperist",
     "modal": {
         "acceptNewTerms": {
             "title": "Terms of Use Agreement"
@@ -195,7 +195,7 @@
         },
         "deposit": {
             "coinomatBCH": {
-                "helpDescrText": "Kui tehing on kinnitatud, töötleb gateway BCH tokeni ülekannet teie Waves kontole.",
+                "helpDescrText": "Kui tehing on kinnitatud, töötleb gateway BCH tokeni ülekannet teie Bancoin kontole.",
                 "helpDescrTitle": "Sisestage see aadress oma Bitcoin Cash kliendisse või rahakoti",
                 "warningMinAmountText": "Kui saadate vähem kui {{minAmount, BigNumber}} {{assetTicker}}, kaotate selle raha.",
                 "warningMinAmountTitle": "Minimaalne sissemakse summa {{minAmount, BigNumber}} {{assetTicker}}",
@@ -203,7 +203,7 @@
                 "warningTitle": "Saatke selle deposiidi aadressile ainult BCH"
             },
             "coinomatBSV": {
-                "helpDescrText": "Once the transaction is confirmed, the gateway will process the transfer of BSV to a token in your Waves account.",
+                "helpDescrText": "Once the transaction is confirmed, the gateway will process the transfer of BSV to a token in your Bancoin account.",
                 "helpDescrTitle": "Enter this address into your Bitcoin Satoshi Vision client or wallet",
                 "warningMinAmountText": "Kui saadate vähem kui {{minAmount, BigNumber}} {{assetTicker}}, kaotate selle raha.",
                 "warningMinAmountTitle": "Minimaalne sissemakse summa {{minAmount, BigNumber}} {{assetTicker}}",
@@ -211,7 +211,7 @@
                 "warningTitle": "Saatke selle deposiidi aadressile ainult BSV"
             },
             "coinomatBTC": {
-                "helpDescrText": "Kui tehing on kinnitatud, töötleb gateway BTC tokeni ülekannet teie Waves kontole.",
+                "helpDescrText": "Kui tehing on kinnitatud, töötleb gateway BTC tokeni ülekannet teie Bancoin kontole.",
                 "helpDescrTitle": "Sisestage see aadress oma Bitcoini kliendisse või rahakoti",
                 "warningMinAmountText": "Kui saadate vähem kui {{minAmount, BigNumber}} {{assetTicker}}, kaotate selle raha.",
                 "warningMinAmountTitle": "Minimaalne sissemakse summa on {{minAmount, BigNumber}} {{assetTicker}}",
@@ -219,7 +219,7 @@
                 "warningTitle": "Saada selle deposiidi aadressile ainult BTC"
             },
             "coinomatDASH": {
-                "helpDescrText": "Kui tehing on kinnitatud, töötleb gateway DASH tokeni ülekannet teie Waves kontole.",
+                "helpDescrText": "Kui tehing on kinnitatud, töötleb gateway DASH tokeni ülekannet teie Bancoin kontole.",
                 "helpDescrTitle": "Sisestage see aadress oma DASH kliendisse või rahakoti",
                 "warningMinAmountText": "Kui saadate alla {{minAmount, BigNumber}} {{assetTicker}}, kaotate selle raha.",
                 "warningMinAmountTitle": "Minimaalne sissemakse summa on {{minAmount, BigNumber}} {{assetTicker}}",
@@ -227,7 +227,7 @@
                 "warningTitle": "Selle deposiidi aadressile saatke ainult DASH"
             },
             "coinomatETH": {
-                "helpDescrText": "Kui tehing on kinnitatud, töötleb gateway ETH tokeni ülekannet teie Waves kontole",
+                "helpDescrText": "Kui tehing on kinnitatud, töötleb gateway ETH tokeni ülekannet teie Bancoin kontole",
                 "helpDescrTitle": "Sisestage see aadress Ethereumi kliendisse või rahakoti",
                 "warningMinAmountText": "Kui saadate vähem kui {{minAmount, BigNumber}} {{assetTicker}}, kaotate selle raha.",
                 "warningMinAmountTitle": "Minimaalne sissemakse summa on {{minAmount, BigNumber}} {{assetTicker}}",
@@ -235,7 +235,7 @@
                 "warningTitle": "Palun ärge tehke sissemakset ETH smart-kontrakrtidelt! Ärge tehkse sissemakseid ERC20 tokenites! Ainult Ethereum on lubatud."
             },
             "coinomatLTC": {
-                "helpDescrText": "Kui tehing on kinnitatud, töötleb gateway LTC tokeni ülekannet teie Waves kontole",
+                "helpDescrText": "Kui tehing on kinnitatud, töötleb gateway LTC tokeni ülekannet teie Bancoin kontole",
                 "helpDescrTitle": "Sisestage see aadress oma Litecoini kliendisse või rahakoti",
                 "warningMinAmountText": "Kui saadate vähem kui {{minAmount, BigNumber}} {{assetTicker}}, kaotate selle raha.",
                 "warningMinAmountTitle": "Minimaalne sissemakse summa on {{minAmount, BigNumber}} {{assetTicker}}",
@@ -243,7 +243,7 @@
                 "warningTitle": "Saada selle deposiidi aadressile ainult LTC"
             },
             "coinomatXMR": {
-                "helpDescrText": "Kui tehing on kinnitatud, töötleb gateway XMR tokeni ülekannet teie Waves kontole",
+                "helpDescrText": "Kui tehing on kinnitatud, töötleb gateway XMR tokeni ülekannet teie Bancoin kontole",
                 "helpDescrTitle": "Sisestage see aadress oma Monero kliendisse või rahakoti",
                 "warningMinAmountText": "Kui saadate vähem kui {{minAmount, BigNumber}} {{assetTicker}}, kaotate selle raha.",
                 "warningMinAmountTitle": "Minimaalne sissemakse summa on {{minAmount, BigNumber}} {{assetTicker}}",
@@ -251,7 +251,7 @@
                 "warningTitle": "Saada selle deposiidi aadressile ainult XMR"
             },
             "coinomatZEC": {
-                "helpDescrText": "Kui tehing on kinnitatud, töötleb gateway ZEC tokeni ülekannet teie Waves kontole",
+                "helpDescrText": "Kui tehing on kinnitatud, töötleb gateway ZEC tokeni ülekannet teie Bancoin kontole",
                 "helpDescrTitle": "Sisestage see aadress Zcashi kliendisse või rahakoti",
                 "warningMinAmountText": "Kui saadate vähem kui {{minAmount, BigNumber}} {{assetTicker}}, kaotate selle raha.",
                 "warningMinAmountTitle": "Minimaalne sissemakse summa on {{minAmount, BigNumber}} {{assetTicker}}",
@@ -265,7 +265,7 @@
             "scanQrCode": "Skaneeri QR-koodi",
             "title": "Sissemaksta {{assetName}}",
             "wavesGatewayERGO": {
-                "helpDescrText": "Once the transaction is confirmed, the gateway will process the transfer of ERGO to a token in your Waves account.",
+                "helpDescrText": "Once the transaction is confirmed, the gateway will process the transfer of ERGO to a token in your Bancoin account.",
                 "helpDescrTitle": "Enter this address into your ERGO client or wallet",
                 "warningMinAmountText": "If you will send less than 0.1 ERGO, you will lose that money.",
                 "warningMinAmountTitle": "The minimum amount of deposit is 0.1 ERGO, the maximum amount of deposit is 50 000 ERGO",
@@ -273,7 +273,7 @@
                 "warningTitle": "Send only ERGO to this deposit address"
             },
             "wavesGatewayVST": {
-                "helpDescrText": "Once the transaction is confirmed, the gateway will process the transfer of Vostok to a token in your Waves account.",
+                "helpDescrText": "Once the transaction is confirmed, the gateway will process the transfer of Vostok to a token in your Bancoin account.",
                 "helpDescrTitle": "Enter this address into your Vostok client or wallet",
                 "warningMinAmountTitle": "The minimum amount of deposit is 0.1 VST, the maximum amount of deposit is 50 000 VST"
             }
@@ -294,7 +294,7 @@
         "gatewaySign": {
             "cancel": "Tühista",
             "continue": "Luba",
-            "description": "{{name}} saab juurdepääsu teie Waves aadressile. See ei saa teie salafraasi või privaatvõtit. Ärge sisestage oma salafraasi veebisaitidel, millele teid suunatakse.",
+            "description": "{{name}} saab juurdepääsu teie Bancoin aadressile. See ei saa teie salafraasi või privaatvõtit. Ärge sisestage oma salafraasi veebisaitidel, millele teid suunatakse.",
             "descriptionDesktop1": "Link avatakse teie vaikimisi veebibrauseris. Kui soovite kasutada teist veebibrauserit,",
             "descriptionDesktop2": "koopeerige",
             "descriptionDesktop3": "ja kleepige link oma aadressi ribale.",
@@ -303,16 +303,16 @@
                 "headline": "Midagi läks valesti",
                 "title": "Viga"
             },
-            "headline": "{span.link}[{{url}}] soovib juurdepääsu teie Waves Addressile",
+            "headline": "{span.link}[{{url}}] soovib juurdepääsu teie Bancoin Addressile",
             "retrySign": "Proovi uuesti",
-            "title": "Logige sisse Waves'dega",
+            "title": "Logige sisse Bancoin'dega",
             "txHash": "TXHASH",
             "warning": "Ärge sisestage oma salafraasi veebisaitidel, millele teid suunatakse."
         },
         "import": {
-            "errorBeta": "Me ei saanud teie kontosid Waves Beta Kliendist alla laadida. Proovige importida Waves Lite kliendist.",
+            "errorBeta": "Me ei saanud teie kontosid Bancoin Beta Kliendist alla laadida. Proovige importida Bancoin Lite kliendist.",
             "errorHeader": "Kontosid ei leitud",
-            "errorLite": "Me ei saanud teie kontosid Waves Lite kliendist alla laadida. Proovige importida Waves Beta Kliendist.",
+            "errorLite": "Me ei saanud teie kontosid Bancoin Lite kliendist alla laadida. Proovige importida Bancoin Beta Kliendist.",
             "errorUnable": "Me ei saanud teie kontosid alla laadida. Palun taastage need, kasutades oma salafraase.",
             "fromBetaButton": "Impordi Beta kliendist",
             "fromLiteButton": "Impordi Lite kliendist",
@@ -327,10 +327,10 @@
             "selectAccountToImport": "Valige, milliseid kontosid soovite importida",
             "selectAccountToImportFrom": "Valige, kust kontosid importida",
             "selectButton": "Vali",
-            "wavesBetaClient": "Waves Beta klient",
-            "wavesBetaClientDescription": "Importige kontosid Waves Beta kliendist",
-            "wavesLiteClient": "Waves Lite klient",
-            "wavesLiteClientDescription": "Importige kontosid Waves Lite kliendist"
+            "wavesBetaClient": "Bancoin Beta klient",
+            "wavesBetaClientDescription": "Importige kontosid Bancoin Beta kliendist",
+            "wavesLiteClient": "Bancoin Lite klient",
+            "wavesLiteClientDescription": "Importige kontosid Bancoin Lite kliendist"
         },
         "open-main": {
             "dex": {
@@ -386,7 +386,7 @@
             "scanQrCode": "Skaneeri QR-koodi",
             "title": "Jaga oma aadressi",
             "warningText": "Mis tahes muu digitaalse vara saatmine sellele aadressile toob kaasa teie raha püsiva kaotsimineku.",
-            "warningTitle": "Saada sellele aadressile ainult BCT ja Waves tokenid"
+            "warningTitle": "Saada sellele aadressile ainult BCT ja Bancoin tokenid"
         },
         "receive": {
             "accountStatus": "Konto staatus",
@@ -435,7 +435,7 @@
             "maximumIs": "maksimaalne on",
             "minimumIs": "Minimaalne on",
             "providedByCoinomat": {
-                "descriprion": "{div}[Seda teenust osutab Coinomat Company (edasi Сoinomat). Waves Platform AG ei võta endale vastutust Coinomati tegevuse eest ega võta mingit osa suhetes, mis võivad tekkida Coinomati ja Waves Platformi kasutajate vahel.]{div}[Kasutades Coinomat'i teenuseid nõustute [Coinomat'i kasutustingimustega ning tehingute läbiviimise tingimustega](https://coinomat.com/terms.php). Kui te ei nõustu nende tingimustega, ärge kasutage Coinomat'i teenuseid.]",
+                "descriprion": "{div}[Seda teenust osutab Coinomat Company (edasi Сoinomat). Bancoin Platform AG ei võta endale vastutust Coinomati tegevuse eest ega võta mingit osa suhetes, mis võivad tekkida Coinomati ja Bancoin Platformi kasutajate vahel.]{div}[Kasutades Coinomat'i teenuseid nõustute [Coinomat'i kasutustingimustega ning tehingute läbiviimise tingimustega](https://coinomat.com/terms.php). Kui te ei nõustu nende tingimustega, ärge kasutage Coinomat'i teenuseid.]",
                 "header": "Seda teenust osutab Coinomat Company (edasi Сoinomat).",
                 "termsReadedInputLabel": "Nõustun [Kasutustingimustega ning Tehingute Läbiviimise tingimustega](https://coinomat.com/terms.php), [Limiitidega](https://coinomat.com/limits.php) ja [Privaatsuspoliitikaga](https://coinomat.com/privacy.php).",
                 "warning": "Verifikatsiooni, maksete töötlemise või teie nõusoleku tühistamise probleemide korral võtke ühendust Coinomat'i tugimeeskonnaga — [support@coinomat.com](mailto:support@coinomat.com)"
@@ -465,8 +465,8 @@
             "warning": "Te pole salvestanud oma salafraasi"
         },
         "removeKeeperAccount": {
-            "heading": "Eemalda Waves Keeper konto",
-            "text": "See kustutab ainult selle konto salvestatud tee. See ei kustuta kontot Waves Keeperist."
+            "heading": "Eemalda Bancoin Keeper konto",
+            "text": "See kustutab ainult selle konto salvestatud tee. See ei kustuta kontot Bancoin Keeperist."
         },
         "removeLedgerAccount": {
             "heading": "Eemalda Ledger'i konto",
@@ -524,7 +524,7 @@
             "gateway": {
                 "feeExplanation": "We have detected a {{assetName}} address and will send your funds via a gateway to this address. The minimum amount is {{min, BigNumber}} {{assetTicker}}. The maximum amount is {{max, BigNumber}} {{assetTicker}}."
             },
-            "icoWarning": "Ärge saatke {{assetName}} ICO-le Waves rahakotist otse. Me ei saa teie kontole sellelt müügilt tokenid ülekanda.",
+            "icoWarning": "Ärge saatke {{assetName}} ICO-le Bancoin rahakotist otse. Me ei saa teie kontole sellelt müügilt tokenid ülekanda.",
             "idNumber": {
                 "helpIcon": {
                     "description": "Lisateavet raha väljavõtmise kohta pangakontole leiate [siin](https://docs.wavesplatform.com/en/waves-client/transfers-and-gateways/eur-usd-transfers.html).",
@@ -570,7 +570,7 @@
             "titleComplete": "Saatmine on lõpetatud",
             "toBank": "Võta raha välja pangakontole",
             "total": "Kokku",
-            "toWaves": "Saada Waves aadressile",
+            "toWaves": "Saada Bancoin aadressile",
             "txFee": "Tehingutasu",
             "validationError": {
                 "notEnoughFunds": "Teil ei ole piisavalt vahendeid nõutud tasude maksmiseks. Peate maksma {{fee, money-currency}} tehingutasu.",
@@ -602,7 +602,7 @@
             "general": {
                 "auto": "Automaatne",
                 "blockHeight": "Praegune kõrgus",
-                "blue": "Waves",
+                "blue": "Bancoin",
                 "color": "Värv",
                 "dark": "Tume",
                 "green": "Klassikaline",
@@ -627,9 +627,9 @@
             "message": "Seadete avamiseks logige sisse või looge konto",
             "network": {
                 "apiAddress": "Data service",
-                "apiAddressHelp": "The Data Service provides additional APIs for interacting with Waves blockchain data.",
+                "apiAddressHelp": "The Data Service provides additional APIs for interacting with Bancoin blockchain data.",
                 "assetNameFilter": "Naming service",
-                "assetNameFilterHelp": "This service checks the name of the token with the Waves token library.\nFor completely disable it, clear the field.",
+                "assetNameFilterHelp": "This service checks the name of the token with the Bancoin token library.\nFor completely disable it, clear the field.",
                 "copy": "koopeeri",
                 "dataProvider": "Andmepakkuja",
                 "dataProviderDescription": "{{dataProviderDescription}}",
@@ -654,7 +654,7 @@
                 "unavailable": {
                     "description": {
                         "ledger": "Eksport ei ole Ledger Nano S-s talletatud kontode jaoks saadaval",
-                        "wavesKeeper": "Waves Keeperist imporditud kontode eksportimine on saadaval Waves Keeper seadetes"
+                        "wavesKeeper": "Bancoin Keeperist imporditud kontode eksportimine on saadaval Bancoin Keeper seadetes"
                     },
                     "header": {
                         "ledger": "Eksport pole saadaval",
@@ -686,7 +686,7 @@
             "confirm": "Kinnita",
             "confirmRequest": "Kinnita päring",
             "confirmRequest_utils": "Confirm request",
-            "confirmRequestKeeper": "Waves Keeperilt kinnituse ootel ...",
+            "confirmRequestKeeper": "Bancoin Keeperilt kinnituse ootel ...",
             "confirmRequestLedger": {
                 "cancel": "Tühista",
                 "errorDescription": "Palun proovige uuesti. Kui viga püsib, vaadake palun [käesolev artikkel](https://support.ledgerwallet.com/hc/en-us/articles/115005165269-Fix-connection-issues)",
@@ -697,7 +697,7 @@
             "confirmRequestMatcher_utils": "Sign a request to the Matcher. If you do not sign it, you cannot trade on DEX from a Ledger account.",
             "confirmRequestToMatcher": "Kinnitage päring Matcher'ile. Kui te seda ei kinnita, ei saa Te DEX-il kaubelda.",
             "connecting": "Ühendamine ...",
-            "connectingKeeper": "Ühendamine Waves Keeper'iga...",
+            "connectingKeeper": "Ühendamine Bancoin Keeper'iga...",
             "connectionError": "Ledger'iga ei ole võimalik ühendust saada",
             "connectionErrorKeeper": "Kontole ei ole võimalik pääseda",
             "connectionText": "Ühendus võib olla aegunud. Palun proovi uuesti.",
@@ -705,19 +705,19 @@
             "enterPin": "Sisestage oma PIN-kood",
             "fee": "Tasu",
             "matcher": "Kinnitage orderite päringud",
-            "openApp": "Avage Waves rakendus",
+            "openApp": "Avage Bancoin rakendus",
             "price": "Hind",
             "refererTo": "Kui viga püsib, vaadake palun",
             "referTo": "Kui viga püsib, vaadake palun",
             "request": "päring",
             "requestId": "Päringu hash",
             "retry": "Proovi uuesti",
-            "signByKeeper": "Waves Keeperilt kinnituse ootel ...",
+            "signByKeeper": "Bancoin Keeperilt kinnituse ootel ...",
             "signByLedger": "Waiting for confirmation on Ledger Device…",
             "signError": "Päring ei olnud kinnitatud",
-            "signErrorKeeper": "Te ei kinnitanud päringut Waves Keeperiga",
+            "signErrorKeeper": "Te ei kinnitanud päringut Bancoin Keeperiga",
             "signErrorText": "Te ei kinnitanud päringut teie Ledger Nano S-s",
-            "signErrorTextImportKeeper": "Logige sisse Waves Keeperisse aadressiga {{address}} ja seejärel värskendage leht jätkamiseks.",
+            "signErrorTextImportKeeper": "Logige sisse Bancoin Keeperisse aadressiga {{address}} ja seejärel värskendage leht jätkamiseks.",
             "signErrorTextKeeper": "Palun proovi uuesti. Kui viga püsib, looge pilet [kasutajatoele](https://support.wavesplatform.com/)",
             "txId": "TXID"
         },
@@ -754,18 +754,18 @@
         "termsAccept": {
             "body": {
                 "advancedMode": "Täiustatud funktsioonid",
-                "analytics": "Sooviksin parandada Waves platvormi, saates arendajatele anonüümset kasutusstatistikat.",
-                "backup": "Ma saan aru, et kui see rakendus teisaldatakse teise seadmesse või kustutatakse, saab minu Waves rahakottid taastada ainult salafraasiga.",
+                "analytics": "Sooviksin parandada Bancoin platvormi, saates arendajatele anonüümset kasutusstatistikat.",
+                "backup": "Ma saan aru, et kui see rakendus teisaldatakse teise seadmesse või kustutatakse, saab minu Bancoin rahakottid taastada ainult salafraasiga.",
                 "ok": "Kinnita ja Alusta",
                 "privacyPolicy": "I have read and agree with the [Privacy Policy](https://wavesplatform.com/files/docs/Privacy Policy_SW.pdf).",
                 "read": "Olen lugenud, mõistnud ja nõustunud",
                 "readTermsAndConditions": "I have read and agree with the [Terms and Conditions](https://wavesplatform.com/files/docs/Waves_terms_and_conditions.pdf).",
                 "security": "Ma saan aru, et minu raha hoitakse turvaliselt selles seadmes, mitte ettevõtte poolt",
-                "securityAndBackup": "I understand that my funds are held securely on this device, not by a company. If this app is moved to another device or deleted, my Waves can only be recovered with the backup phrase.",
+                "securityAndBackup": "I understand that my funds are held securely on this device, not by a company. If this app is moved to another device or deleted, my Bancoin can only be recovered with the backup phrase.",
                 "terms": "Kasutustingimused"
             },
             "header": {
-                "description": "Waves on erinev — rahakott on teie seadmes turvaliselt salvestatud",
+                "description": "Bancoin on erinev — rahakott on teie seadmes turvaliselt salvestatud",
                 "title": "Valmis! Vaatame üle",
                 "title2": "Kasutustingimused"
             }
@@ -804,17 +804,17 @@
                 "buttonMobile": "Järgmine",
                 "p1": "Palun võtke aega, et mõista teie jaoks olulisi asju. 🙏",
                 "p2": "Me ei saa teie raha tagasi saada ega teie kontot külmutada, kui külastate andmepüügisaite või kaotate varukoopia (salafraas).",
-                "p3": "Jätkates meie platvormi kasutamist, nõustute nõustuma kõigi riskidega, mis on seotud teie salafraasi kadumisega, sealhulgas, kuid mitte ainult, suutmatus teie raha saada ja neid käsutada. Kui te kaotate oma salafraasi, nõustute ja tunnistate, et Waves Platform ei vastuta selle negatiivsete tagajärgede eest.",
-                "title": "Tere tulemast Waves Platformi!"
+                "p3": "Jätkates meie platvormi kasutamist, nõustute nõustuma kõigi riskidega, mis on seotud teie salafraasi kadumisega, sealhulgas, kuid mitte ainult, suutmatus teie raha saada ja neid käsutada. Kui te kaotate oma salafraasi, nõustute ja tunnistate, et Bancoin Platform ei vastuta selle negatiivsete tagajärgede eest.",
+                "title": "Tere tulemast Bancoin Platformi!"
             },
             "step2": {
                 "backButton": "Mine tagasi",
                 "cell1": "Kasutate oma rahakotti anonüümselt, mis tähendab, et teie kontot ei ole ühendatud e-posti kontoga või muude identifitseerimisandmetega.",
                 "cell2": "Teie parool kaitseb teie kontot teatud seadmes või brauseris töötades. See on vajalik, et tagada, et teie salafraas ei oleks otse salvestatud mällu.",
                 "cell3": "Kui unustate oma parooli, saate hõlpsasti luua uue, kasutades oma salafraasi kaudu konto taastamise võimalust. Kui te kaotate oma salafraasi, ei ole teil mingit võimalust oma kontole juurde pääseda.",
-                "cell4": "Sa ei saa oma salafraasi muuta. Kui saatsite selle kogemata kellelegi või kahtlustate, et petturid on selle üle võtnud, looge kohe uus Waves konto ja kandke oma raha üle.",
+                "cell4": "Sa ei saa oma salafraasi muuta. Kui saatsite selle kogemata kellelegi või kahtlustate, et petturid on selle üle võtnud, looge kohe uus Bancoin konto ja kandke oma raha üle.",
                 "nextButton": "Kaitske ennast",
-                "p1": "Konto registreerimisel palutakse teil salvestada teie salafraas ja kaitsta oma kontot parooliga. Tavalistes tsentraliseeritud serverites pööratakse erilist tähelepanu paroolile, mida saab vajadusel e-posti teel muuta ja lähtestada. Detsentraliseeritud platvormidel, nagu näiteks Waves, on kõik paigutatud erinevalt:",
+                "p1": "Konto registreerimisel palutakse teil salvestada teie salafraas ja kaitsta oma kontot parooliga. Tavalistes tsentraliseeritud serverites pööratakse erilist tähelepanu paroolile, mida saab vajadusel e-posti teel muuta ja lähtestada. Detsentraliseeritud platvormidel, nagu näiteks Bancoin, on kõik paigutatud erinevalt:",
                 "title": "Mida on vaja teada oma salafraasi kohta"
             },
             "step3": {
@@ -854,28 +854,28 @@
     "utils": {
         "whatsNew": {
             "body": {
-                "1_0_0": "{span.line}[1. Waves Client on beetaversioonist välja tulnud.]{span.line}[2. Nüüd saate põhilehele lisada ja eemaldada kõik varad.]{span.line}[3. Lisati öörežiim.]{span.line}[4. Nüüd saate hõlpsasti importida kõik oma kontod vanast kliendist.]{span.line}[5. Väikesed veaparandused.]",
+                "1_0_0": "{span.line}[1. Bancoin Client on beetaversioonist välja tulnud.]{span.line}[2. Nüüd saate põhilehele lisada ja eemaldada kõik varad.]{span.line}[3. Lisati öörežiim.]{span.line}[4. Nüüd saate hõlpsasti importida kõik oma kontod vanast kliendist.]{span.line}[5. Väikesed veaparandused.]",
                 "1_0_0-beta_23": "{span.line}[1. Oleme lisanud 'Mis on uus' alamlehe!]{span.line}[2. Nüüd saate oma kontole nime lisada.]{span.line}[3. Mõned väikesed vead on parandatud.]",
                 "1_0_0-beta_25": "{span.line}[1. Nüüd saate muuta seansi aega seadetes.]{span.line}[2. Oleme parandanud DEXi ostu-müügi akent, et vältida selle väljumist vaateväljast.]{span.line}[3. Me nüüd tuletame teile meelde, kui te pole oma salafraasii salvestanud.]{span.line}[4. Mõned väikesed vead on parandatud.]",
                 "1_0_0-beta_26": "{span.line}[1. Mõned väikesed vead on parandatud.]",
                 "1_0_0-beta_27": "{span.line}[1. Lisatud Hiina keel.]{span.line}[2. Lisatud Türgi keel.]",
-                "1_0_0-beta_30": "{span.line}[1. Nüüd saate oma loodud tokenid hävitada ning uuesti emiteerida.]{span.line}[2. Lisatud Waves Auth API tugi.]{span.line}[3. Mõned väikesed vead on parandatud.]",
+                "1_0_0-beta_30": "{span.line}[1. Nüüd saate oma loodud tokenid hävitada ning uuesti emiteerida.]{span.line}[2. Lisatud Bancoin Auth API tugi.]{span.line}[3. Mõned väikesed vead on parandatud.]",
                 "1_0_0-beta_31": "{span.line}[1. Nüüd saate osta BCT ja BTC krediitkaardiga.]{span.line}[2. Parendatud kasutajaliidest ostu / müügi aknas.]{span.line}[3. Lisatud tugi 32-bitisele Windowsile.]{span.line}[4. Paljud muud vead parandatud.]",
-                "1_0_0-beta_32": "{span.line}[1. Nüüd saate Waves Kliendis massülekandeid teha.]{span.line}[2. Mõned väikesed vead on parandatud.]",
+                "1_0_0-beta_32": "{span.line}[1. Nüüd saate Bancoin Kliendis massülekandeid teha.]{span.line}[2. Mõned väikesed vead on parandatud.]",
                 "1_0_0-beta_35": "{span.line}[1. Nüüd saate sorteerida, filtreerida ja peita tokeneid vahekaardil Portfolio.]{span.line}[2. DASH-lüüs on käivitatud.]{span.line}[3. Hindi keele tugi on lisatud.]{span.line}[4. Hollandi keele tugi on lisatud.]{span.line}[5. Saate nüüd teistele kasutajatele arveid esitada.]{span.line}[6. Väikesed vead on parandatud.]",
                 "1_0_0-beta_36": "{span.line}[1. Suurimad liisingusõlmed on liisingu leheküljel loetletud.]{span.line}[2. Mõned vead on parandatud.]",
                 "1_0_0-beta_39": "{span.line}[1. Spam-tokenite filter on lisatud menüüsse Seaded.]{span.line}[2. Väikesed vead on parandatud.]",
                 "1_0_0-beta_40": "{span.line}[1. Monero lüüs on käivitatud.]",
-                "1_0_0-beta_42": "{span.line}[1. Hispaania keele tugi on lisatud.]{span.line}[2. Waves Klienti saab vaikimisi kasutada ilma konto üksikasju salvestamata.]{span.line}[3. Spam-tokenid on nüüd identifitseeritud Transaktsioonide lehel.]{span.line}[4. Väikesed vead on parandatud.]",
-                "1_0_0-beta_47": "{span.line}[1. Täiesti uus DEX UI käivitatud.]{span.line}[2. Kiirem ja stabiilsem Waves Klient.]{span.line}[3. Aliase funktsionaalsus on taas saadaval.]{span.line}[4. Mõned väikesed vead on parandatud.]{span.line}[5. Osalege meie võistlustel, tehes [video](https://forum.wavesplatform.com/t/contest-best-waves-dex-video-review/822) või kirjutades [artikli](https://forum.wavesplatform.com/t/contest-for-the-writers-waves-dex-overview/835).]",
-                "1_0_0-beta_50": "{span.line}[1. Nüüd saate hävitada kõik oma kontol olevad tokenid (va Waves).]{span.line}[2. Väikesed vead on parandatud.]",
+                "1_0_0-beta_42": "{span.line}[1. Hispaania keele tugi on lisatud.]{span.line}[2. Bancoin Klienti saab vaikimisi kasutada ilma konto üksikasju salvestamata.]{span.line}[3. Spam-tokenid on nüüd identifitseeritud Transaktsioonide lehel.]{span.line}[4. Väikesed vead on parandatud.]",
+                "1_0_0-beta_47": "{span.line}[1. Täiesti uus DEX UI käivitatud.]{span.line}[2. Kiirem ja stabiilsem Bancoin Klient.]{span.line}[3. Aliase funktsionaalsus on taas saadaval.]{span.line}[4. Mõned väikesed vead on parandatud.]{span.line}[5. Osalege meie võistlustel, tehes [video](https://forum.wavesplatform.com/t/contest-best-waves-dex-video-review/822) või kirjutades [artikli](https://forum.wavesplatform.com/t/contest-for-the-writers-waves-dex-overview/835).]",
+                "1_0_0-beta_50": "{span.line}[1. Nüüd saate hävitada kõik oma kontol olevad tokenid (va Bancoin).]{span.line}[2. Väikesed vead on parandatud.]",
                 "1_0_10": "{span.line}[1. Lisati sponsorluse transaktsioonide tugi. [Loe rohkem](https://docs.wavesplatform.com/et/waves-client/assets-management/sponsored-transaction.html)]{span.line}[2. Lisati Poola ja Portugali keelte tugi.]",
-                "1_0_14": "{span.line}[1. Parandatud viga, millega sai kasutada sponsorlusega tokenit ilma Waves tokenita sponsori kontol.]\n{span.line} [2. Parandatud viga 30-päevase orderi tähtaja kasutamisel.]\n{span.line} [3. Mõned teised väikesed vead on parandatud.]",
+                "1_0_14": "{span.line}[1. Parandatud viga, millega sai kasutada sponsorlusega tokenit ilma Bancoin tokenita sponsori kontol.]\n{span.line} [2. Parandatud viga 30-päevase orderi tähtaja kasutamisel.]\n{span.line} [3. Mõned teised väikesed vead on parandatud.]",
                 "1_0_15": "{span.line}[1. Ledger'il kinnitamisega seotud probleemid on lahendatud.]\n{span.line}[2. Suurendatud ooteaeg kinnituse saamiseks Ledger'ilt.]\n{span.line}[3. Üksikasjalik teave on lisatud veateadetele.]",
                 "1_0_18": "{span.line}[1. Nüüd saate oma kontole skripti määrata.]\n{span.line}[2. Väikesed vead on parandatud.]",
                 "1_0_21": "{span.line}[1. Ledgeri kaudu autoriseerimise kinnitamine parandatud.]{span.line}[2. Paljud väiksemad vead on parandatud.]",
                 "1_0_22": "{span.line}[1. Lisati täiustatud funktsioone skriptidega kontodega töötamiseks.]",
-                "1_0_25": "{span.line} [1. [Waves Keeper](https://chrome.google.com/webstore/detail/waves-keeper/lpilbniiabackdjcionkobglmddfbcjo?hl=et) tugi on lisatud.]",
+                "1_0_25": "{span.line} [1. [Bancoin Keeper](https://chrome.google.com/webstore/detail/waves-keeper/lpilbniiabackdjcionkobglmddfbcjo?hl=et) tugi on lisatud.]",
                 "1_0_27": "{span.line}[1. Lisatud on \"Minu varad\" kategooria Portfolios.]\n{span.line}[2. Väikesed vead on parandatud.]",
                 "1_0_28": "{span.line}[1. Lisati sidumisfunktsioon olemasolevate kontode mobiilseadmetele importimiseks.]\n{span.line}[2. Väikesed vead on parandatud.]",
                 "1_0_29": "{span.line}[1. QR-koodi genereerimine kirillitsa tähtega on parandatud.]\n{span.line}[2. Lisatud on jälgimisnimekirja otsingu tööriistariba.]\n{span.line}[3. Kosmeetilised parandused. ]",
@@ -889,14 +889,14 @@
                 "1_0_41": "{span.line}[1. DEX optimeerimine.]\n{span.line}[2. Teavitamissüsteem lisatud.]\n{span.line}[3. Parandatud väiksemad vead.]",
                 "1_0_42": "{span.line}[1. Prandatud väiksemad vead.]",
                 "1_0_5": "{span.line}[1. Kauplemisskaala mahud on lisatud DEX-tabelitele.]\n{span.line}[2. Täiendavad väikesed vead on parandatud.]",
-                "1_0_6": "{span.line}[1. Waves Desktop Client'i kaudu on lisatud autoriseerimine.]",
+                "1_0_6": "{span.line}[1. Bancoin Desktop Client'i kaudu on lisatud autoriseerimine.]",
                 "1_0_7": "{span.line}[1. Mõned töölaua-kliendi kokku-jooksud olid parandatud.]\n{span.line}[2. Optimeeritud üleminek TX- ja portfellilehekülgede vahel suure sisuga.]\n{span.line}[3. Rämps-tokenite nimed on TX-loendis peidetud.]\n{span.line}[4. Veateadete väljundid on ümber töötatud.]",
                 "1_0_8": "{span.line}[1. Lisatud on Ledger nano S tugi.]\n{span.line}[2. Lisati uus valik autoriseerimismeetodi valimiseks.]",
                 "1_1_0": "{span.line}[1. Orderi aegumise periood on nüüd vaikimisi salvestatud.]\n{span.line}[2. Parandatud väiksemad vead.]",
                 "1_2_0": "{span.line}[1. Added Japanese and Estonian languages.]\n{span.line}[2. Improved UI in the Buy/Sell window.]\n{span.line}[3. Numerous minor bugs fixed.]",
                 "1_2_1": "{span.line}[1. The application now saves the chart size and scale settings as well as the time interval.]\n{span.line}[2. Fixed minor bugs.]",
                 "1_2_2": "{span.line}[1. Security updates.]{span.line}[2. Fixed minor bugs.]",
-                "1_2_3": "{span.line}[1. Added support for Ledger Waves 1.0.0 app.]",
+                "1_2_3": "{span.line}[1. Added support for Ledger Bancoin 1.0.0 app.]",
                 "1_2_6": "{span.line}[1. Invocation script transaction support added. [Read more](https://blog.wavesplatform.com/ride-for-dapps-hits-waves-testnet-e3f2906dd2aa)]\n{span.line}[2. Improved UI and additional minor bugs have been fixed.]",
                 "1_2_8": "{span.line}[1. Spam tokens and transactions have been hidden in client.]\n{span.line}[2. Improved UI and additional minor bugs have been fixed.]",
                 "1_3_0": "{span.line}[1. Improved app navigation and start page interface.]",

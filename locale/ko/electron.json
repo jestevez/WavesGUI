@@ -14,7 +14,7 @@
     "modal": {
         "set_protocol_error": {
             "close": "닫기",
-            "message": "Waves 클라이언트 실행을 위해 default 프로토콜로 설정할 수 없습니다. 브라우저에서 링크가 일시적으로 지원되지 않습니다!",
+            "message": "Bancoin 클라이언트 실행을 위해 default 프로토콜로 설정할 수 없습니다. 브라우저에서 링크가 일시적으로 지원되지 않습니다!",
             "report": "리포팅",
             "title": "Set open 프로토콜 오류"
         }

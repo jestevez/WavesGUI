@@ -61,7 +61,7 @@
         "feb2017": {
             "date": "Desember 2017",
             "text": "Versi pertama dari pertukaran bawaan diluncurkan diluncurkan.",
-            "title": "Waves DEX Beta"
+            "title": "Bancoin DEX Beta"
         },
         "feb2018": {
             "date": "Februari 2018",
@@ -70,7 +70,7 @@
         },
         "jan2019": {
             "date": "Januari 2019",
-            "text": "Dukungan untuk perdagangan di Waves DEX dengan Akun Cerdas diaktifkan.",
+            "text": "Dukungan untuk perdagangan di Bancoin DEX dengan Akun Cerdas diaktifkan.",
             "text_2": "Peluncuran gateway Bitcoin Satoshi Vision",
             "title": "Perdagangan Akun Cerdas",
             "title_2": "BSV Gateway"
@@ -80,12 +80,12 @@
             "text": "Pertukaran diluncurkan menawarkan UX dan kinerja yang lebih baik daripada DEX lainnya di pasar.",
             "text_2": "Dompet populer keluar dari versi beta dengan rilis baru yang besar.",
             "title": "DEX baru",
-            "title_2": "Dompet Waves"
+            "title_2": "Dompet Bancoin"
         },
         "jul2019": {
             "date": "Juli 2019",
-            "text": "Penambahan ERC20 token gateway ke ekosistem Waves, artinya token Ethereum yang populer dapat diperdagangkan di platform.",
-            "text_2": "Pengembang telah menyederhanakan proses pengembangan seluler dan mendapatkan deskripsi komprehensif untuk cara berinteraksi dengan blockchain Waves.",
+            "text": "Penambahan ERC20 token gateway ke ekosistem Bancoin, artinya token Ethereum yang populer dapat diperdagangkan di platform.",
+            "text_2": "Pengembang telah menyederhanakan proses pengembangan seluler dan mendapatkan deskripsi komprehensif untuk cara berinteraksi dengan blockchain Bancoin.",
             "text_3": "Pengguna memiliki kemampuan untuk beralih dengan mudah antara beberapa akun dalam satu aplikasi dompet.",
             "title": "ERC-20 Gateway",
             "title_2": "Peningkatan perpustakaan SDK dan JS seluler",
@@ -108,12 +108,12 @@
         },
         "sep2018": {
             "date": "September 2018",
-            "text": "Integrasi dengan Waves DEX memungkinkan pengguna untuk berdagang dengan keamanan maksimum.",
+            "text": "Integrasi dengan Bancoin DEX memungkinkan pengguna untuk berdagang dengan keamanan maksimum.",
             "title": "Ledger Nano S"
         },
         "sep2019": {
             "date": "September 2019",
-            "text": "Otentikasi dua faktor memberi pengguna Waves DEX keamanan yang lebih besar.",
+            "text": "Otentikasi dua faktor memberi pengguna Bancoin DEX keamanan yang lebih besar.",
             "title": "2FA"
         }
     },
@@ -133,16 +133,16 @@
         "api": "API",
         "apple": "Toko aplikasi",
         "blog": "Blog",
-        "broughtBy": "Dipersembahkan oleh Tim Waves",
+        "broughtBy": "Dipersembahkan oleh Tim Bancoin",
         "cancel": "Batalkan",
         "change": "UBAH",
         "changeName": "Ganti Nama",
         "chart": "GRAFIK",
-        "contestLinkDescription": "Menangkan 5.000 BCT dalam kontes perdagangan di Waves DEX!",
+        "contestLinkDescription": "Menangkan 5.000 BCT dalam kontes perdagangan di Bancoin DEX!",
         "contestLinkLink": "Aturan",
         "controlAssets": "Kontrol aset adalah milik Anda sendiri - dana tidak meninggalkan dompet Anda dan tidak dapat dibekukan",
         "copyAddress": "Salin alamat",
-        "copyright": "© 2019 Waves Platform",
+        "copyright": "© 2019 Bancoin Platform",
         "createToken": "Buat token",
         "currentAccountName": "Nama akun saat ini",
         "dashboard": "Dasbor",
@@ -180,7 +180,7 @@
         "mainPage": "Halaman Utama",
         "majorFiatCryptocurrencies": "Fiat dan cryptocurrency utama didukung: BTC, LTC, ETH, USD, dan lainnya",
         "markets": "Pasar",
-        "marketsDescription": "Waves DEX memungkinkan Anda untuk melakukan perdagangan dengan cepat dan aman, terlepas dari apakah Anda berdagang melalui aplikasi seluler, klien desktop, dompet web atau Waves API.",
+        "marketsDescription": "Bancoin DEX memungkinkan Anda untuk melakukan perdagangan dengan cepat dan aman, terlepas dari apakah Anda berdagang melalui aplikasi seluler, klien desktop, dompet web atau Bancoin API.",
         "marketsTableDescription": "Untuk melihat lebih banyak pasangan yang diperdagangkan, klik",
         "marketsTableDescriptionLink": "Lihat Exchange",
         "menu": "Menu",
@@ -194,7 +194,7 @@
         "productsTools": "Produk & alat",
         "renameAccount": "Ganti nama akun",
         "roadmap": "Peta jalan",
-        "roadmapOpportunitiesAhead": "Masa depan Waves DEX: peta jalan kami untuk peluang di masa depan.",
+        "roadmapOpportunitiesAhead": "Masa depan Bancoin DEX: peta jalan kami untuk peluang di masa depan.",
         "save": "Simpan",
         "scanQrCode": "Pindai kode QR",
         "scriptAccount": "Akun skrip",
@@ -209,20 +209,20 @@
         "termsOfUse": "Syarat Penggunaan",
         "tokenCreation": "Pembuatan token cepat",
         "tokenCreationCosts": "Biaya pembuatan token hanya 1 BCT dan memakan waktu 1 menit",
-        "tradeOnWaves": "Perdagangan di Bursa Desentralisasi Waves",
+        "tradeOnWaves": "Perdagangan di Bursa Desentralisasi Bancoin",
         "tradeOnWavesDescription": "Beli dan jual token dengan cepat dan aman dengan semua keuntungan dari pertukaran terpusat, tetapi tetap memegang kendali penuh atas dana Anda.",
         "transactions": "Transaksi",
         "twitter": "Twitter",
         "volume": "VOLUME",
         "wallet": "Dompet",
-        "wavesBlockchain": "Waves Blockchain",
-        "wavesDexWeb": "Web Waves DEX",
-        "wavesExplorer": "Waves Explorer",
-        "wavesIde": "Waves IDE",
-        "wavesKeeper": "Waves Keeper",
-        "wavesLabs": "Waves Labs",
-        "wavesOrderFilled": "0,003 Waves per pesanan diisi",
-        "wavesWallet": "Dompet Waves",
+        "wavesBlockchain": "Bancoin Blockchain",
+        "wavesDexWeb": "Web Bancoin DEX",
+        "wavesExplorer": "Bancoin Explorer",
+        "wavesIde": "Bancoin IDE",
+        "wavesKeeper": "Bancoin Keeper",
+        "wavesLabs": "Bancoin Labs",
+        "wavesOrderFilled": "0,003 Bancoin per pesanan diisi",
+        "wavesWallet": "Dompet Bancoin",
         "windows": "Windows",
         "windowsDescription": "Unduh aplikasi Windows"
     }

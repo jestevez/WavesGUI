@@ -78,8 +78,8 @@
         "tryDesktop": {
             "cancel": "Continuer sur le web",
             "label": "Se souvenir de mon choix et ne plus me le rappeler",
-            "message": "Nous recommandons que vous utilisiez l'application de bureau Waves. Si vous ne l'avez pas, vous pouvez la télécharger depuis le site officiel.",
-            "title": "Utiliser l'application de bureau Waves",
+            "message": "Nous recommandons que vous utilisiez l'application de bureau Bancoin. Si vous ne l'avez pas, vous pouvez la télécharger depuis le site officiel.",
+            "title": "Utiliser l'application de bureau Bancoin",
             "try": "Ouvrir l'application de bureau"
         }
     },

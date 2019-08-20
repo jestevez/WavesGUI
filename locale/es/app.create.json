@@ -44,7 +44,7 @@
         "confirmBackupDescription": "Verificar tu frase de respaldo",
         "next": "Confirmar",
         "prev": "Ir atrás",
-        "successContent": "No puedes cambiar tu frase secreta. Si accidentalmente se la enviaste a alguien o sospechas que algún estafador se ha apoderado de ella, crea inmediatamente una nueva cartera de Waves y transfiere todos tus fondos a ella.",
+        "successContent": "No puedes cambiar tu frase secreta. Si accidentalmente se la enviaste a alguien o sospechas que algún estafador se ha apoderado de ella, crea inmediatamente una nueva cartera de Bancoin y transfiere todos tus fondos a ella.",
         "successHeadline": "¡Trata tu frase de respaldo con cuidado!",
         "understand": "Lo entiendo"
     },
@@ -52,9 +52,9 @@
         "backup": "Haz el respaldo ahora",
         "description": "Debes guardar la frase secreta (SEED). Esta es crucial para acceder a tu cuenta.",
         "modal": {
-            "descriptionP1": "Waves Platform quiere advertirte sobre el incremento de ataques de estafa y suplantación de identidad durante el último mes. Los estafadores ocultan su malware en sus propias versiones del cliente Waves y prometen bonificaciones y descuentos para atraer a los usuarios.",
+            "descriptionP1": "Bancoin Platform quiere advertirte sobre el incremento de ataques de estafa y suplantación de identidad durante el último mes. Los estafadores ocultan su malware en sus propias versiones del cliente Bancoin y prometen bonificaciones y descuentos para atraer a los usuarios.",
             "descriptionP2": "Por favor, ten cuidado y nunca introduzcas tu frase de respaldo (SEED) en estos 'clientes', porque tu cuenta puede ser comprometida y perder todos tus fondos.",
-            "descriptionP3": "Deberías confiar SOLO en el cliente oficial de Waves.",
+            "descriptionP3": "Deberías confiar SOLO en el cliente oficial de Bancoin.",
             "ok": "Lo entiendo",
             "title": "¡Trata tu frase de respaldo con cuidado!"
         },

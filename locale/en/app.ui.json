@@ -75,7 +75,7 @@
         "success": "Your transaction is on the way!",
         "wavesKeeperUnconfirmed": {
             "description": "Please try again. If the error persists, please submit a ticket to [support](https://support.wavesplatform.com)",
-            "header": "You did not confirm the request using Waves Keeper"
+            "header": "You did not confirm the request using Bancoin Keeper"
         }
     },
     "copyError": "Cannot copy! Your browser may be outdated",
@@ -99,9 +99,9 @@
             "confirmRequestKeeper": {
                 "cancel": "Cancel",
                 "errorDescription": "Please try again. If the error persists, please submit a ticket to [support](https://support.wavesplatform.com)",
-                "errorHeader": "You did not confirm the request using Waves Keeper",
+                "errorHeader": "You did not confirm the request using Bancoin Keeper",
                 "sign": "Retry",
-                "waiting": "Waiting for confirmation from Waves Keeper..."
+                "waiting": "Waiting for confirmation from Bancoin Keeper..."
             },
             "confirmRequestLedger": {
                 "cancel": "Cancel",
@@ -135,7 +135,7 @@
         "token": {
             "warning": {
                 "header": "You agree that:",
-                "text": "{div.line}[I) You will not use the token for fraudulent purposes;]\n{div.line}[II) You will not duplicate, fully or in part, the name of an existing cryptocurrency or a well-known company with the aim of misleading users;]\n{div.line}[III) You will not use names of states, other administrative units or municipal institutions for the token's name with the aim of misleading users;]\n{div.line}[IV) You will not set a script on a smart asset that limits exchange transactions on Waves DEX by asset quantity;]\n{div.line}[V) You will not give false information in a smart asset's description concerning the rules governing the token's use, which do not correspond to those of the script installed on it;]",
+                "text": "{div.line}[I) You will not use the token for fraudulent purposes;]\n{div.line}[II) You will not duplicate, fully or in part, the name of an existing cryptocurrency or a well-known company with the aim of misleading users;]\n{div.line}[III) You will not use names of states, other administrative units or municipal institutions for the token's name with the aim of misleading users;]\n{div.line}[IV) You will not set a script on a smart asset that limits exchange transactions on Bancoin DEX by asset quantity;]\n{div.line}[V) You will not give false information in a smart asset's description concerning the rules governing the token's use, which do not correspond to those of the script installed on it;]",
                 "textWarning": "Failure to observe these points will lead to your token being classified as suspicious, and it will be available to search only by ID."
             }
         }

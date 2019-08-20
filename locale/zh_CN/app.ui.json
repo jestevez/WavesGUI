@@ -75,7 +75,7 @@
         "success": "您的交易正在进行中！",
         "wavesKeeperUnconfirmed": {
             "description": "请再试一次。如果错误仍然存在，请向[support]（https://support.wavesplatform.com）提交一张票",
-            "header": "您没有使用Waves Keeper确认请求"
+            "header": "您没有使用Bancoin Keeper确认请求"
         }
     },
     "copyError": "不能复制！您的浏览器可能已过时",
@@ -99,9 +99,9 @@
             "confirmRequestKeeper": {
                 "cancel": "取消",
                 "errorDescription": "请再试一次。如果错误仍然存在，请向[support]（https://support.wavesplatform.com）提交一张票",
-                "errorHeader": "您没有使用Waves Keeper确认请求",
+                "errorHeader": "您没有使用Bancoin Keeper确认请求",
                 "sign": "重试",
-                "waiting": "等待来自Waves Keeper的确认......"
+                "waiting": "等待来自Bancoin Keeper的确认......"
             },
             "confirmRequestLedger": {
                 "cancel": "取消",
@@ -135,7 +135,7 @@
         "token": {
             "warning": {
                 "header": "您同意：",
-                "text": "{div.line}[I]您不会将该代币用于欺诈目的;] \n {div.line}[II]您不会完全或部分复制现有加密货币或知名公司的名称，以误导用户;] \n {div.line}[III]您不会使用国家，其他行政单位或市政机构的名称作为代币的名称，以误导用户;] \n {div.line}[IV]您不会在智能资产上设置脚本，以按资产数量限制Waves DEX上的交易所交易;] \n {div.line}[V]您不会在智能资产的描述中提供有关管理代币使用规则的虚假信息，这些规则与安装在其上的脚本的规则不对应;]",
+                "text": "{div.line}[I]您不会将该代币用于欺诈目的;] \n {div.line}[II]您不会完全或部分复制现有加密货币或知名公司的名称，以误导用户;] \n {div.line}[III]您不会使用国家，其他行政单位或市政机构的名称作为代币的名称，以误导用户;] \n {div.line}[IV]您不会在智能资产上设置脚本，以按资产数量限制Bancoin DEX上的交易所交易;] \n {div.line}[V]您不会在智能资产的描述中提供有关管理代币使用规则的虚假信息，这些规则与安装在其上的脚本的规则不对应;]",
                 "textWarning": "不遵守所列的某一项将导致您的代币被分类为垃圾代币，并且您的代币只能通过ID进行搜索。"
             }
         }

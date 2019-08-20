@@ -75,7 +75,7 @@
         "success": "トランザクションを処理中です！",
         "wavesKeeperUnconfirmed": {
             "description": "再度お試し下さい。問題が継続する場合、 [サポート](https://support.wavesplatform.com)で、サポートチケットを発行して下さい。",
-            "header": "あなたはWaves Keeper上でリクエストを承認しませんでした"
+            "header": "あなたはBancoin Keeper上でリクエストを承認しませんでした"
         }
     },
     "copyError": "コピーすることができません。ブラウザが古い可能性があります",
@@ -99,9 +99,9 @@
             "confirmRequestKeeper": {
                 "cancel": "キャンセル",
                 "errorDescription": "再度お試し下さい。問題が継続する場合、 [サポート](https://support.wavesplatform.com)で、サポートチケットを発行して下さい。",
-                "errorHeader": "あなたはWaves Keeper上でリクエストを承認しませんでした",
+                "errorHeader": "あなたはBancoin Keeper上でリクエストを承認しませんでした",
                 "sign": "次へ",
-                "waiting": "Waves Keeperからの承認を待っています..."
+                "waiting": "Bancoin Keeperからの承認を待っています..."
             },
             "confirmRequestLedger": {
                 "cancel": "キャンセル",

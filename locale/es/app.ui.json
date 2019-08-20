@@ -75,7 +75,7 @@
         "success": "¡Tu transacción está en marcha!",
         "wavesKeeperUnconfirmed": {
             "description": "Por favor, inténtelo de nuevo. Si el error persiste, por favor enviar un ticket a [soporte](https://support.wavesplatform.com)",
-            "header": "No ha confirmado la solicitud utilizando Waves Keeper"
+            "header": "No ha confirmado la solicitud utilizando Bancoin Keeper"
         }
     },
     "copyError": "¡No se puede copiar! Tu navegador puede estar desactualizado",
@@ -99,9 +99,9 @@
             "confirmRequestKeeper": {
                 "cancel": "Anular",
                 "errorDescription": "Por favor, inténtelo de nuevo. Si el error persiste, por favor enviar un ticket a [soporte](https://support.wavesplatform.com)",
-                "errorHeader": "No ha confirmado la solicitud utilizando Waves Keeper",
+                "errorHeader": "No ha confirmado la solicitud utilizando Bancoin Keeper",
                 "sign": "Reintentar",
-                "waiting": "Esperando confirmación de Waves Keeper..."
+                "waiting": "Esperando confirmación de Bancoin Keeper..."
             },
             "confirmRequestLedger": {
                 "cancel": "Anular",
@@ -135,7 +135,7 @@
         "token": {
             "warning": {
                 "header": "Usted acepta que:",
-                "text": "{div.line} [I) No utilizará el token con fines fraudulentos;] \n {div.line} [II) No duplicará, ni total ni parcialmente, el nombre de una criptomoneda existente o una empresa conocida con el objetivo de engañar a los usuarios;] \n {div.line} [III) No usará nombres de estados, otras unidades administrativas o instituciones municipales para el nombre del token con el objetivo de engañar a los usuarios;] \n {div.line} [IV) No establecerá un script en un activo inteligente que limite las transacciones de intercambio en Waves DEX mediante cantidad de activos;] \n {div.line} [V) No proporcionará información falsa en la descripción de un activo inteligente con respecto a las reglas que rigen el uso del token, que no corresponden a las del script instalado en él;]",
+                "text": "{div.line} [I) No utilizará el token con fines fraudulentos;] \n {div.line} [II) No duplicará, ni total ni parcialmente, el nombre de una criptomoneda existente o una empresa conocida con el objetivo de engañar a los usuarios;] \n {div.line} [III) No usará nombres de estados, otras unidades administrativas o instituciones municipales para el nombre del token con el objetivo de engañar a los usuarios;] \n {div.line} [IV) No establecerá un script en un activo inteligente que limite las transacciones de intercambio en Bancoin DEX mediante cantidad de activos;] \n {div.line} [V) No proporcionará información falsa en la descripción de un activo inteligente con respecto a las reglas que rigen el uso del token, que no corresponden a las del script instalado en él;]",
                 "textWarning": "En caso de incumplir alguno de estos puntos, sus tokens serán clasificados como spam, y solo será posible su búsqueda mediante la ID."
             }
         }

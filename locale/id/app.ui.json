@@ -75,7 +75,7 @@
         "success": "Transaksi Anda sedang dalam perjalanan!",
         "wavesKeeperUnconfirmed": {
             "description": "Silakan coba lagi. Jika kesalahan berlanjut, kirimkan tiket ke [dukungan](https://support.wavesplatform.com)",
-            "header": "Anda tidak mengonfirmasi permintaan menggunakan Waves Keeper"
+            "header": "Anda tidak mengonfirmasi permintaan menggunakan Bancoin Keeper"
         }
     },
     "copyError": "Tidak bisa menyalin! Browser Anda mungkin sudah ketinggalan zaman",
@@ -99,9 +99,9 @@
             "confirmRequestKeeper": {
                 "cancel": "Batalkan",
                 "errorDescription": "Silakan coba lagi. Jika kesalahan berlanjut, kirimkan tiket ke [dukungan](https://support.wavesplatform.com)",
-                "errorHeader": "Anda tidak mengonfirmasi permintaan menggunakan Waves Keeper",
+                "errorHeader": "Anda tidak mengonfirmasi permintaan menggunakan Bancoin Keeper",
                 "sign": "Mencoba kembali",
-                "waiting": "Menunggu konfirmasi dari Waves Keeper ..."
+                "waiting": "Menunggu konfirmasi dari Bancoin Keeper ..."
             },
             "confirmRequestLedger": {
                 "cancel": "Batalkan",
@@ -135,7 +135,7 @@
         "token": {
             "warning": {
                 "header": "Anda setuju bahwa:",
-                "text": "{div.line}[I) Anda tidak akan menggunakan token untuk tujuan penipuan;]\n{div.line}[II) Anda tidak akan menduplikasi, sepenuhnya atau sebagian, nama cryptocurrency yang ada atau perusahaan terkenal dengan tujuan menyesatkan pengguna;]\n{div.line}[III) Anda tidak akan menggunakan nama negara, unit administratif lain, atau institusi kota untuk nama token dengan tujuan menyesatkan pengguna;]\n{div.line}[IV) Anda tidak akan menetapkan skrip pada aset pintar yang membatasi transaksi pertukaran pada Waves DEX dengan jumlah aset;]\n{div.line}[V) Anda tidak akan memberikan informasi palsu dalam uraian aset pintar mengenai aturan yang mengatur penggunaan token, yang tidak sesuai dengan skrip yang dipasang di sana;]",
+                "text": "{div.line}[I) Anda tidak akan menggunakan token untuk tujuan penipuan;]\n{div.line}[II) Anda tidak akan menduplikasi, sepenuhnya atau sebagian, nama cryptocurrency yang ada atau perusahaan terkenal dengan tujuan menyesatkan pengguna;]\n{div.line}[III) Anda tidak akan menggunakan nama negara, unit administratif lain, atau institusi kota untuk nama token dengan tujuan menyesatkan pengguna;]\n{div.line}[IV) Anda tidak akan menetapkan skrip pada aset pintar yang membatasi transaksi pertukaran pada Bancoin DEX dengan jumlah aset;]\n{div.line}[V) Anda tidak akan memberikan informasi palsu dalam uraian aset pintar mengenai aturan yang mengatur penggunaan token, yang tidak sesuai dengan skrip yang dipasang di sana;]",
                 "textWarning": "Kegagalan untuk mengamati titik-titik ini akan menyebabkan token Anda diklasifikasikan sebagai Aset Mencurigakan, dan akan tersedia untuk mencari hanya dengan ID."
             }
         }

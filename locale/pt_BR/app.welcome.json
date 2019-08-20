@@ -61,7 +61,7 @@
         "feb2017": {
             "date": "Dez 2017",
             "text": "The first version of the flagship built-in exchange is launched.",
-            "title": "Waves DEX Beta"
+            "title": "Bancoin DEX Beta"
         },
         "feb2018": {
             "date": "Fev 2018",
@@ -70,7 +70,7 @@
         },
         "jan2019": {
             "date": "Jan 2019",
-            "text": "Support for trading on Waves DEX with Smart Accounts is enabled.",
+            "text": "Support for trading on Bancoin DEX with Smart Accounts is enabled.",
             "text_2": "Launch of Bitcoin Satoshi Vision gateway",
             "title": "Smart Account Trading",
             "title_2": "Gateway BSV"
@@ -80,12 +80,12 @@
             "text": "The relaunched exchange offers a better UX and performance than any other DEX on the market.",
             "text_2": "The popular wallet comes out of beta with a major new release.",
             "title": "Nova DEX",
-            "title_2": "Carteira Waves"
+            "title_2": "Carteira Bancoin"
         },
         "jul2019": {
             "date": "Jul 2019",
-            "text": "Addition of ERC20 token gateway to the Waves ecosystem, meaning that popular Ethereum tokens can be traded on the platform.",
-            "text_2": "Developers have simplified mobile development processes and gain comprehensive descriptions for means of interacting with the Waves blockchain.",
+            "text": "Addition of ERC20 token gateway to the Bancoin ecosystem, meaning that popular Ethereum tokens can be traded on the platform.",
+            "text_2": "Developers have simplified mobile development processes and gain comprehensive descriptions for means of interacting with the Bancoin blockchain.",
             "text_3": "Users have the ability to switch easily between multiple accounts within one wallet app.",
             "title": "Gateway ERC-20",
             "title_2": "Mobile SDK and JS library improvement",
@@ -108,12 +108,12 @@
         },
         "sep2018": {
             "date": "Set 2018",
-            "text": "Integration with Waves DEX enables users to trade with maximum security.",
+            "text": "Integration with Bancoin DEX enables users to trade with maximum security.",
             "title": "Ledger Nano S"
         },
         "sep2019": {
             "date": "Set 2019",
-            "text": "Two factor authentication gives Waves DEX users even greater security.",
+            "text": "Two factor authentication gives Bancoin DEX users even greater security.",
             "title": "2FA"
         }
     },
@@ -133,16 +133,16 @@
         "api": "API",
         "apple": "App Store",
         "blog": "Blog",
-        "broughtBy": "Brought to you by Waves Team",
+        "broughtBy": "Brought to you by Bancoin Team",
         "cancel": "Cancel",
         "change": "CHANGE",
         "changeName": "Change Name",
         "chart": "CHART",
-        "contestLinkDescription": "Win 5,000 BCT in a trading contest on Waves DEX!",
+        "contestLinkDescription": "Win 5,000 BCT in a trading contest on Bancoin DEX!",
         "contestLinkLink": "Rules",
         "controlAssets": "Control of assets is yours alone – funds do not leave your wallet and cannot be frozen",
         "copyAddress": "Copy address",
-        "copyright": "© 2019 Waves Platform",
+        "copyright": "© 2019 Bancoin Platform",
         "createToken": "Create token",
         "currentAccountName": "Current account name",
         "dashboard": "Dashboard",
@@ -180,7 +180,7 @@
         "mainPage": "Main page",
         "majorFiatCryptocurrencies": "Major fiat and cryptocurrencies supported: BTC, LTC, ETH, USD, and others",
         "markets": "Markets",
-        "marketsDescription": "Waves DEX allows you to execute trades swiftly and securely, regardless of whether you’re trading via mobile app, desktop client, web wallet or the Waves API.",
+        "marketsDescription": "Bancoin DEX allows you to execute trades swiftly and securely, regardless of whether you’re trading via mobile app, desktop client, web wallet or the Bancoin API.",
         "marketsTableDescription": "To view more traded pairs click",
         "marketsTableDescriptionLink": "View Exchange",
         "menu": "Menu",
@@ -194,7 +194,7 @@
         "productsTools": "Products & tools",
         "renameAccount": "Rename account",
         "roadmap": "Roadmap",
-        "roadmapOpportunitiesAhead": "The future of Waves DEX: our roadmap for the opportunities ahead.",
+        "roadmapOpportunitiesAhead": "The future of Bancoin DEX: our roadmap for the opportunities ahead.",
         "save": "Save",
         "scanQrCode": "Scan QR Code",
         "scriptAccount": "Script account",
@@ -209,20 +209,20 @@
         "termsOfUse": "Terms of use",
         "tokenCreation": "Fast token creation",
         "tokenCreationCosts": "Token creation costs just 1 BCT and takes 1 minute",
-        "tradeOnWaves": "Trade on the Waves Decentralised Exchange",
+        "tradeOnWaves": "Trade on the Bancoin Decentralised Exchange",
         "tradeOnWavesDescription": "Buy and sell tokens quickly and securely with all advantages of a centralised exchange, but retaining complete control of your funds.",
         "transactions": "Transações",
         "twitter": "Twitter",
         "volume": "VOLUME",
         "wallet": "Carteira",
-        "wavesBlockchain": "Waves Blockchain",
-        "wavesDexWeb": "Waves DEX Web",
-        "wavesExplorer": "Waves Explorer",
-        "wavesIde": "Waves IDE",
-        "wavesKeeper": "Waves Keeper",
-        "wavesLabs": "Waves Labs",
+        "wavesBlockchain": "Bancoin Blockchain",
+        "wavesDexWeb": "Bancoin DEX Web",
+        "wavesExplorer": "Bancoin Explorer",
+        "wavesIde": "Bancoin IDE",
+        "wavesKeeper": "Bancoin Keeper",
+        "wavesLabs": "Bancoin Labs",
         "wavesOrderFilled": "0.003 BCT per order filled",
-        "wavesWallet": "Carteira Waves",
+        "wavesWallet": "Carteira Bancoin",
         "windows": "Windows",
         "windowsDescription": "Download Windows application"
     }

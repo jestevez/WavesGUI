@@ -61,7 +61,7 @@
         "feb2017": {
             "date": "2017년 12월",
             "text": "플래그십 빌트인 거래소의 첫 번째 버전 런칭.",
-            "title": "Waves DEX 베타"
+            "title": "Bancoin DEX 베타"
         },
         "feb2018": {
             "date": "2018년 2월",
@@ -70,7 +70,7 @@
         },
         "jan2019": {
             "date": "2019년 1월",
-            "text": "Waves DEX 내 스마트 계정으로 거래 지원 활성화",
+            "text": "Bancoin DEX 내 스마트 계정으로 거래 지원 활성화",
             "text_2": "Bitcoin Satoshi Vision 게이트웨이 런칭",
             "title": "스마트 계정 거래",
             "title_2": "BSV 게이트웨이"
@@ -80,12 +80,12 @@
             "text": "재 출시된 거래소는 시장에 출시된 다른 DEX보다 더 나은 UX와 성능을 제공합니다.",
             "text_2": "주요 신규 릴리즈와 함께 베타에서 벗어난 인기있는 암호화폐 지갑",
             "title": "신규 DEX",
-            "title_2": "Waves 지갑"
+            "title_2": "Bancoin 지갑"
         },
         "jul2019": {
             "date": "2019년 7월",
-            "text": "Waves ecosystem에 ERC20 토큰의 게이트웨이가 추가되었습니다. 이제 인기있는 Ethereum 기반 토큰들을 본 플랫폼에서 거래할 수 있습니다.",
-            "text_2": "개발자들은 모바일 개발 프로세스를 간소화했으며 Waves 블록체인과 상호작용하는 방법에 대한 포괄적인 설명합니다.",
+            "text": "Bancoin ecosystem에 ERC20 토큰의 게이트웨이가 추가되었습니다. 이제 인기있는 Ethereum 기반 토큰들을 본 플랫폼에서 거래할 수 있습니다.",
+            "text_2": "개발자들은 모바일 개발 프로세스를 간소화했으며 Bancoin 블록체인과 상호작용하는 방법에 대한 포괄적인 설명합니다.",
             "text_3": "사용자는 하나의 지갑 앱에서 다수의 계정으로 쉽게 전환하며 사용 할 수 있습니다.",
             "title": "ERC-20 게이트웨이",
             "title_2": "모바일 SDK 및 JS 라이브러리 개선",
@@ -108,12 +108,12 @@
         },
         "sep2018": {
             "date": "2018년 9월",
-            "text": "Waves DEX와의 통합을 통해 사용자들은 안전하게 거래할 수 있습니다.",
+            "text": "Bancoin DEX와의 통합을 통해 사용자들은 안전하게 거래할 수 있습니다.",
             "title": "Ledger Nano S"
         },
         "sep2019": {
             "date": "2019년 9월",
-            "text": "2단계 인증은 Waves DEX 사용자에게 더욱더 안전된 보안을 제공합니다.",
+            "text": "2단계 인증은 Bancoin DEX 사용자에게 더욱더 안전된 보안을 제공합니다.",
             "title": "2FA"
         }
     },
@@ -133,16 +133,16 @@
         "api": "API",
         "apple": "앱 스토어",
         "blog": "블로그",
-        "broughtBy": "Waves 팀 제공",
+        "broughtBy": "Bancoin 팀 제공",
         "cancel": "Cancel",
         "change": "변경",
         "changeName": "Change Name",
         "chart": "차트",
-        "contestLinkDescription": "Waves DEX 트레이딩 컨테스트에서 우승하여 5,000 BCT를 받으세요!",
+        "contestLinkDescription": "Bancoin DEX 트레이딩 컨테스트에서 우승하여 5,000 BCT를 받으세요!",
         "contestLinkLink": "규칙",
         "controlAssets": "자산을 통제할 수 있는 사람은 당신뿐입니다 – 자금은 지갑에서 안전히 보호되며 동결될 수 없습니다",
         "copyAddress": "주소 복사",
-        "copyright": "© 2019 Waves 플랫폼",
+        "copyright": "© 2019 Bancoin 플랫폼",
         "createToken": "토큰 생성",
         "currentAccountName": "Current account name",
         "dashboard": "대시보드",
@@ -180,7 +180,7 @@
         "mainPage": "메인 페이지",
         "majorFiatCryptocurrencies": "주요 법정화폐 및 암호화폐 지원: BTC, LTC, ETH, USD 등",
         "markets": "마켓",
-        "marketsDescription": "사용자는 모바일 앱, 데스크톱 클라이언트, 웹 지갑 또는 Waves API를 통해 Waves DEX에서 빠르고 안전하게 거래할 수 있습니다.",
+        "marketsDescription": "사용자는 모바일 앱, 데스크톱 클라이언트, 웹 지갑 또는 Bancoin API를 통해 Bancoin DEX에서 빠르고 안전하게 거래할 수 있습니다.",
         "marketsTableDescription": "더 많은 거래 페어를 보려면 클릭하세요",
         "marketsTableDescriptionLink": "거래소 보기",
         "menu": "메뉴",
@@ -194,7 +194,7 @@
         "productsTools": "제품 및 도구",
         "renameAccount": "계정 이름 변경",
         "roadmap": "로드맵",
-        "roadmapOpportunitiesAhead": "Waves DEX의 미래: 기회로 가득찬 로드맵입니다.",
+        "roadmapOpportunitiesAhead": "Bancoin DEX의 미래: 기회로 가득찬 로드맵입니다.",
         "save": "Save",
         "scanQrCode": "Scan QR Code",
         "scriptAccount": "Script 계정",
@@ -209,20 +209,20 @@
         "termsOfUse": "이용 약관",
         "tokenCreation": "빠른 토큰 생성",
         "tokenCreationCosts": "1 BCT로 1분만에 토큰을 생성할 수 있습니다",
-        "tradeOnWaves": "Waves 탈중앙화 거래소에서 거래하세요",
+        "tradeOnWaves": "Bancoin 탈중앙화 거래소에서 거래하세요",
         "tradeOnWavesDescription": "본인의 자금에 대한 완전한 통제권 및 중앙 집중식 거래소의 이점과 함께 빠르고 안전하게 토큰을 사고 파세요.",
         "transactions": "트랜잭션",
         "twitter": "트위터",
         "volume": "거래량",
         "wallet": "지갑",
-        "wavesBlockchain": "Waves 블록체인",
-        "wavesDexWeb": "Waves DEX Web",
-        "wavesExplorer": "Waves Explorer",
-        "wavesIde": "Waves IDE",
-        "wavesKeeper": "Waves Keeper",
-        "wavesLabs": "Waves Labs",
+        "wavesBlockchain": "Bancoin 블록체인",
+        "wavesDexWeb": "Bancoin DEX Web",
+        "wavesExplorer": "Bancoin Explorer",
+        "wavesIde": "Bancoin IDE",
+        "wavesKeeper": "Bancoin Keeper",
+        "wavesLabs": "Bancoin Labs",
         "wavesOrderFilled": "체결된 주문 당 0.003 BCT",
-        "wavesWallet": "Waves 지갑",
+        "wavesWallet": "Bancoin 지갑",
         "windows": "Windows",
         "windowsDescription": "윈도우 어플리케이션 다운로드"
     }

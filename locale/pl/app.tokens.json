@@ -30,7 +30,7 @@
     },
     "name": "Nazwa Twojego aktywa",
     "NFT": {
-        "description": "Token niezamienny (NFT) jest unikatowym, indywidualnym tokenem istniejącym w łańcuchu bloków Waves. Obecnie wyświetlanie NFTsów w Waves Wallet i na Waves DEX nie jest obsługiwane. Możesz zobaczyć swoje NFTs w [Waves Explorer] (https://wavesexplorer.com/)",
+        "description": "Token niezamienny (NFT) jest unikatowym, indywidualnym tokenem istniejącym w łańcuchu bloków Bancoin. Obecnie wyświetlanie NFTsów w Bancoin Wallet i na Bancoin DEX nie jest obsługiwane. Możesz zobaczyć swoje NFTs w [Bancoin Explorer] (https://wavesexplorer.com/)",
         "title": "Tworzysz token niezamienny."
     },
     "notifications": {

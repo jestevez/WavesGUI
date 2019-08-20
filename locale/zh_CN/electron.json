@@ -14,7 +14,7 @@
     "modal": {
         "set_protocol_error": {
             "close": "关闭",
-            "message": "无法为启动Waves客户端设置默认协议。浏览器的链接暂时不受支持！",
+            "message": "无法为启动Bancoin客户端设置默认协议。浏览器的链接暂时不受支持！",
             "report": "报告",
             "title": "确定开放协议错误"
         }

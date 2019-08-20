@@ -44,7 +44,7 @@
         "confirmBackupDescription": "Verifica la tua frase di backup",
         "next": "Conferma",
         "prev": "Indietro",
-        "successContent": "Non puoi cambiare la tua frase segreta. In caso l'avessi accidentalmente inviata a qualcuno o sospettassi di essere vittima di scammers, crea immediatamente un nuovo wallet Waves e trasferisci immediatamente tutti i tuoi fondi.",
+        "successContent": "Non puoi cambiare la tua frase segreta. In caso l'avessi accidentalmente inviata a qualcuno o sospettassi di essere vittima di scammers, crea immediatamente un nuovo wallet Bancoin e trasferisci immediatamente tutti i tuoi fondi.",
         "successHeadline": "Conserva con la massima cura la tua frase di backup!",
         "understand": "Ho capito"
     },
@@ -52,9 +52,9 @@
         "backup": "Esegui subito il backup",
         "description": "Salva la tua frase Seed. È cruciale per accedere al tuo account.",
         "modal": {
-            "descriptionP1": "Lo staff di Waves Platform ci tiene a sottolineare l'aumento degli attacchi di scam e phishing durante l'ultimo mese. I truffatori tendono a nascondere i malware all'interno di versioni modificate del client di Waves, promettendo bonus e sconti per attrarre utenti.",
+            "descriptionP1": "Lo staff di Bancoin Platform ci tiene a sottolineare l'aumento degli attacchi di scam e phishing durante l'ultimo mese. I truffatori tendono a nascondere i malware all'interno di versioni modificate del client di Bancoin, promettendo bonus e sconti per attrarre utenti.",
             "descriptionP2": "Fai sempre molta attenzione e non inserire in nessun caso il tuo SEED in questi 'client', poichè il tuo account sarà inevitabilmente compromesso e perderai tutti i tuoi fondi in esso contenuti.",
-            "descriptionP3": "Usa SEMPRE e SOLTANTO il client ufficiale Waves.",
+            "descriptionP3": "Usa SEMPRE e SOLTANTO il client ufficiale Bancoin.",
             "ok": "Ho capito",
             "title": "Conserva con la massima cura la tua frase di backup!"
         },

@@ -30,7 +30,7 @@
     },
     "name": "Nombre de tu Activo",
     "NFT": {
-        "description": "Un token no fungible (NFT) es un token individual único que existe en la cadena de bloques Waves. Actualmente, la visualización de NFT en Waves Wallet y en Waves DEX no es compatible. Puede ver sus NFT en [Waves Explorer] (https://wavesexplorer.com/)",
+        "description": "Un token no fungible (NFT) es un token individual único que existe en la cadena de bloques Bancoin. Actualmente, la visualización de NFT en Bancoin Wallet y en Bancoin DEX no es compatible. Puede ver sus NFT en [Bancoin Explorer] (https://wavesexplorer.com/)",
         "title": "Estás creando un token no fungible."
     },
     "notifications": {

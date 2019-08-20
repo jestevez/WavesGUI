@@ -44,7 +44,7 @@
         "confirmBackupDescription": "Yedek kelimelerinizi doğrulayın",
         "next": "Doğrula",
         "prev": "Geri git",
-        "successContent": "Anahtar kelimelerinizi sonradan değiştiremezsiniz! Eğer bu kelimeleri yanlışlıkla bir yere gönderirseniz veya dolandırıcılara kaptırdığınızı düşünürseniz en kısa sürede yeni bir Waves cüzdanı oluşturun ve varlıklarınızı yeni cüzdana taşıyın!",
+        "successContent": "Anahtar kelimelerinizi sonradan değiştiremezsiniz! Eğer bu kelimeleri yanlışlıkla bir yere gönderirseniz veya dolandırıcılara kaptırdığınızı düşünürseniz en kısa sürede yeni bir Bancoin cüzdanı oluşturun ve varlıklarınızı yeni cüzdana taşıyın!",
         "successHeadline": "Yedek kelimelerinizi güvenli bir yerde saklayın",
         "understand": "Anladım"
     },
@@ -52,9 +52,9 @@
         "backup": "Şimdi yedekleyin",
         "description": "Anahtar kelimelerinizi mutlaka kaydedin! Hesabınıza erişim için ihtiyacınız olacak. ",
         "modal": {
-            "descriptionP1": "Son zamanlarda Waves Platform adını kullanarak sahte uygulamar ile sizleri tuzağa düşürmeye çalışmaktadırlar.",
+            "descriptionP1": "Son zamanlarda Bancoin Platform adını kullanarak sahte uygulamar ile sizleri tuzağa düşürmeye çalışmaktadırlar.",
             "descriptionP2": "Lütfen dikkatli olunuz ve SEED (anahtar) kelimelerinizi bu tip uygulamalara girmeyiniz. Hesabınızdaki bütün kripto paralarınızı çalabilirler. ",
-            "descriptionP3": "Sadece RESMİ Waves uygulamasını kullanınız.",
+            "descriptionP3": "Sadece RESMİ Bancoin uygulamasını kullanınız.",
             "ok": "Okudum, Anladım",
             "title": "Yedek kelimelerinizi dikkatli bir şekilde saklayın!"
         },

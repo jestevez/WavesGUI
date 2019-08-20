@@ -6,7 +6,7 @@
     "importAccount": "Importuj konta",
     "importAccountInfo": "Wybierz skąd importować konta",
     "KeeperClient": "Keeper Client",
-    "keeperDescription": "Zaimportuj konto z Waves Keeper",
+    "keeperDescription": "Zaimportuj konto z Bancoin Keeper",
     "keeperForm": "Instaluj",
     "LedgerClient": "Urządzenie Ledger",
     "ledgerDescription": "Importuj konta z urządzenia Ledger",
@@ -14,10 +14,10 @@
     "seedAndKey": "Fraza Seed lub klucz",
     "seedAndKeyDescription": "Zaimportuj konto z zachowanej frazy SEED lub klucza prywatnego",
     "selectButton": "Wybierz",
-    "wavesClient": "Klient Waves",
-    "wavesClientDescription": "Importuj konto z klienta Waves",
-    "wavesLiteClient": "Waves Lite Client",
-    "wavesLiteClientDescription": "Importuj konto z the Waves Lite Client",
+    "wavesClient": "Klient Bancoin",
+    "wavesClientDescription": "Importuj konto z klienta Bancoin",
+    "wavesLiteClient": "Bancoin Lite Client",
+    "wavesLiteClientDescription": "Importuj konto z the Bancoin Lite Client",
     "wavesSeedClient": "Kopia zapasowa frazy",
     "wavesSeedClientDescription": "Importuj konto z kopii zapasowej"
 }

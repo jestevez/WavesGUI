@@ -75,7 +75,7 @@
         "success": "트랜잭션이 진행 중입니다!",
         "wavesKeeperUnconfirmed": {
             "description": "다시 시도하세요. 오류가 지속되면 [서포트](https://support.wavesplatform.com)에 티켓을 제출하세요.",
-            "header": "Waves Keeper 사용 요청을 승인하지 않았습니다"
+            "header": "Bancoin Keeper 사용 요청을 승인하지 않았습니다"
         }
     },
     "copyError": "복사할 수 없습니다! 브라우저를 업데이트하세요",
@@ -99,9 +99,9 @@
             "confirmRequestKeeper": {
                 "cancel": "취소",
                 "errorDescription": "다시 시도하세요. 오류가 지속되면 [서포트](https://support.wavesplatform.com)에 티켓을 제출하세요.",
-                "errorHeader": "Waves Keeper 사용 요청을 승인하지 않았습니다",
+                "errorHeader": "Bancoin Keeper 사용 요청을 승인하지 않았습니다",
                 "sign": "재시도",
-                "waiting": "Waves Keeper의 승인을 기다리는 중입니다..."
+                "waiting": "Bancoin Keeper의 승인을 기다리는 중입니다..."
             },
             "confirmRequestLedger": {
                 "cancel": "취소",
@@ -135,7 +135,7 @@
         "token": {
             "warning": {
                 "header": "동의합니다:",
-                "text": "{div.line}[I) 본인은 토큰을 부당한 목적으로 사용하지 않을 것입니다;]\n{div.line}[II) 본인은 사용자를 속이려는 의도로 기존 암호화폐 또는 널리 알려진 회사의 이름 전체 또는 일부를 도용하지 않을 것입니다;]\n{div.line}[III) 본인은 사용자를 속이려는 목적으로 주 및 기타 행정 단위 또는 지방 자치 단체의 이름을 토큰의 이름으로 사용하지 않을 것입니다.]\n{div.line}[IV) 자산의 수량으로 Waves DEX에서 거래 트랜잭션을 제한하는 스크립트를 스마트 자산에 설정하지 않습니다;]\n{div.line}[V) 스마트 자산 설명 내 토큰 사용법 관리 규칙에 적용되며 스크립트에 설치된 것과 상응하지 않는 허위 정보를 제공하지 않습니다;]",
+                "text": "{div.line}[I) 본인은 토큰을 부당한 목적으로 사용하지 않을 것입니다;]\n{div.line}[II) 본인은 사용자를 속이려는 의도로 기존 암호화폐 또는 널리 알려진 회사의 이름 전체 또는 일부를 도용하지 않을 것입니다;]\n{div.line}[III) 본인은 사용자를 속이려는 목적으로 주 및 기타 행정 단위 또는 지방 자치 단체의 이름을 토큰의 이름으로 사용하지 않을 것입니다.]\n{div.line}[IV) 자산의 수량으로 Bancoin DEX에서 거래 트랜잭션을 제한하는 스크립트를 스마트 자산에 설정하지 않습니다;]\n{div.line}[V) 스마트 자산 설명 내 토큰 사용법 관리 규칙에 적용되며 스크립트에 설치된 것과 상응하지 않는 허위 정보를 제공하지 않습니다;]",
                 "textWarning": "본 사항들을 준수하지 않으면 해당 토큰은 의심되는 토큰으로 분류되어 ID로만 검색할 수 있습니다."
             }
         }

@@ -78,8 +78,8 @@
         "tryDesktop": {
             "cancel": "Continua sul web",
             "label": "Ricorda la mia scelta e non ricordarmelo nuovamente",
-            "message": "Ti consigliamo vivamente di usare l'app desktop ufficiale di Waves. In caso ancora non l'avessi fatto, puoi scaricarla dal sito ufficiale.",
-            "title": "Usa l'app desktop ufficiale di Waves",
+            "message": "Ti consigliamo vivamente di usare l'app desktop ufficiale di Bancoin. In caso ancora non l'avessi fatto, puoi scaricarla dal sito ufficiale.",
+            "title": "Usa l'app desktop ufficiale di Bancoin",
             "try": "Apri l'app desktop"
         }
     },

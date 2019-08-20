@@ -36,7 +36,7 @@
                 "required": "필수 입력 항목입니다"
             },
             "fee": "수수료 {{fee, money-currency}}",
-            "ideLink": "Script는 [Waves Ride IDE](https://ide.wavesplatform.com/)를 사용하여 개발할 수 있습니다.",
+            "ideLink": "Script는 [Bancoin Ride IDE](https://ide.wavesplatform.com/)를 사용하여 개발할 수 있습니다.",
             "ok": "서명",
             "textAreaTitle": "Base64 script",
             "warning": {
@@ -65,19 +65,19 @@
         "addressSaved": "Address saved",
         "back": "뒤로가기",
         "error": {
-            "hasLockedKeeperDescription": "Waves Keeper로 작업을 계속하려면 귀하의 비밀번호를 입력하거나 새로 생성하세요.",
-            "hasLockedKeeperHeader": "Waves Keeper에서 비밀번호를 입력하세요",
+            "hasLockedKeeperDescription": "Bancoin Keeper로 작업을 계속하려면 귀하의 비밀번호를 입력하거나 새로 생성하세요.",
+            "hasLockedKeeperHeader": "Bancoin Keeper에서 비밀번호를 입력하세요",
             "hasNoUsersDescription": "기존 계정으로 로그인하거나 신규 계정을 만든 후 다시 시도하세요.",
             "hasNoUsersHeader": "활성화된 계정이 없습니다",
             "install": "설치",
             "networkDescription": "선택한 계정은 잘못된 네트워크에 있습니다. 네트워크를 변경한 후 다시 시도하세요.",
             "networkHeader": "네트워크 변경",
             "notInstalledDescription": "설치 후 계정을 생성하고 로그인 한 뒤 해당 페이지를 새로 고침 하세요",
-            "notInstalledHeader": "Waves Keeper가 없나요?",
+            "notInstalledHeader": "Bancoin Keeper가 없나요?",
             "refresh": "재시도"
         },
-        "heading": "Waves Keeper로 계정 불러오기",
-        "loading": "Waves Keeper에서 계정 불러오기",
+        "heading": "Bancoin Keeper로 계정 불러오기",
+        "loading": "Bancoin Keeper에서 계정 불러오기",
         "login": "계속",
         "name": "계정 이름",
         "nameExists": "That name is taken",
@@ -86,7 +86,7 @@
         "saveUserData": "이 컴퓨터에서 로그인 계속 유지"
     },
     "LedgerClient_utils": "Ledger 디바이스",
-    "LedgerClientDescription": "Waves Keeper로 계정 불러오기",
+    "LedgerClientDescription": "Bancoin Keeper로 계정 불러오기",
     "modal": {
         "acceptNewTerms": {
             "title": "이용 약관"
@@ -195,7 +195,7 @@
         },
         "deposit": {
             "coinomatBCH": {
-                "helpDescrText": "트랜잭션이 승인되면 게이트웨이가 귀하의 Waves 계정에서 BCH를 토큰으로 전송하는 작업을 처리할 것입니다.",
+                "helpDescrText": "트랜잭션이 승인되면 게이트웨이가 귀하의 Bancoin 계정에서 BCH를 토큰으로 전송하는 작업을 처리할 것입니다.",
                 "helpDescrTitle": "이 주소를 Bitcoin Cash 클라이언트 또는 지갑에 입력하세요",
                 "warningMinAmountText": "{{minAmount, BigNumber}} 미만의 {{assetTicker}}를 입금할 경우 귀하의 자산을 잃게 됩니다.",
                 "warningMinAmountTitle": "최소 입금액은 {{minAmount, BigNumber}} {{assetTicker}} 입니다",
@@ -203,7 +203,7 @@
                 "warningTitle": "이 입금 주소로 BCH만 전송하세요"
             },
             "coinomatBSV": {
-                "helpDescrText": "트랜잭션이 승인되면 게이트웨이가 귀하의 Waves 계정에서 BSV를 토큰으로 전송하는 작업을 처리할 것입니다.",
+                "helpDescrText": "트랜잭션이 승인되면 게이트웨이가 귀하의 Bancoin 계정에서 BSV를 토큰으로 전송하는 작업을 처리할 것입니다.",
                 "helpDescrTitle": "이 주소를 Bitcoin Satoshi Vision 클라이언트 또는 지갑에 입력하세요",
                 "warningMinAmountText": "{{minAmount, BigNumber}} 미만의 {{assetTicker}}를 입금할 경우 귀하의 자산을 잃게 됩니다.",
                 "warningMinAmountTitle": "최소 입금액은 {{minAmount, BigNumber}} {{assetTicker}}입니다",
@@ -211,7 +211,7 @@
                 "warningTitle": "본 입금 주소로 BTC만 전송하세요"
             },
             "coinomatBTC": {
-                "helpDescrText": "트랜잭션이 승인되면 게이트웨이가 귀하의 Waves 계정에서 BTC를 토큰으로 전송하는 작업을 처리할 것입니다.",
+                "helpDescrText": "트랜잭션이 승인되면 게이트웨이가 귀하의 Bancoin 계정에서 BTC를 토큰으로 전송하는 작업을 처리할 것입니다.",
                 "helpDescrTitle": "이 주소를 Bitcoin 클라이언트 또는 지갑에 입력하세요",
                 "warningMinAmountText": "{{minAmount, BigNumber}} 미만의  {{assetTicker}}를 입금할 경우 귀하의 자산을 잃게 됩니다.",
                 "warningMinAmountTitle": "최소 입금액은 {{minAmount, BigNumber}} {{assetTicker}} 입니다",
@@ -219,7 +219,7 @@
                 "warningTitle": "본 입금 주소로 BTC만 전송하세요"
             },
             "coinomatDASH": {
-                "helpDescrText": "트랜잭션이 승인되면 게이트웨이가 귀하의 Waves 계정에서 DASH를 토큰으로 전송하는 작업을 처리할 것입니다.",
+                "helpDescrText": "트랜잭션이 승인되면 게이트웨이가 귀하의 Bancoin 계정에서 DASH를 토큰으로 전송하는 작업을 처리할 것입니다.",
                 "helpDescrTitle": "이 주소를 DASH 클라이언트 또는 지갑에 입력하세요",
                 "warningMinAmountText": "{{minAmount, BigNumber}} 미만의 {{assetTicker}}를 입금할 경우 귀하의 자산을 잃게 됩니다.",
                 "warningMinAmountTitle": "최소 입금액은 {{minAmount, BigNumber}} {{assetTicker}} 입니다",
@@ -227,7 +227,7 @@
                 "warningTitle": "본 입금 주소로 DASH만 전송하세요"
             },
             "coinomatETH": {
-                "helpDescrText": "트랜잭션이 승인되면 게이트웨이가 귀하의 Waves 계정에서 ETH를 토큰으로 전송하는 작업을 처리할 것입니다.",
+                "helpDescrText": "트랜잭션이 승인되면 게이트웨이가 귀하의 Bancoin 계정에서 ETH를 토큰으로 전송하는 작업을 처리할 것입니다.",
                 "helpDescrTitle": "이 주소를 Ethereum 클라이언트 또는 지갑에 입력하세요",
                 "warningMinAmountText": "{{minAmount, BigNumber}} 미만의 {{assetTicker}}를 입금할 경우 귀하의 자산을 잃게 됩니다.",
                 "warningMinAmountTitle": "최소 입금액은 {{minAmount, BigNumber}} {{assetTicker}} 입니다",
@@ -235,7 +235,7 @@
                 "warningTitle": "Smart Contracts에서 ETH를 입금하지 마세요! ERC20 토큰을 입금하지 마세요! Ethereum 입금만 가능합니다."
             },
             "coinomatLTC": {
-                "helpDescrText": "트랜잭션이 승인되면 게이트웨이가 귀하의 Waves 계정에서 LTC를 토큰으로 전송하는 작업을 처리할 것입니다.",
+                "helpDescrText": "트랜잭션이 승인되면 게이트웨이가 귀하의 Bancoin 계정에서 LTC를 토큰으로 전송하는 작업을 처리할 것입니다.",
                 "helpDescrTitle": "이 주소를 Litecoin 클라이언트 또는 지갑에 입력하세요",
                 "warningMinAmountText": "{{minAmount, BigNumber}} 미만의 {{assetTicker}}를 입금할 경우 귀하의 자산을 잃게 됩니다.",
                 "warningMinAmountTitle": "최소 입금액은 {{minAmount, BigNumber}} {{assetTicker}} 입니다",
@@ -243,7 +243,7 @@
                 "warningTitle": "이 입금 주소로 LTC만 전송하세요"
             },
             "coinomatXMR": {
-                "helpDescrText": "트랜잭션이 승인되면 게이트웨이가 귀하의 Waves 계정에서 XMR을 토큰으로 전송하는 작업을 처리할 것입니다.",
+                "helpDescrText": "트랜잭션이 승인되면 게이트웨이가 귀하의 Bancoin 계정에서 XMR을 토큰으로 전송하는 작업을 처리할 것입니다.",
                 "helpDescrTitle": "이 주소를 XMR 클라이언트 또는 지갑에 입력하세요",
                 "warningMinAmountText": "{{minAmount, BigNumber}} 미만의 {{assetTicker}}를 입금할 경우 귀하의 자산을 잃게 됩니다.",
                 "warningMinAmountTitle": "최소 입금액은 {{minAmount, BigNumber}} {{assetTicker}} 입니다",
@@ -251,7 +251,7 @@
                 "warningTitle": "이 입금 주소로 XMR만 전송하세요"
             },
             "coinomatZEC": {
-                "helpDescrText": "트랜잭션이 승인되면 게이트웨이가 귀하의 Waves 계정에서 ZEC를 토큰으로 전송하는 작업을 처리할 것입니다.",
+                "helpDescrText": "트랜잭션이 승인되면 게이트웨이가 귀하의 Bancoin 계정에서 ZEC를 토큰으로 전송하는 작업을 처리할 것입니다.",
                 "helpDescrTitle": "이 주소를 Zcash 클라이언트 또는 지갑에 입력하세요",
                 "warningMinAmountText": "{{minAmount, BigNumber}} 미만의 {{assetTicker}}를 입금할 경우 귀하의 자산을 잃게 됩니다.",
                 "warningMinAmountTitle": "최소 입금액은 {{minAmount, BigNumber}} {{assetTicker}} 입니다",
@@ -265,7 +265,7 @@
             "scanQrCode": "QR 코드 스캔",
             "title": "{{assetName}} 입금",
             "wavesGatewayERGO": {
-                "helpDescrText": "Once the transaction is confirmed, the gateway will process the transfer of ERGO to a token in your Waves account.",
+                "helpDescrText": "Once the transaction is confirmed, the gateway will process the transfer of ERGO to a token in your Bancoin account.",
                 "helpDescrTitle": "Enter this address into your ERGO client or wallet",
                 "warningMinAmountText": "If you will send less than 0.1 ERGO, you will lose that money.",
                 "warningMinAmountTitle": "The minimum amount of deposit is 0.1 ERGO, the maximum amount of deposit is 50 000 ERGO",
@@ -273,7 +273,7 @@
                 "warningTitle": "Send only ERGO to this deposit address"
             },
             "wavesGatewayVST": {
-                "helpDescrText": "트랜잭션이 승인되면 게이트웨이가 귀하의 Waves 계정에서 Vostok를 토큰으로 전송하는 작업을 처리할 것입니다.",
+                "helpDescrText": "트랜잭션이 승인되면 게이트웨이가 귀하의 Bancoin 계정에서 Vostok를 토큰으로 전송하는 작업을 처리할 것입니다.",
                 "helpDescrTitle": "이 주소를 Vostok 클라이언트 또는 지갑에 입력하세요",
                 "warningMinAmountTitle": "최소 입금액은 0.1 VST 이며 최대 입금액은 50,000 VST 입니다."
             }
@@ -294,7 +294,7 @@
         "gatewaySign": {
             "cancel": "취소",
             "continue": "허용",
-            "description": "{{name}}에서 Waves 주소에 액세스할 것입니다. 귀하의 백업 구절(SEED) 또는 프라이빗 키를 수집하지 않습니다. 이동되는 웹사이트에 귀하의 백업 구절(SEED)를 입력하지 마세요.",
+            "description": "{{name}}에서 Bancoin 주소에 액세스할 것입니다. 귀하의 백업 구절(SEED) 또는 프라이빗 키를 수집하지 않습니다. 이동되는 웹사이트에 귀하의 백업 구절(SEED)를 입력하지 마세요.",
             "descriptionDesktop1": "링크가 기본 웹 브라우저에서 열립니다. 다른 웹 브라우저를 사용하려면,",
             "descriptionDesktop2": "복사",
             "descriptionDesktop3": "하고 URL 입력창에 링크를 붙여넣으세요.",
@@ -303,16 +303,16 @@
                 "headline": "문제가 발생했습니다",
                 "title": "오류"
             },
-            "headline": "{span.link}[{{url}}] 에서 귀하의 Waves 주소에 대한 액세스를 요청합니다",
+            "headline": "{span.link}[{{url}}] 에서 귀하의 Bancoin 주소에 대한 액세스를 요청합니다",
             "retrySign": "재시도",
-            "title": "Waves로 로그인",
+            "title": "Bancoin로 로그인",
             "txHash": "TXHASH",
             "warning": "이동되는 웹사이트에 귀하의 백업 구절(SEED)를 입력하지 마세요."
         },
         "import": {
-            "errorBeta": "Waves Beta 클라이언트에서 귀하의 계정을 검색할 수 없습니다. Waves Lite 클라이언트에서 불러오기를 시도하세요.",
+            "errorBeta": "Bancoin Beta 클라이언트에서 귀하의 계정을 검색할 수 없습니다. Bancoin Lite 클라이언트에서 불러오기를 시도하세요.",
             "errorHeader": "계정이 없습니다",
-            "errorLite": "Waves Lite 클라이언트에서 귀하의 계정을 검색할 수 없습니다. Waves Beta 클라이언트에서 불러오기를 시도하세요.",
+            "errorLite": "Bancoin Lite 클라이언트에서 귀하의 계정을 검색할 수 없습니다. Bancoin Beta 클라이언트에서 불러오기를 시도하세요.",
             "errorUnable": "귀하의 계정을 검색할 수 없습니다. 백업 구절(SEED)을 사용하여 복원하십시오.",
             "fromBetaButton": "Beta Client에서 불러오기",
             "fromLiteButton": "Lite Client에서 불러오기",
@@ -327,10 +327,10 @@
             "selectAccountToImport": "불러올 계정 선택",
             "selectAccountToImportFrom": "계정을 불러올 어플리케이션 선택",
             "selectButton": "선택",
-            "wavesBetaClient": "Waves Beta 클라이언트",
-            "wavesBetaClientDescription": "Waves Beta 클라이언트에서 계정 불러오기",
-            "wavesLiteClient": "Waves Lite 클라이언트",
-            "wavesLiteClientDescription": "Waves Lite 클라이언트에서 계정 불러오기"
+            "wavesBetaClient": "Bancoin Beta 클라이언트",
+            "wavesBetaClientDescription": "Bancoin Beta 클라이언트에서 계정 불러오기",
+            "wavesLiteClient": "Bancoin Lite 클라이언트",
+            "wavesLiteClientDescription": "Bancoin Lite 클라이언트에서 계정 불러오기"
         },
         "open-main": {
             "dex": {
@@ -386,7 +386,7 @@
             "scanQrCode": "QR 코드 스캔",
             "title": "귀하의 주소를 공유하세요",
             "warningText": "본 주소로 다른 디지털 자산을 보내면 자금이 영구적으로 손실됩니다.",
-            "warningTitle": "본 주소로 BCT 또는 Waves 기반 토큰만 전송하세요"
+            "warningTitle": "본 주소로 BCT 또는 Bancoin 기반 토큰만 전송하세요"
         },
         "receive": {
             "accountStatus": "계정 상태",
@@ -435,7 +435,7 @@
             "maximumIs": "최대 금액은",
             "minimumIs": "최소 금액은",
             "providedByCoinomat": {
-                "descriprion": "{div}[본 서비스는 Coinomat Company (Coinomat)에서 제공합니다. Waves Platform AG는 Coinomat에 의해 수행된 어떠한 활동에 대해서 책임을 지지 않으며 본 서비스를 제공함으로써 발생할 수 있는 Coinomat과 Waves Platform 사용자 간의 어떠한 관계에도 관여하지 않습니다.]{div}[Coinomat 서비스를 이용함으로써 귀하는 [Coinomat 서비스 약관 및 거래의 이행](https://coinomat.com/terms.php)에 동의하는 것으로 간주합니다. 본 조건에 동의하지 않으면 Coinomat 서비스를 사용하지 마십시오.]",
+                "descriprion": "{div}[본 서비스는 Coinomat Company (Coinomat)에서 제공합니다. Bancoin Platform AG는 Coinomat에 의해 수행된 어떠한 활동에 대해서 책임을 지지 않으며 본 서비스를 제공함으로써 발생할 수 있는 Coinomat과 Bancoin Platform 사용자 간의 어떠한 관계에도 관여하지 않습니다.]{div}[Coinomat 서비스를 이용함으로써 귀하는 [Coinomat 서비스 약관 및 거래의 이행](https://coinomat.com/terms.php)에 동의하는 것으로 간주합니다. 본 조건에 동의하지 않으면 Coinomat 서비스를 사용하지 마십시오.]",
                 "header": "본 서비스는 Coinomat Company (Coinomat)에 의해 제공됩니다.",
                 "termsReadedInputLabel": "본인은 Coinomat Company의 [서비스 약관 및 트랜잭션 수행 약관](https://coinomat.com/terms.php), [제한 사항](https://coinomat.com/limits.php), [개인 정보 정책](https://coinomat.com/privacy.php)을 확인하였으며 이에 동의합니다.",
                 "warning": "인증, 지불 처리 또는 합의 철회와 관련된 문제가 있을 경우 Coinomat 지원팀에 문의하세요 — [support@coinomat.com](mailto:support@coinomat.com)"
@@ -465,8 +465,8 @@
             "warning": "귀하는 백업 구절을 저장하지 않았습니다"
         },
         "removeKeeperAccount": {
-            "heading": "Waves Keeper 계정 삭제",
-            "text": "본 작업은 이 계정에 저장된 경로만 삭제됩니다. Waves Keeper에서 계정을 삭제하지 않습니다."
+            "heading": "Bancoin Keeper 계정 삭제",
+            "text": "본 작업은 이 계정에 저장된 경로만 삭제됩니다. Bancoin Keeper에서 계정을 삭제하지 않습니다."
         },
         "removeLedgerAccount": {
             "heading": "Ledger 계정 삭제",
@@ -570,7 +570,7 @@
             "titleComplete": "전송 완료",
             "toBank": "은행 계좌로 출금",
             "total": "총수량",
-            "toWaves": "Waves 주소로 전송",
+            "toWaves": "Bancoin 주소로 전송",
             "txFee": "트랜잭션 수수료",
             "validationError": {
                 "notEnoughFunds": "수수료를 지불할 충분한 자금이 없습니다. {{fee, money-currency}} 트랜잭션 수수료로 지불해야 합니다.",
@@ -602,7 +602,7 @@
             "general": {
                 "auto": "자동",
                 "blockHeight": "현재 블록 Height",
-                "blue": "Waves",
+                "blue": "Bancoin",
                 "color": "색상",
                 "dark": "어둡게",
                 "green": "클래식",
@@ -627,9 +627,9 @@
             "message": "로그인 또는 신규 계정을 생성하여 환경을 설정하세요",
             "network": {
                 "apiAddress": "데이터 서비스",
-                "apiAddressHelp": "데이터 서비스는 Waves 블록체인 데이터와 상호 작용하기 위한 추가적인 API를 제공합니다.",
+                "apiAddressHelp": "데이터 서비스는 Bancoin 블록체인 데이터와 상호 작용하기 위한 추가적인 API를 제공합니다.",
                 "assetNameFilter": "명칭 지정 서비스",
-                "assetNameFilterHelp": "본 서비스는 Waves 토큰 라이브러리를 통해 토큰의 명칭을 확인합니다. 해당 기능을 비활성화하려면 항목을 비워두세요.",
+                "assetNameFilterHelp": "본 서비스는 Bancoin 토큰 라이브러리를 통해 토큰의 명칭을 확인합니다. 해당 기능을 비활성화하려면 항목을 비워두세요.",
                 "copy": "복사",
                 "dataProvider": "데이터 제공자",
                 "dataProviderDescription": "{{dataProviderDescription}}",
@@ -654,7 +654,7 @@
                 "unavailable": {
                     "description": {
                         "ledger": "Ledger 디바이스에 보관된 계정은 추출할 수 없습니다",
-                        "wavesKeeper": "Waves Keeper에서 불러온 계정의 추출은 Waves Keeper에서 사용할 수 있습니다"
+                        "wavesKeeper": "Bancoin Keeper에서 불러온 계정의 추출은 Bancoin Keeper에서 사용할 수 있습니다"
                     },
                     "header": {
                         "ledger": "추출 불가",
@@ -686,7 +686,7 @@
             "confirm": "승인",
             "confirmRequest": "요청 승인",
             "confirmRequest_utils": "요청 승인",
-            "confirmRequestKeeper": "Waves Keeper에서 승인을 기다리는 중...",
+            "confirmRequestKeeper": "Bancoin Keeper에서 승인을 기다리는 중...",
             "confirmRequestLedger": {
                 "cancel": "취소",
                 "errorDescription": "다시 시도하세요. 오류가 지속되면 [이 글](https://support.ledgerwallet.com/hc/en-us/articles/115005165269-Fix-connection-issues)을 참조하세요.",
@@ -697,7 +697,7 @@
             "confirmRequestMatcher_utils": "Matcher 요청에 서명하세요. 서명되지 않은 Ledger 계정은 DEX에서 거래 할 수 없습니다.",
             "confirmRequestToMatcher": "Matcher 요청에 서명하십시오. 서명되지 않은 계정은 DEX에서 거래 할 수 없습니다.",
             "connecting": "연결중…",
-            "connectingKeeper": "Waves Keeper에 연결중...",
+            "connectingKeeper": "Bancoin Keeper에 연결중...",
             "connectionError": "Ledger 디바이스에 연결할 수 없습니다",
             "connectionErrorKeeper": "계정에 액세스할 수 없습니다",
             "connectionText": "연결 시간이 초과되었습니다. 다시 시도하세요.",
@@ -705,19 +705,19 @@
             "enterPin": "PIN 코드를 입력하세요",
             "fee": "수수료",
             "matcher": "요청 주문에 서명",
-            "openApp": "Waves 앱 실행",
+            "openApp": "Bancoin 앱 실행",
             "price": "가격",
             "refererTo": "오류가 지속되면 다음을 참고하세요",
             "referTo": "오류가 지속되면 다음을 참고하세요",
             "request": "요청",
             "requestId": "Hash 요청",
             "retry": "다시 시도하세요",
-            "signByKeeper": "Waves Keeper의 승인을 기다리는 중입니다…",
+            "signByKeeper": "Bancoin Keeper의 승인을 기다리는 중입니다…",
             "signByLedger": "Ledger의 승인을 기다리는 중 입니다…",
             "signError": "요청이 승인되지 않았습니다.",
-            "signErrorKeeper": "Waves Keeper 사용 요청을 승인하지 않았습니다.",
+            "signErrorKeeper": "Bancoin Keeper 사용 요청을 승인하지 않았습니다.",
             "signErrorText": "귀하의 Ledger 디바이스에서 요청을 승인하지 않았습니다.",
-            "signErrorTextImportKeeper": "주소 {{address}}로 Waves Keeper에 로그인 하고 계속하기 위해 페이지를 새로고침 하세요.",
+            "signErrorTextImportKeeper": "주소 {{address}}로 Bancoin Keeper에 로그인 하고 계속하기 위해 페이지를 새로고침 하세요.",
             "signErrorTextKeeper": "다시 시도하세요. 오류가 지속된다면 [서포트](https://support.wavesplatform.com/)에 문의하세요.",
             "txId": "TXID"
         },
@@ -754,18 +754,18 @@
         "termsAccept": {
             "body": {
                 "advancedMode": "고급 기능",
-                "analytics": "Waves 플랫폼을 개선하기 위해 개발자들에게 익명으로 사용 통계를 보냅니다.",
-                "backup": "본 앱을 다른 장치로 이동하거나 삭제하면 나의 Waves 계정은 백업 구절로만 복구될 수 있음을 이해합니다.",
+                "analytics": "Bancoin 플랫폼을 개선하기 위해 개발자들에게 익명으로 사용 통계를 보냅니다.",
+                "backup": "본 앱을 다른 장치로 이동하거나 삭제하면 나의 Bancoin 계정은 백업 구절로만 복구될 수 있음을 이해합니다.",
                 "ok": "동의하고 시작",
                 "privacyPolicy": "본 [개인정보 보호정책]을 읽었으며 동의합니다\n(https://wavesplatform.com/files/docs/Privacy Policy_SW.pdf).",
                 "read": "다음 약관을 읽었으며 이해하고 동의합니다.",
                 "readTermsAndConditions": "본 [이용 약관]을 읽었으며 동의합니다\n(https://wavesplatform.com/files/docs/Waves_terms_and_conditions.pdf).",
                 "security": "나의 자산이 회사가 아닌 현재 사용 중인 장치에서 안전하게 보관된다는 것을 이해합니다.",
-                "securityAndBackup": "나의 자산이 회사가 아닌 본 장치에서 안전하게 보관되고 있다는 것을 이해합니다. 만약 이 앱이 지워지거나 다른 장치로 이동된다면 나의 Waves는 백업 구절로만 복원될 수 있습니다.",
+                "securityAndBackup": "나의 자산이 회사가 아닌 본 장치에서 안전하게 보관되고 있다는 것을 이해합니다. 만약 이 앱이 지워지거나 다른 장치로 이동된다면 나의 Bancoin는 백업 구절로만 복원될 수 있습니다.",
                 "terms": "이용 약관"
             },
             "header": {
-                "description": "Waves는 다릅니다 — 본 지갑은 귀하의 장치에서 안전하게 보관됩니다",
+                "description": "Bancoin는 다릅니다 — 본 지갑은 귀하의 장치에서 안전하게 보관됩니다",
                 "title": "계정 생성 완료! 주의사항",
                 "title2": "이용 약관"
             }
@@ -804,17 +804,17 @@
                 "buttonMobile": "다음",
                 "p1": "귀하의 안전을 위해 몇 가지 중요한 사항을 확인해야 합니다. 🙏",
                 "p2": "만약 피싱 사이트를 방문하거나 백업 구절(일명 SEED) 분실 시 당사는 귀하의 자금을 되찾거나 계정을 정지할 수 없습니다.",
-                "p3": "당사의 플랫폼을 이용함에 따라 귀하는 백업 구절(SEED) 분실에 관련된 모든 위험을 감수하는 것에 동의하는 것이며 이는 귀하의 자금 확보 및 처분이 불가능한 경우를 포함하며 이에 국한되지 않습니다. 귀하가 SEED를 분실할 경우 Waves Platform은 이에 따른 부정적인 결과에 어떠한 책임도 없다는 것에 동의하고 승인합니다.",
-                "title": "Waves Platform에 오신것을 환영합니다!"
+                "p3": "당사의 플랫폼을 이용함에 따라 귀하는 백업 구절(SEED) 분실에 관련된 모든 위험을 감수하는 것에 동의하는 것이며 이는 귀하의 자금 확보 및 처분이 불가능한 경우를 포함하며 이에 국한되지 않습니다. 귀하가 SEED를 분실할 경우 Bancoin Platform은 이에 따른 부정적인 결과에 어떠한 책임도 없다는 것에 동의하고 승인합니다.",
+                "title": "Bancoin Platform에 오신것을 환영합니다!"
             },
             "step2": {
                 "backButton": "뒤로가기",
                 "cell1": "귀하는 익명으로 지갑을 사용합니다. 즉, 귀하의 계정은 이메일이나 기타 개인 정보 데이터에 연결되어 있지 않습니다.",
                 "cell2": "특정 장치나 브라우저에서 작업할 때 비밀번호는 귀하의 계정을 보호합니다. 이는 백업 구절이 저장 장치에 저장되지 않도록 하기 위해 필요합니다.",
                 "cell3": "비밀번호를 잊어버린 경우 계정 복구 양식에 백업 구절을 입력하여 새 비밀번호를 쉽게 만들 수 있습니다. 하지만 백업 구절을 분실할 경우 계정에 액세스할 방법이 전혀 없습니다.",
-                "cell4": "백업 구절을 변경할 수 없습니다. 실수로 다른 사람에게 공유했거나 사기꾼이 가져간 것으로 의심되는 경우 즉시 신규 Waves 지갑을 만들어 자금을 이전하세요.",
+                "cell4": "백업 구절을 변경할 수 없습니다. 실수로 다른 사람에게 공유했거나 사기꾼이 가져간 것으로 의심되는 경우 즉시 신규 Bancoin 지갑을 만들어 자금을 이전하세요.",
                 "nextButton": "직접 보호하세요",
-                "p1": "일반적인 중앙 집중형 서버에서는 이메일을 통해 비밀번호를 변경 및 재설정할 수 있지만 Waves와 같은 탈중앙화 플랫폼에서는 모든 것이 다르게 작동합니다:",
+                "p1": "일반적인 중앙 집중형 서버에서는 이메일을 통해 비밀번호를 변경 및 재설정할 수 있지만 Bancoin와 같은 탈중앙화 플랫폼에서는 모든 것이 다르게 작동합니다:",
                 "title": "백업 구절에 대해 확인해야 할 사항"
             },
             "step3": {
@@ -854,12 +854,12 @@
     "utils": {
         "whatsNew": {
             "body": {
-                "1_0_0": "{span.line}[1. Waves Client 정식 버전 출시.]{span.line}[2. 메인 페이지에서 즐겨찾는 자산 등록 및 해제 가능.]{span.line}[3. 나이트 모드 추가.]{span.line}[4. 구 버전의 클라이언트에서 계정 불러오기 가능.]{span.line}[5. 기타 버그 픽스.]",
+                "1_0_0": "{span.line}[1. Bancoin Client 정식 버전 출시.]{span.line}[2. 메인 페이지에서 즐겨찾는 자산 등록 및 해제 가능.]{span.line}[3. 나이트 모드 추가.]{span.line}[4. 구 버전의 클라이언트에서 계정 불러오기 가능.]{span.line}[5. 기타 버그 픽스.]",
                 "1_0_0-beta_23": "{span.line}[1. '새로운 기능' 섹션을 추가!]{span.line}[2. 귀하의 계정에 이름 추가 가능.]{span.line}[3. 기타 버그 픽스.]",
                 "1_0_0-beta_25": "{span.line}[1. 세션 만료 시간 설정 가능]{span.line}[2. 보기 영역 밖으로 이동되는 DEX의 매수창/매도창 버그 픽스.]{span.line}[3. 백업 구절(SEED)을 저장하지 않으면 경고 알림.]{span.line}[4. 기타 버그 픽스.]",
                 "1_0_0-beta_26": "{span.line}[1. 기타 버그 픽스.]",
                 "1_0_0-beta_27": "{span.line}[1. 중국어 지원 추가.]{span.line}[2. 터키어 지원 추가.]",
-                "1_0_0-beta_30": "{span.line}[1. 귀하가 발행한 토큰의 소각 및 재발행 가능.]{span.line}[2. Waves Auth API 지원 추가.]{span.line}[3. 기타 버그 픽스.]",
+                "1_0_0-beta_30": "{span.line}[1. 귀하가 발행한 토큰의 소각 및 재발행 가능.]{span.line}[2. Bancoin Auth API 지원 추가.]{span.line}[3. 기타 버그 픽스.]",
                 "1_0_0-beta_31": "{span.line}[1. 신용 카드로 BCT 및 BTC 구매 가능.]{span.line}[2. 매수창/매도창 UI 개선.]{span.line}[3. 윈도우 32비트 운영체제 지원 추가.]{span.line}[4. 기타 버그 픽스.]",
                 "1_0_0-beta_32": "{span.line}[1. 클라이언트를 사용해 대량 전송 (Mass Transfers) 가능.]{span.line}[2. 기타 버그 픽스.]",
                 "1_0_0-beta_35": "{span.line}[1. 포트폴리오 탭에서 토큰 정리,필터링,숨기기 가능.]{span.line}[2. DASH 게이트웨이 런칭 완료.]{span.line}[3. 힌디어 지원 추가.]{span.line}[4. 네덜란드어 지원 추가.]{span.line}[5. 다른 사용자에게 인보이스 발행 가능.]{span.line}[6. 기타 버그 픽스.]",
@@ -867,15 +867,15 @@
                 "1_0_0-beta_39": "{span.line}[1. 환경설정에 스팸 필터 추가.]{span.line}[2. 기타 버그 픽스.]",
                 "1_0_0-beta_40": "{span.line}[1. Monero 게이트웨이 런칭 완료.]",
                 "1_0_0-beta_42": "{span.line}[1. 스페인어 지원 추가.]{span.line}[2. 기본 설정으로 계정 세부사항을 저장하지 않고 클라이언트 사용 가능.]{span.line}[3. 트랜잭션 페이지에 스팸 토큰 표시.]{span.line}[4. 기타 버그 픽스.]",
-                "1_0_0-beta_47": "{span.line}[1. 완전히 새로운 DEX UI.]{span.line}[2. 보다 빠르고 안정적인 클라이언트.]{span.line}[3. Alias 기능 사용 가능.]{span.line}[4. 기타 버그 픽스.]{span.line}[5. Waves 후기 [영상](https://forum.wavesplatform.com/t/contest-best-waves-dex-video-review/822) 또는 Waves 후기 [블로그 포스팅](https://forum.wavesplatform.com/t/contest-for-the-writers-waves-dex-overview/835) 제작 경연에 참가하세요.]",
+                "1_0_0-beta_47": "{span.line}[1. 완전히 새로운 DEX UI.]{span.line}[2. 보다 빠르고 안정적인 클라이언트.]{span.line}[3. Alias 기능 사용 가능.]{span.line}[4. 기타 버그 픽스.]{span.line}[5. Bancoin 후기 [영상](https://forum.wavesplatform.com/t/contest-best-waves-dex-video-review/822) 또는 Bancoin 후기 [블로그 포스팅](https://forum.wavesplatform.com/t/contest-for-the-writers-waves-dex-overview/835) 제작 경연에 참가하세요.]",
                 "1_0_0-beta_50": "{span.line}[1. 귀하의 계정에 보유하고 있는 불필요한 토큰 소각 가능.]{span.line}[2. 기타 버그 픽스.]",
                 "1_0_10": "{span.line}[1. 스폰서십 트랜잭션 지원 추가. [상세 안내](https://docs.wavesplatform.com/en/waves-client/assets-management/sponsored-transaction.html)]\n{span.line}[2. 폴란드어 및 포르투칼어 지원 추가.]",
-                "1_0_14": "{span.line}[1. Waves 잔고없이 스폰서 자산을 사용하는 버그 픽스.]\n{span.line}[2. 30일 만기 주문 버그 픽스.]\n{span.line}[3. 기타 버그 픽스.]",
+                "1_0_14": "{span.line}[1. Bancoin 잔고없이 스폰서 자산을 사용하는 버그 픽스.]\n{span.line}[2. 30일 만기 주문 버그 픽스.]\n{span.line}[3. 기타 버그 픽스.]",
                 "1_0_15": "{span.line}[1. Ledger 승인 관련 버그 픽스.]\n{span.line}[2. Ledger 승인 대기 시간 증가.]\n{span.line}[3. 오류 메세지에 대한 자세한 정보 추가.]",
                 "1_0_18": "{span.line}[1. 귀하의 계정에 Script를 설정할 수 있습니다.]\n{span.line}[2. 기타 버그 픽스.]",
                 "1_0_21": "{span.line}[1. Ledger를 통한 권한 승인 수정.]\n{span.line}[2. 기타 버그 픽스.]",
                 "1_0_22": "{span.line}[1. 스크립트된 계정으로 작업할 수 있는 고급 기능 추가.]",
-                "1_0_25": "{span.line}[1. [Waves Keeper](https://chrome.google.com/webstore/detail/waves-keeper/lpilbniiabackdjcionkobglmddfbcjo?hl=en) 서포트 기능 추가.]",
+                "1_0_25": "{span.line}[1. [Bancoin Keeper](https://chrome.google.com/webstore/detail/waves-keeper/lpilbniiabackdjcionkobglmddfbcjo?hl=en) 서포트 기능 추가.]",
                 "1_0_27": "{span.line}[1. 포트폴리오 탭에 \"나의 자산\" 카테고리 추가.]\n{span.line}[2. 기타 버그 픽스.]",
                 "1_0_28": "{span.line}[1. 기존 계정을 모바일로 추출하는 페어링 기능 추가.]\n{span.line}[2. 기타 버그 픽스.]",
                 "1_0_29": "{span.line}[1. Cyrillic 알파벳을 사용하여 QR 코드 생성 수정.]\n{span.line}[2. 워치리스트 검색을 위한 툴팁 추가.]\n{span.line}[3. 기타 버그 픽스. ]",
@@ -889,14 +889,14 @@
                 "1_0_41": "{span.line}[1. DEX 최적화.]\n{span.line}[2. 알림 시스템 추가.]\n{span.line}[3. 기타 버그 픽스.]",
                 "1_0_42": "{span.line}[1. 기타 버그 픽스.]",
                 "1_0_5": "{span.line}[1. DEX 차트에 거래량 규모 표시 추가.]\n{span.line}[2. 기타 버그 픽스.]",
-                "1_0_6": "{span.line}[1. Waves 데스트톱 클라이언트를 통한 인증 기능이 추가되었습니다.]",
+                "1_0_6": "{span.line}[1. Bancoin 데스트톱 클라이언트를 통한 인증 기능이 추가되었습니다.]",
                 "1_0_7": "{span.line}[1. 데스크톱 클라이언트 충돌 오류 픽스.]\n{span.line}[2. 대량의 컨텐츠로 인한 트랜잭션과 포트폴리오 페이지간의 전환을 최적화.]\n{span.line}[3. 트랜잭션 목록에 스팸 토큰의 명칭을 숨김.]\n{span.line}[4. 오류 메세지 출력 수정.]",
                 "1_0_8": "{span.line}[1. Ledger Nano S 지원 기능 추가]\n{span.line}[2. 인증 방법을 선택할 수 있는 새로운 옵션 추가]",
                 "1_1_0": "{span.line}[1. 주문 만료기간이 기본 설정으로 저장됩니다.]\n{span.line}[2. 기타 버그 픽스.]",
                 "1_2_0": "{span.line}[1.일본어 및 에스토니아어 추가 .]\n{span.line}[2. 매수/매도창 UI 개선.]\n{span.line}[3. 기타 버그 픽스.]",
                 "1_2_1": "{span.line}[1. 차트 사이즈와 스케일 설정 및 시간 간격이 저장됩니다.]\n{span.line}[2. 기타 버그 픽스.]",
                 "1_2_2": "{span.line}[1. 보안 업데이트.]{span.line}[2. 기타 버그 픽스.]",
-                "1_2_3": "{span.line}[1.Ledger Waves 1.0.0 앱 지원 추가.]",
+                "1_2_3": "{span.line}[1.Ledger Bancoin 1.0.0 앱 지원 추가.]",
                 "1_2_6": "{span.line}[1. Invocation 스크립트 트랜잭션 지원 추가. [자세히 보기](https://blog.wavesplatform.com/ride-for-dapps-hits-waves-testnet-e3f2906dd2aa)]\n{span.line}[2. UI 개선 및 기타 버그 픽스.]",
                 "1_2_8": "{span.line}[1. 스팸 토큰과 스팸 트랜잭션을 클라이언트에서 숨깁니다.]\n{span.line}[2. UI 개선 및 기타 버그 픽스.]",
                 "1_3_0": "{span.line}[1. 앱 네비게이션 및 시작 페이지 인터페이스 개선.]",

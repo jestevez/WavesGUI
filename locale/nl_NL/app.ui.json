@@ -75,7 +75,7 @@
         "success": "Uw transactie is verzonden!",
         "wavesKeeperUnconfirmed": {
             "description": "Probeer alstublieft opnieuw. Indien de error aanhoudt maak dan een ticket aan bij [support](https://support.wavesplatform.com)",
-            "header": "U heeft het verzoek niet via Waves Keeper bevestigd"
+            "header": "U heeft het verzoek niet via Bancoin Keeper bevestigd"
         }
     },
     "copyError": "Kan niet kopiëren! Wellicht is uw browser niet up to date",
@@ -99,9 +99,9 @@
             "confirmRequestKeeper": {
                 "cancel": "Annuleer",
                 "errorDescription": "Probeer het opnieuw. Als het probleem aanhoudt maak alstublieft een ticket aan bij [support](https://support.wavesplatform.com)",
-                "errorHeader": "U heeft het verzoek niet bevestigd met Waves Keeper",
+                "errorHeader": "U heeft het verzoek niet bevestigd met Bancoin Keeper",
                 "sign": "Probeer opnieuw",
-                "waiting": "Wachten op bevestiging van Waves Keeper..."
+                "waiting": "Wachten op bevestiging van Bancoin Keeper..."
             },
             "confirmRequestLedger": {
                 "cancel": "Annuleer",

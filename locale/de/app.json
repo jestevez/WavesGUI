@@ -78,8 +78,8 @@
         "tryDesktop": {
             "cancel": "Mit Webclient fortfahren",
             "label": "Meine Entscheidung merken und mich nicht mehr daran erinnern",
-            "message": "Wir empfehlen die Waves Desktop App zu verwenden. Download unter offizielle Seite.",
-            "title": "Verwenden sie die Waves Desktop App.",
+            "message": "Wir empfehlen die Bancoin Desktop App zu verwenden. Download unter offizielle Seite.",
+            "title": "Verwenden sie die Bancoin Desktop App.",
             "try": "Desktop App öffnen."
         }
     },

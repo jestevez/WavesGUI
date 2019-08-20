@@ -36,7 +36,7 @@
                 "required": "この項目は必須です"
             },
             "fee": "手数料 {{fee, money-currency}}",
-            "ideLink": "スクリプトの開発は [Waves Ride IDE](https://ide.wavesplatform.com/)で可能です",
+            "ideLink": "スクリプトの開発は [Bancoin Ride IDE](https://ide.wavesplatform.com/)で可能です",
             "ok": "署名",
             "textAreaTitle": "Base64 スクリプト",
             "warning": {
@@ -65,19 +65,19 @@
         "addressSaved": "保存されたアドレス",
         "back": "戻る",
         "error": {
-            "hasLockedKeeperDescription": "Waves Keeperの利用を続けるには、過去に作成したパスワードを入力するか、新しいパスワードを作成してください。",
-            "hasLockedKeeperHeader": "Waves Keeperからパスワードを入力してください",
+            "hasLockedKeeperDescription": "Bancoin Keeperの利用を続けるには、過去に作成したパスワードを入力するか、新しいパスワードを作成してください。",
+            "hasLockedKeeperHeader": "Bancoin Keeperからパスワードを入力してください",
             "hasNoUsersDescription": "作成済みのアカウントにログインするか、新しいアカウントを作成し、再度お試しください。",
             "hasNoUsersHeader": "あなたは有効なアカウントを持っていません",
             "install": "インストール",
             "networkDescription": "あなたが選択したアカウントは間違ったネットワークに接続しています。ネットワークを変更して再度お試しください。",
             "networkHeader": "ネットワークを変更",
             "notInstalledDescription": "インストール後、アカウントを作成し、サインイン後にページを再読み込みして続けてください",
-            "notInstalledHeader": "Waves Keeperを持っていないですか？",
+            "notInstalledHeader": "Bancoin Keeperを持っていないですか？",
             "refresh": "リトライ"
         },
-        "heading": "Waves Keeperからアカウントをインポート",
-        "loading": "Waves Keeperからアカウントをインポート",
+        "heading": "Bancoin Keeperからアカウントをインポート",
+        "loading": "Bancoin Keeperからアカウントをインポート",
         "login": "次へ",
         "name": "アカウント名",
         "nameExists": "その名前はすでに使用されています",
@@ -86,7 +86,7 @@
         "saveUserData": "ログイン状態を保持"
     },
     "LedgerClient_utils": "Ledgerデバイス",
-    "LedgerClientDescription": "Waves Keeperからアカウントをインポート",
+    "LedgerClientDescription": "Bancoin Keeperからアカウントをインポート",
     "modal": {
         "acceptNewTerms": {
             "title": "利用規約"
@@ -195,7 +195,7 @@
         },
         "deposit": {
             "coinomatBCH": {
-                "helpDescrText": "トランザクションが承認されると、ゲートウェイはBCHの送信を進め、完了するとあなたのWavesアカウントにトークンが反映されます。",
+                "helpDescrText": "トランザクションが承認されると、ゲートウェイはBCHの送信を進め、完了するとあなたのBancoinアカウントにトークンが反映されます。",
                 "helpDescrTitle": "このアドレスをBitcoin Cashクライアント、またはウォレットに入力してください",
                 "warningMinAmountText": "{{minAmount, BigNumber}}以下の{{assetTicker}}を送金した場合、資産を紛失します。",
                 "warningMinAmountTitle": "最小デポジットは {{minAmount, BigNumber}} {{assetTicker}}です",
@@ -203,7 +203,7 @@
                 "warningTitle": "このデポジットアドレスにはBCHのみ送信してください"
             },
             "coinomatBSV": {
-                "helpDescrText": "トランザクションが承認されると、ゲートウェイはBSVの送信を進め、完了するとあなたのWavesアカウントにトークンを反映します。",
+                "helpDescrText": "トランザクションが承認されると、ゲートウェイはBSVの送信を進め、完了するとあなたのBancoinアカウントにトークンを反映します。",
                 "helpDescrTitle": "このアドレスをBitcoin  Satoshi Visionクライアント、またはウォレットに入力してください",
                 "warningMinAmountText": "{{minAmount, BigNumber}}以下の{{assetTicker}}を送金した場合、資産を紛失します。",
                 "warningMinAmountTitle": "最小デポジットは {{minAmount, BigNumber}} {{assetTicker}}です",
@@ -211,7 +211,7 @@
                 "warningTitle": "このデポジットアドレスにはBSVのみ送信してください"
             },
             "coinomatBTC": {
-                "helpDescrText": "トランザクションが承認されると、ゲートウェイはBTCの送信を進め、完了するとあなたのWavesアカウントにトークンが反映されます。",
+                "helpDescrText": "トランザクションが承認されると、ゲートウェイはBTCの送信を進め、完了するとあなたのBancoinアカウントにトークンが反映されます。",
                 "helpDescrTitle": "このアドレスをBitcoinクライアント、またはウォレットに入力してください",
                 "warningMinAmountText": "{{minAmount, BigNumber}}以下の {{assetTicker}}を送金した場合、資産を紛失します。",
                 "warningMinAmountTitle": "最小デポジットは {{minAmount, BigNumber}} {{assetTicker}}です",
@@ -219,7 +219,7 @@
                 "warningTitle": "このデポジットアドレスにはBTCのみ送信してください"
             },
             "coinomatDASH": {
-                "helpDescrText": "トランザクションが承認されると、ゲートウェイはBSVの送信を進め、あなたのWavesアカウントにトークンが反映します。",
+                "helpDescrText": "トランザクションが承認されると、ゲートウェイはBSVの送信を進め、あなたのBancoinアカウントにトークンが反映します。",
                 "helpDescrTitle": "このアドレスをDASHクライアント、またはウォレットに入力してください",
                 "warningMinAmountText": "{{minAmount, BigNumber}}以下の{{assetTicker}}を送金した場合、資産を紛失します。",
                 "warningMinAmountTitle": "最小デポジットは {{minAmount, BigNumber}} {{assetTicker}}です",
@@ -227,7 +227,7 @@
                 "warningTitle": "このデポジットアドレスにはDASHのみ送信してください"
             },
             "coinomatETH": {
-                "helpDescrText": "トランザクションが承認されると、ゲートウェイはETHの送信を進め、完了するとあなたのWavesアカウントにトークンが反映されます。",
+                "helpDescrText": "トランザクションが承認されると、ゲートウェイはETHの送信を進め、完了するとあなたのBancoinアカウントにトークンが反映されます。",
                 "helpDescrTitle": "このアドレスをEthereumクライアント、またはウォレットに入力してください",
                 "warningMinAmountText": "{{minAmount, BigNumber}}以下の{{assetTicker}}を送金した場合、資産を紛失します。",
                 "warningMinAmountTitle": "最小デポジットは {{minAmount, BigNumber}} {{assetTicker}}です",
@@ -235,7 +235,7 @@
                 "warningTitle": "ETHをスマートコントラクトからデポジットしないでください。また、ERC20トークンもデポジットしないでください。"
             },
             "coinomatLTC": {
-                "helpDescrText": "トランザクションが承認されると、ゲートウェイはLTCの送信を進め、完了するとあなたのWavesアカウントにトークンが反映されます。",
+                "helpDescrText": "トランザクションが承認されると、ゲートウェイはLTCの送信を進め、完了するとあなたのBancoinアカウントにトークンが反映されます。",
                 "helpDescrTitle": "このアドレスをLitecoinクライアント、またはウォレットに入力してください",
                 "warningMinAmountText": "{{minAmount, BigNumber}}以下の{{assetTicker}}を送金した場合、資産を紛失します。",
                 "warningMinAmountTitle": "最小デポジットは {{minAmount, BigNumber}} {{assetTicker}}です",
@@ -243,7 +243,7 @@
                 "warningTitle": "このデポジットアドレスにはLTCのみ送信してください"
             },
             "coinomatXMR": {
-                "helpDescrText": "トランザクションが承認されると、ゲートウェイはXMRの送信を進め、完了するとあなたのWavesアカウントにトークンが反映されます。",
+                "helpDescrText": "トランザクションが承認されると、ゲートウェイはXMRの送信を進め、完了するとあなたのBancoinアカウントにトークンが反映されます。",
                 "helpDescrTitle": "このアドレスをMoneroクライアント、またはウォレットに入力してください",
                 "warningMinAmountText": "{{minAmount, BigNumber}}以下の{{assetTicker}}を送金した場合、資産を紛失します。",
                 "warningMinAmountTitle": "最小デポジットは {{minAmount, BigNumber}} {{assetTicker}}です",
@@ -251,7 +251,7 @@
                 "warningTitle": "このデポジットアドレスにはXMRのみ送信してください"
             },
             "coinomatZEC": {
-                "helpDescrText": "トランザクションが承認されると、ゲートウェイはZECの送信を進め、完了するとあなたのWavesアカウントにトークンが反映されます。",
+                "helpDescrText": "トランザクションが承認されると、ゲートウェイはZECの送信を進め、完了するとあなたのBancoinアカウントにトークンが反映されます。",
                 "helpDescrTitle": "このアドレスをZcashクライアント、またはウォレットに入力してください",
                 "warningMinAmountText": "{{minAmount, BigNumber}} 以下の{{assetTicker}}を送金した場合、資産を紛失します。",
                 "warningMinAmountTitle": "最小デポジットは {{minAmount, BigNumber}} {{assetTicker}}です",
@@ -265,7 +265,7 @@
             "scanQrCode": "QRコードをスキャン",
             "title": "デポジット {{assetName}}",
             "wavesGatewayERGO": {
-                "helpDescrText": "トランザクションが承認されると、ゲートウェイはERGOの送信を進め、完了するとあなたのWavesアカウントにトークンが反映されます。",
+                "helpDescrText": "トランザクションが承認されると、ゲートウェイはERGOの送信を進め、完了するとあなたのBancoinアカウントにトークンが反映されます。",
                 "helpDescrTitle": "このアドレスをERGOクライアント、またはウォレットに入力してください",
                 "warningMinAmountText": "0.1以下のERGOを送金した場合、資産を紛失します。",
                 "warningMinAmountTitle": "最小デポジット額は0.1 ERGO、最大デポジット額は50,000 ERGOです",
@@ -273,7 +273,7 @@
                 "warningTitle": "このデポジットアドレスにはERGOのみ送信してください"
             },
             "wavesGatewayVST": {
-                "helpDescrText": "トランザクションが承認されると、ゲートウェイはVostokの送信を進め、あなたのWavesアカウントにトークンが反映されます。",
+                "helpDescrText": "トランザクションが承認されると、ゲートウェイはVostokの送信を進め、あなたのBancoinアカウントにトークンが反映されます。",
                 "helpDescrTitle": "このアドレスをVostokクライアント、またはウォレットに入力してください",
                 "warningMinAmountTitle": "最小デポジット額は0.1 VST、最大デポジット額は50,000 VSTです"
             }
@@ -294,7 +294,7 @@
         "gatewaySign": {
             "cancel": "キャンセル",
             "continue": "許可",
-            "description": "{{name}} はあなたのWaves アドレスにアクセスが、SEEDや秘密鍵を知ることはありません。あなたの秘密のフレーズ（SEED）をあなたがリダイレクトされるウェブサイトで、決して入力しないでください。",
+            "description": "{{name}} はあなたのBancoin アドレスにアクセスが、SEEDや秘密鍵を知ることはありません。あなたの秘密のフレーズ（SEED）をあなたがリダイレクトされるウェブサイトで、決して入力しないでください。",
             "descriptionDesktop1": "このリンクはあなたが既定としているブラウザで開かれます。もし、別のウェブブラウザーで開きたい場合は、",
             "descriptionDesktop2": "コピー",
             "descriptionDesktop3": "そして、URLバーにリンクを貼り付けてください。",
@@ -303,16 +303,16 @@
                 "headline": "何かがおかしいようです",
                 "title": "エラー"
             },
-            "headline": "{span.link}[{{url}}] があなたのWaves アドレスにアクセスを要求しています",
+            "headline": "{span.link}[{{url}}] があなたのBancoin アドレスにアクセスを要求しています",
             "retrySign": "リトライ",
-            "title": "Wavesにサインイン",
+            "title": "Bancoinにサインイン",
             "txHash": "TXHASH",
             "warning": "あなたの秘密のフレーズ（SEED）をリダイレクトされるウェブサイトで決して入力しないでください。"
         },
         "import": {
-            "errorBeta": "あなたのアカウントをWaves Liteクライアントから読み込めませんでした。Waves Betaクライアントからインポートしてください。",
+            "errorBeta": "あなたのアカウントをBancoin Liteクライアントから読み込めませんでした。Bancoin Betaクライアントからインポートしてください。",
             "errorHeader": "アカウントが見つかりませんでした",
-            "errorLite": "あなたのアカウントをWaves Liteクライアントから読み込めませんでした。Waves Betaクライアントからインポートしてください。",
+            "errorLite": "あなたのアカウントをBancoin Liteクライアントから読み込めませんでした。Bancoin Betaクライアントからインポートしてください。",
             "errorUnable": "あなたのアカウントを読み込めませんでした。アカウントのバックアップSEEDから復元してください。",
             "fromBetaButton": "ベータクライアントからインポート",
             "fromLiteButton": "ライトクライアントからインポート",
@@ -327,10 +327,10 @@
             "selectAccountToImport": "アカウントのインポート元を選択する",
             "selectAccountToImportFrom": "アカウントのインポート元を選択する",
             "selectButton": "選択",
-            "wavesBetaClient": "Waves Beta クライアント",
-            "wavesBetaClientDescription": "Wavesのベータクライアントからアカウントをインポート",
-            "wavesLiteClient": "Waves Lite クライアント",
-            "wavesLiteClientDescription": "Wavesのライトクライアントからアカウントをインポート"
+            "wavesBetaClient": "Bancoin Beta クライアント",
+            "wavesBetaClientDescription": "Bancoinのベータクライアントからアカウントをインポート",
+            "wavesLiteClient": "Bancoin Lite クライアント",
+            "wavesLiteClientDescription": "Bancoinのライトクライアントからアカウントをインポート"
         },
         "open-main": {
             "dex": {
@@ -370,7 +370,7 @@
             }
         },
         "pairing": {
-            "downloadAppDescription": "Wavesのモバイルアプリケーションをダウンロードする:",
+            "downloadAppDescription": "Bancoinのモバイルアプリケーションをダウンロードする:",
             "scanCodeDescription": "以下のコードをiPhoneまたはAndroidデバイスでスキャンしてあなたのアカウントをペアリングしてください。"
         },
         "pinAsset": {
@@ -386,7 +386,7 @@
             "scanQrCode": "QRコードをスキャン",
             "title": "あなたのアドレスを共有",
             "warningText": "このアドレスに他のデジタルアセットを送信した場合、資産の消失につながる可能性があります。",
-            "warningTitle": "このアドレスにはWavesかWavesトークンのみ送信してください"
+            "warningTitle": "このアドレスにはBancoinかBancoinトークンのみ送信してください"
         },
         "receive": {
             "accountStatus": "アカウントステータス",
@@ -435,7 +435,7 @@
             "maximumIs": "最大:",
             "minimumIs": "最小:",
             "providedByCoinomat": {
-                "descriprion": "{div}[このサービスはCoinomat 社 (Coinomat)により提供されています。Waves Platform AGは、Coinomatの行動に対して一切の責任を負うものではなく、CoinmatとWaves Platformのユーザー間で生じた関係に関与しません。{div}[あなたは[Coinomatの利用規則と取引行為](https://coinomat.com/terms.php)に同意したものとみなされます。本利用条件に同意しない場合は、Coinomatのサービスの利用をお控えください。]",
+                "descriprion": "{div}[このサービスはCoinomat 社 (Coinomat)により提供されています。Bancoin Platform AGは、Coinomatの行動に対して一切の責任を負うものではなく、CoinmatとBancoin Platformのユーザー間で生じた関係に関与しません。{div}[あなたは[Coinomatの利用規則と取引行為](https://coinomat.com/terms.php)に同意したものとみなされます。本利用条件に同意しない場合は、Coinomatのサービスの利用をお控えください。]",
                 "header": "このサービスはCoinomat社の提供です。",
                 "termsReadedInputLabel": "私はCoinomat社の [利用及び取引執行規約](https://coinomat.com/terms.php)および、[制限事項](https://coinomat.com/limits.php)、 [プライバシーポリシー](https://coinomat.com/privacy.php) に同意します。",
                 "warning": "認証、送金処理に問題が生じた場合、または同意を取消す場合、Coinomatのサポートチームに連絡してください。 — [support@coinomat.com](mailto:support@coinomat.com)"
@@ -465,8 +465,8 @@
             "warning": "あなたはまだシードを保存していません"
         },
         "removeKeeperAccount": {
-            "heading": "Waves Keeperアカウントを除去",
-            "text": "これは保存済みのアカウントへの経路を除去するのみで、Waves Keeperからアカウントを削除するわけではありません。"
+            "heading": "Bancoin Keeperアカウントを除去",
+            "text": "これは保存済みのアカウントへの経路を除去するのみで、Bancoin Keeperからアカウントを削除するわけではありません。"
         },
         "removeLedgerAccount": {
             "heading": "Ledgerアカウントを除去",
@@ -570,7 +570,7 @@
             "titleComplete": "送信完了",
             "toBank": "銀行口座へ引き出す",
             "total": "合計",
-            "toWaves": "Wavesアドレスに送信",
+            "toWaves": "Bancoinアドレスに送信",
             "txFee": "トランザクション手数料",
             "validationError": {
                 "notEnoughFunds": "あなたは必要な手数料を支払う資金を保有していません。 {{fee, money-currency}} をトランザクション手数料として支払う必要があります。",
@@ -602,7 +602,7 @@
             "general": {
                 "auto": "自動",
                 "blockHeight": "現在のブロック",
-                "blue": "Waves",
+                "blue": "Bancoin",
                 "color": "カラー",
                 "dark": "ダーク",
                 "green": "クラシック",
@@ -627,9 +627,9 @@
             "message": "設定を開くには、サインインまたはアカウントを作成してください",
             "network": {
                 "apiAddress": "データサービス",
-                "apiAddressHelp": "データサービスは、Wavesブロックチェーン上のデータと通信するための追加のAPIを提供します。",
+                "apiAddressHelp": "データサービスは、Bancoinブロックチェーン上のデータと通信するための追加のAPIを提供します。",
                 "assetNameFilter": "ネーミングサービス",
-                "assetNameFilterHelp": "このサービスは、Wavesトークンライブラリを使ってトークンの名前を確認します。 \n完全に無効にするには、このフィールドをクリアします。",
+                "assetNameFilterHelp": "このサービスは、Bancoinトークンライブラリを使ってトークンの名前を確認します。 \n完全に無効にするには、このフィールドをクリアします。",
                 "copy": "コピー",
                 "dataProvider": "データプロバイダー",
                 "dataProviderDescription": "{{dataProviderDescription}}",
@@ -654,7 +654,7 @@
                 "unavailable": {
                     "description": {
                         "ledger": "Ledgerデバイスに保存されているアカウントはエクスポートに対応していません",
-                        "wavesKeeper": "Waves KeeperからインポートされたアカウントのエクスポートはWaves Keeperの設定から利用可能です"
+                        "wavesKeeper": "Bancoin KeeperからインポートされたアカウントのエクスポートはBancoin Keeperの設定から利用可能です"
                     },
                     "header": {
                         "ledger": "エクスポートできません",
@@ -686,7 +686,7 @@
             "confirm": "承認",
             "confirmRequest": "リクエストを承認",
             "confirmRequest_utils": "リクエストを承認",
-            "confirmRequestKeeper": "Waves Keeperからの承認を待っています",
+            "confirmRequestKeeper": "Bancoin Keeperからの承認を待っています",
             "confirmRequestLedger": {
                 "cancel": "キャンセル",
                 "errorDescription": "再度お試し下さい。問題が継続する場合、 [こちらの記事](https://support.ledgerwallet.com/hc/en-us/articles/115005165269-Fix-connection-issues)をご参照下さい。",
@@ -697,7 +697,7 @@
             "confirmRequestMatcher_utils": "Matcherのリクエストに署名してください。署名をしない場合、LedgerからDEXでトレードすることはできません。",
             "confirmRequestToMatcher": "Matcherのリクエストに署名してください。署名をしない場合、からDEXでトレードすることはできません。",
             "connecting": "接続しています...",
-            "connectingKeeper": "Waves Keeperに接続しています...",
+            "connectingKeeper": "Bancoin Keeperに接続しています...",
             "connectionError": "Ledgerに接続することができません",
             "connectionErrorKeeper": "アカウントにアクセスすることができません",
             "connectionText": "接続がタイムアウトしました。再度お試しください。",
@@ -705,19 +705,19 @@
             "enterPin": "PINコードを入力してください",
             "fee": "手数料",
             "matcher": "注文リクエストに署名",
-            "openApp": "Waves Appを開く",
+            "openApp": "Bancoin Appを開く",
             "price": "価格",
             "refererTo": "エラーを解決できない場合、こちらを参照ください。",
             "referTo": "エラーを解決できない場合、こちらを参照ください。",
             "request": "リクエスト",
             "requestId": "ハッシュをリクエスト",
             "retry": "リトライ",
-            "signByKeeper": "Waves Keeperからの承認を待っています",
+            "signByKeeper": "Bancoin Keeperからの承認を待っています",
             "signByLedger": "Ledgerデバイスからの承認を待っています",
             "signError": "リクエストは未承認です。",
-            "signErrorKeeper": "あなたはWaves Keeper上でリクエストを承認しませんでした",
+            "signErrorKeeper": "あなたはBancoin Keeper上でリクエストを承認しませんでした",
             "signErrorText": "あなたはLedgerデバイスでリクエストを承認しませんでした",
-            "signErrorTextImportKeeper": "Waves Keeperに、アドレス : {{address}}でサインインし、\r\nページを再読込みして続ける。",
+            "signErrorTextImportKeeper": "Bancoin Keeperに、アドレス : {{address}}でサインインし、\r\nページを再読込みして続ける。",
             "signErrorTextKeeper": "再度お試し下さい。問題が継続する場合、 [サポート](https://support.wavesplatform.com)で、サポートチケットを発行して下さい。",
             "txId": "TXID"
         },
@@ -754,18 +754,18 @@
         "termsAccept": {
             "body": {
                 "advancedMode": "高度な機能",
-                "analytics": "開発者に匿名の使用統計を送信することで、Wavesプラットフォームの改善に協力します。",
-                "backup": "私は、アプリを他のデバイスに移動するまたは削除した場合、私のWavesはバックアップフレーズのみから復元できることを理解しています。",
+                "analytics": "開発者に匿名の使用統計を送信することで、Bancoinプラットフォームの改善に協力します。",
+                "backup": "私は、アプリを他のデバイスに移動するまたは削除した場合、私のBancoinはバックアップフレーズのみから復元できることを理解しています。",
                 "ok": "承認して始める",
                 "privacyPolicy": "[プライバシーポリシー](https://wavesplatform.com/files/docs/Privacy Policy_SW.pdf)の内容を確認し、同意します。",
                 "read": "私は規約を読み、十分に理解し、同意します。",
                 "readTermsAndConditions": "私は[利用規則](https://wavesplatform.com/files/docs/Waves_terms_and_conditions.pdf)を読み、十分に理解し、その内容に同意します。",
                 "security": "私の資金は企業ではなく、デバイス上に安全に保管されていることを理解しています。",
-                "securityAndBackup": "私の資金が企業ではなく、私のデバイスに安全に保管されていることを理解します。また、アプリを他のデバイスに移動、または削除した場合、私のWavesはバックアップフレーズのみから復元できることを理解しています。",
+                "securityAndBackup": "私の資金が企業ではなく、私のデバイスに安全に保管されていることを理解します。また、アプリを他のデバイスに移動、または削除した場合、私のBancoinはバックアップフレーズのみから復元できることを理解しています。",
                 "terms": "利用規約"
             },
             "header": {
-                "description": "Wavesの特性について — ウォレットは安全にデバイスに保管されます",
+                "description": "Bancoinの特性について — ウォレットは安全にデバイスに保管されます",
                 "title": "完了しました！レビューしましょう",
                 "title2": "利用規約"
             }
@@ -804,17 +804,17 @@
                 "buttonMobile": "次へ",
                 "p1": "ご自身の安全のため、重要事項を把握してください🙏",
                 "p2": "もし、フィッシングサイトを訪問してしまった場合や、バックアップフレーズ（SEEDフレーズ）を紛失した場合、私たちはあなたの資金を元に戻すことはできません。",
-                "p3": "私たちのプラットフォームを使い続けることで、シードの損失に関わるすべてのリスク（資金を入手し入金することができなくなることを含むが、これに限定されない）を受け入れることにあなたは同意するものとします。あなたがシードを紛失した場合、Wavesプラットフォームはこの結果責任を負わないことに、あなたは同意し承認するものとします。",
-                "title": "ようこそ！Waves Platformへ！"
+                "p3": "私たちのプラットフォームを使い続けることで、シードの損失に関わるすべてのリスク（資金を入手し入金することができなくなることを含むが、これに限定されない）を受け入れることにあなたは同意するものとします。あなたがシードを紛失した場合、Bancoinプラットフォームはこの結果責任を負わないことに、あなたは同意し承認するものとします。",
+                "title": "ようこそ！Bancoin Platformへ！"
             },
             "step2": {
                 "backButton": "戻る",
                 "cell1": "あなたは匿名でウォレットを利用することができます。つまり、あなたのアカウントはあなたのメールアドレスやその他の個人を特定するデータに紐付いていません。",
                 "cell2": "あなたのパスワードは特定のデバイスやブラウザでアカウントを使用する際に保護します。これは、あなたの秘密のフレーズがストレージに保存されていないことを確かにするために必要です。",
                 "cell3": "パスワードをお忘れになった場合、シークレットフレーズを使用してアカウント復元フォームからパスワードを再発行できます。但し、シークレットフレーズを紛失した場合、アカウントにアクセスできなくなります。",
-                "cell4": "秘密のフレーズを変更することはできません。誤って他人に送信した場合や、詐欺師に侵入された疑いがある場合は、直ちに新しいWavesウォレットを作成して資金を移してください。",
+                "cell4": "秘密のフレーズを変更することはできません。誤って他人に送信した場合や、詐欺師に侵入された疑いがある場合は、直ちに新しいBancoinウォレットを作成して資金を移してください。",
                 "nextButton": "あなたご自身を守る",
-                "p1": "アカウントの登録の際に、あなたはアカウントを保護するために、パスワードと秘密のフレーズ（SEED）を保存するように求められます。一般的に、集中型サーバーの場合、特別な注目はパスワードに向き、これは必要に応じてメールを通じて変更したりリセットすることが可能です。一方で、 Wavesのような分散型プラットフォームの場合、全く異なる仕組みが採用されています：",
+                "p1": "アカウントの登録の際に、あなたはアカウントを保護するために、パスワードと秘密のフレーズ（SEED）を保存するように求められます。一般的に、集中型サーバーの場合、特別な注目はパスワードに向き、これは必要に応じてメールを通じて変更したりリセットすることが可能です。一方で、 Bancoinのような分散型プラットフォームの場合、全く異なる仕組みが採用されています：",
                 "title": "あなたがSEEDについて知る必要があること"
             },
             "step3": {
@@ -854,12 +854,12 @@
     "utils": {
         "whatsNew": {
             "body": {
-                "1_0_0": "{span.line}[1. Wavesクライアントはベータ版から卒業しました。]{span.line}[2. メインページにアセットをピンできるようになりました。]{span.line}[3. 夜モードが追加されました。]{span.line}[4. 旧クライアントから全てのアカウント情報を簡単にインポートできるようになりました。]{span.line}[5. マイナーバグを修正しました。]",
+                "1_0_0": "{span.line}[1. Bancoinクライアントはベータ版から卒業しました。]{span.line}[2. メインページにアセットをピンできるようになりました。]{span.line}[3. 夜モードが追加されました。]{span.line}[4. 旧クライアントから全てのアカウント情報を簡単にインポートできるようになりました。]{span.line}[5. マイナーバグを修正しました。]",
                 "1_0_0-beta_23": "{span.line}[1. 「新機能」欄を追加しました。]{span.line}[2. アカウントに名前を追加できるようになりました。]{span.line}[3. 一部のマイナーバグを修正しました。]",
                 "1_0_0-beta_25": "{span.line}[1. 設定からセッションタイムを変更できるようになりました。]{span.line}[2. DEXの購入・売却画面が正しく表示されないバグを修正しました。]{span.line}[3. シードを保存してない場合リマインドします。{span.line}[4. 一部のマイナーバグは修正されました。]",
                 "1_0_0-beta_26": "{span.line}[1. いくつかのマイナーなバグを修正しました。]",
                 "1_0_0-beta_27": "{span.line}[1. 中国語を追加しました。]{span.line}[2. トルコ語を追加しました。]",
-                "1_0_0-beta_30": "{span.line}[1. 生成したトークンをバーン、または追加発行できるようになりました。]{span.line}[2. Waves Auth APIサポートを追加しました。]{span.line}[3. 一部のマイナーバグを修正しました。]",
+                "1_0_0-beta_30": "{span.line}[1. 生成したトークンをバーン、または追加発行できるようになりました。]{span.line}[2. Bancoin Auth APIサポートを追加しました。]{span.line}[3. 一部のマイナーバグを修正しました。]",
                 "1_0_0-beta_31": "{span.line}[1. クレジットカードでBCTとBTCを購入できるようになりました。]{span.line}[2. 購入・売却画面のUIを改善しました。]{span.line}[3. Windows 32-bit版対応を追加しました。]{span.line}[4. 複数のその他バグを修正しました。]",
                 "1_0_0-beta_32": "{span.line}[1. クライアントからマストランスファーができるようになりました。]{span.line}[2. 一部のマイナーバグを修正しました。]",
                 "1_0_0-beta_35": "{span.line}[1. ポートフォリオタブからトークンをソート、フィルター、隠すことができるようになりました。]{span.line}[2. DASH ゲートウェイがローンチされました。]{span.line}[3. ヒンズー語のサポートが追加されました。]{span.line}[4. オランダ語のサポートが追加されました。]{span.line}[5. 他のユーザーに請求ができるようになりました。]{span.line}[6. 追加のマイナーバグを修正しました。]",
@@ -870,12 +870,12 @@
                 "1_0_0-beta_47": "{span.line}[1. DEXのユーザーインターフェース完全に新しくなりました。]{span.line}[2. より高速でより安定したクライアントになりました。]{span.line}[3. エイリアス機能が再び使用可能になりました。]{span.line}[4. いくつかのマイナーなバグを修正しました。]{span.line}[5. [ビデオ](https://forum.wavesplatform.com/t/contest-best-waves-dex-video-review/822)を作成、または[記事](https://forum.wavesplatform.com/t/contest-for-the-writers-waves-dex-overview/835)を執筆して、私たちのコンテストに参加しよう。]",
                 "1_0_0-beta_50": "{span.line}[1.アカウント内のトークンをバーンできるようになりました。]{span.line}[2. 追加のマイナーバグを修正しました。]",
                 "1_0_10": "{span.line}[1. スポンサーシップトランザクションサポートを追加しました。 [更に読む](https://docs.wavesplatform.com/en/waves-client/assets-management/sponsored-transaction.html)]\r\n {span.line}[2. ポーランド語とポルトガル語のサポートが追加されました。]",
-                "1_0_14": "{span.line}[1. Wavesの残高なしでスポンサーアセットを使用できるバグを修正しました。]\r\n {span.line}[2. 30日の有効期限が設定された注文のバグを修正しました。]\r\n {span.line}[3. その他のマイナーなバグを修正しました。]",
+                "1_0_14": "{span.line}[1. Bancoinの残高なしでスポンサーアセットを使用できるバグを修正しました。]\r\n {span.line}[2. 30日の有効期限が設定された注文のバグを修正しました。]\r\n {span.line}[3. その他のマイナーなバグを修正しました。]",
                 "1_0_15": "{span.line}[1. Ledger上の認証の問題を修正しました。]\r\n {span.line}[2. Ledgerからの認証の待機時間を延長しました。]\r\n {span.line}[3. エラーメッセージに詳細情報を追加しました。]",
                 "1_0_18": "{span.line}[1. アカウントにスクリプトを設定できるようになりました。]\r\n {span.line}[2. 追加のマイナーバグを修正しました。]",
                 "1_0_21": "{span.line}[1. Ledgerを通じて認証ができる機能を修正しました。]\r\n {span.line}[2. いくつかのマイナーなバグを修正しました。]",
                 "1_0_22": "{span.line}[1. スクリプトを設定したアカウントで動作する高度な機能を追加しました。]",
-                "1_0_25": "{span.line}[1. [Waves Keeper](https://chrome.google.com/webstore/detail/waves-keeper/lpilbniiabackdjcionkobglmddfbcjo?hl=en) のサポートが追加されました。]",
+                "1_0_25": "{span.line}[1. [Bancoin Keeper](https://chrome.google.com/webstore/detail/waves-keeper/lpilbniiabackdjcionkobglmddfbcjo?hl=en) のサポートが追加されました。]",
                 "1_0_27": "{span.line}[1. ポートフォリオに「My Assets」カテゴリーを追加しました。]\n{span.line}[2. マイナーなバグを修正しました。]",
                 "1_0_28": "{span.line}[1. モバイル版に既存のアカウントをインポートできるペアリング機能を追加しました。]\r\n {span.line}[2. マイナーなバグを修正しました。]",
                 "1_0_29": "{span.line}[1. Cyrillic アルファベットを用いたQR コード生成の問題を解決しました。]\n{span.line}[2. ウォッチリストの検索にチューリップ機能を追加しました。]\n{span.line}[3. 一部UIを修正しました。 ]",
@@ -889,14 +889,14 @@
                 "1_0_41": "{span.line}[1. DEXを最適化しました。]\r\n {span.line}[2. 通知システムを追加しました。]\r\n {span.line}[3. マイナーなバグを修正しました。]",
                 "1_0_42": "{span.line}[1. マイナーなバグを修正しました。]",
                 "1_0_5": "{span.line}[1. DEXのチャートに取引ボリューム計が追加されました。]\r\n {span.line}[2. 追加のマイナーバグを修正しました。]",
-                "1_0_6": "{span.line}[1. Wavesのデスクトップクライアントを通じて認証ができる機能を追加しました。]",
+                "1_0_6": "{span.line}[1. Bancoinのデスクトップクライアントを通じて認証ができる機能を追加しました。]",
                 "1_0_7": "{span.line}[1. デスクトップクライアントの強制終了事象を修正しました。]\r\n {span.line}[2. 大きなコンテンツを扱う際のトランザクションページとポートフォリオページ間の移動時の挙動の最適化しました。]\r\n {span.line}[3. スマプトークンの名前がトランザクションリスト内で隠されるようになりました。]\r\n {span.line}[4. エラーメッセージのアウトプットが手直しされました。 ]",
                 "1_0_8": "{span.line}[1. Ledger Nano S に対応しました。]\r\n {span.line}[2. 選択した認証方法を保存するための新しいオプションが追加されました。]",
                 "1_1_0": "{span.line}[1. 注文の有効期間がデフォルトで保存されるようになりました。]{span.line}[2. マイナーなバグを修正しました。]",
                 "1_2_0": "{span.line}[1. 日本語とエストニア語を追加しました。]\n{span.line}[2. 購入売却画面におけるUIを改善しました。]\n{span.line}[3. マイナーなバグを修正しました。]",
                 "1_2_1": "{span.line}[1. タイムインターバルに加えてチャートのサイズとスケール設定を保存できるようになりました。]\n{span.line}[2. マイナーなバグを修正しました。]",
                 "1_2_2": "{span.line}[1. セキュリティのアップデートを実施。]{span.line}[2. マイナーなバグを修正しました。]",
-                "1_2_3": "{span.line} [1. Ledger Waves 1.0.0アプリをサポートしました。]",
+                "1_2_3": "{span.line} [1. Ledger Bancoin 1.0.0アプリをサポートしました。]",
                 "1_2_6": "{span.line} [1. InvokeScriptTransactionをサポート。 [もっと読む](https://blog.wavesplatform.com/ride-for-dapps-hits-waves-testnet-e3f2906dd2aa)]\n {span.line} [2. UIの改善と、いくつかのマイナーバグを修正しました。]",
                 "1_2_8": "{span.line}[1. スパムトークンとトランザクションが非表示になりました。]{span.line}[2. UIの改善と、いくつかのマイナーなバグを修正しました。]",
                 "1_3_0": "{span.line} [1. アプリのナビゲーションとスタートページのインターフェースが改善されました。]",

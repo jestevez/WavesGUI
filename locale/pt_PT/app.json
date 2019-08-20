@@ -78,8 +78,8 @@
         "tryDesktop": {
             "cancel": "Continue with web",
             "label": "Remember my choice and do not remind me again",
-            "message": "We recommend you use the Waves desktop app. If you don't have this, you can download it from the official site.",
-            "title": "Use the Waves desktop app",
+            "message": "We recommend you use the Bancoin desktop app. If you don't have this, you can download it from the official site.",
+            "title": "Use the Bancoin desktop app",
             "try": "Open desktop app"
         }
     },

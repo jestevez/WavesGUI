@@ -30,7 +30,7 @@
     },
     "name": "Nama aset Anda",
     "NFT": {
-        "description": "Token non-fungible (NFT) adalah token individual unik yang ada di blockchain Waves. Saat ini, tampilan NFTs di dompet Waves dan pada BCT DEX tidak didukung. Anda dapat melihat NFTs Anda di [Waves Explorer] (https://wavesexplorer.com/)",
+        "description": "Token non-fungible (NFT) adalah token individual unik yang ada di blockchain Bancoin. Saat ini, tampilan NFTs di dompet Bancoin dan pada BCT DEX tidak didukung. Anda dapat melihat NFTs Anda di [Bancoin Explorer] (https://wavesexplorer.com/)",
         "title": "Anda membuat token yang tidak dapat dipertukarkan."
     },
     "notifications": {

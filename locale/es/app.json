@@ -78,8 +78,8 @@
         "tryDesktop": {
             "cancel": "Continuar con pagina web",
             "label": "Recordar mi elección y no recordarme de nuevo",
-            "message": "Te recomendamos utilizar el app Waves desktop. Si no la tienes, puedes descargarla desde la pagina oficial.",
-            "title": "Utilizar el app Waves desktop",
+            "message": "Te recomendamos utilizar el app Bancoin desktop. Si no la tienes, puedes descargarla desde la pagina oficial.",
+            "title": "Utilizar el app Bancoin desktop",
             "try": "Abrir desktop app"
         }
     },

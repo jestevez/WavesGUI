@@ -44,7 +44,7 @@
         "confirmBackupDescription": "Weryfikuj frazę kopii zapasowej",
         "next": "Potwierdź",
         "prev": "Wróć",
-        "successContent": "Witamy na platformie Waves! Nie możesz zmienić swojej sekretnej frazy. Jeśli przypadkowo wysłałeś komuś sekretną frazę lub podejrzewasz, że została ona przejęta przez oszustów natychmiast utwórz nowy portfel Waves i prześlij na niego swoje środki.",
+        "successContent": "Witamy na platformie Bancoin! Nie możesz zmienić swojej sekretnej frazy. Jeśli przypadkowo wysłałeś komuś sekretną frazę lub podejrzewasz, że została ona przejęta przez oszustów natychmiast utwórz nowy portfel Bancoin i prześlij na niego swoje środki.",
         "successHeadline": "Traktuj swoją kopię zapasową ostrożnie!",
         "understand": "Rozumiem"
     },
@@ -52,7 +52,7 @@
         "backup": "Utwórz kopię zapasową",
         "description": "Musisz zapisać swoją frazę Seed. To jest niezbędne do uzyskania dostępu do Twojego konta",
         "modal": {
-            "descriptionP1": "Platforma Waves ostrzega przed zwiększoną częstotliwością oszust i ataków typu phishing w ciągu ostatniego miesiąca. Oszuści ukrywają swoje złośliwe oprogramowanie we własnych wersjach oprogramowania Waves, a następnie obiecują premie i rabaty jako przynętę dla użytkowników.",
+            "descriptionP1": "Platforma Bancoin ostrzega przed zwiększoną częstotliwością oszust i ataków typu phishing w ciągu ostatniego miesiąca. Oszuści ukrywają swoje złośliwe oprogramowanie we własnych wersjach oprogramowania Bancoin, a następnie obiecują premie i rabaty jako przynętę dla użytkowników.",
             "descriptionP2": "Proszę nie logować się na nieznanych platformach ponieważ może to skutkować utratą wszystkich zainwestowanych funduszy ",
             "descriptionP3": "Powinieneś używać tylko oficjalnego oprogramowania BCT",
             "ok": "Rozumiem",

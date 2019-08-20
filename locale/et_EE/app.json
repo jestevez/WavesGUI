@@ -78,9 +78,9 @@
         "tryDesktop": {
             "cancel": "Jätka veebis",
             "label": "Jäta mu valik meelde ja ära enam meelde tuleta",
-            "message": "Soovitame kasutada rakendust Waves desktop. Kui Teil seda ei ole, saate selle alla laadida ametlikust saidist.",
-            "title": "Kasutage rakendust Waves desktop",
-            "try": "Avage Waves desktop rakendus"
+            "message": "Soovitame kasutada rakendust Bancoin desktop. Kui Teil seda ei ole, saate selle alla laadida ametlikust saidist.",
+            "title": "Kasutage rakendust Bancoin desktop",
+            "try": "Avage Bancoin desktop rakendus"
         }
     },
     "money-currency": "{{money, money-currency}}",

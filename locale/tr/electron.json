@@ -14,7 +14,7 @@
     "modal": {
         "set_protocol_error": {
             "close": "Kapat",
-            "message": "Tarayıcı linkleri geçici olarak desteklenmiyor!! Waves uygulaması için varsayılan olarak ayarlanamaz.",
+            "message": "Tarayıcı linkleri geçici olarak desteklenmiyor!! Bancoin uygulaması için varsayılan olarak ayarlanamaz.",
             "report": "Raporla",
             "title": "Açık protokol hatası"
         }

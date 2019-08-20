@@ -14,7 +14,7 @@
     "modal": {
         "set_protocol_error": {
             "close": "Zamknij",
-            "message": "Nie można ustawić domyślnego protokołu dla klienta platformy Waves. Łącza z przeglądarki tymczasowo nie są obsługiwane!",
+            "message": "Nie można ustawić domyślnego protokołu dla klienta platformy Bancoin. Łącza z przeglądarki tymczasowo nie są obsługiwane!",
             "report": "Raport",
             "title": "Ustaw otwarty błąd protokołu"
         }

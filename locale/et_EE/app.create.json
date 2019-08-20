@@ -44,7 +44,7 @@
         "confirmBackupDescription": "Kontrollige salafraas",
         "next": "Kinnitage",
         "prev": "Mine tagasi",
-        "successContent": "Te ei saa oma salafraasi muuta. Kui saatsite selle kogemata kellelegi või kahtlustate, et petturid on selle üle võtnud, looge kohe uus Waves rahakott ja kandke oma raha/varad sinna üle.",
+        "successContent": "Te ei saa oma salafraasi muuta. Kui saatsite selle kogemata kellelegi või kahtlustate, et petturid on selle üle võtnud, looge kohe uus Bancoin rahakott ja kandke oma raha/varad sinna üle.",
         "successHeadline": "Hoidke oma salafraasi kaitstuna!",
         "understand": "Ma mõistan"
     },
@@ -52,9 +52,9 @@
         "backup": "Salvestage salafraas nüüd",
         "description": "Salafraas tuleb salvestada. See on teie kontole ligipääsu jaoks äärmiselt oluline.",
         "modal": {
-            "descriptionP1": "Waves Platform soovib Teid hoiatada kelmuse ja andmepüügi rünnakute sageduse üle viimase aja jooksul. Petturid peidavad oma pahavara oma Waves'i kliendi versioonides ning lubavad kasutajatele meelitavaid boonuseid ja allahindlusi.",
+            "descriptionP1": "Bancoin Platform soovib Teid hoiatada kelmuse ja andmepüügi rünnakute sageduse üle viimase aja jooksul. Petturid peidavad oma pahavara oma Bancoin'i kliendi versioonides ning lubavad kasutajatele meelitavaid boonuseid ja allahindlusi.",
             "descriptionP2": "Olge ettevaatlik ja ärge kunagi sisestage oma salafraasi nendesse „klientidesse”, sest Teie konto on kohe ohustatud ja te kaotate kõik oma rahalised vahendid.",
-            "descriptionP3": "Te peate kasutama AINULT ametlikku Waves klienti.",
+            "descriptionP3": "Te peate kasutama AINULT ametlikku Bancoin klienti.",
             "ok": "Saan aru",
             "title": "Hoidke oma salafraasi kaitstuna!"
         },

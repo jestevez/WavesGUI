@@ -61,7 +61,7 @@
         "feb2017": {
             "date": "Diciembre 2017",
             "text": "Se lanza la primera versión del intercambio incorporado.",
-            "title": "Cliente Beta Waves "
+            "title": "Cliente Beta Bancoin "
         },
         "feb2018": {
             "date": "Febrero 2018",
@@ -70,7 +70,7 @@
         },
         "jan2019": {
             "date": "Enero 2019",
-            "text": "El soporte para operar en Waves DEX con Smart Accounts está habilitado.",
+            "text": "El soporte para operar en Bancoin DEX con Smart Accounts está habilitado.",
             "text_2": "Lanzamiento de la puerta de enlace Bitcoin Satoshi Vision",
             "title": "Comercio con Smart Accounts",
             "title_2": "Puerta de enlace BSV"
@@ -80,12 +80,12 @@
             "text": "La nueva versión del intercambio ofrece una mejor experiencia de usuario y rendimiento que cualquier otro DEX en el mercado.",
             "text_2": "La billetera sale de su versión beta con un nuevo lanzamiento importante.",
             "title": "Nuevo DEX",
-            "title_2": "Billetera Waves"
+            "title_2": "Billetera Bancoin"
         },
         "jul2019": {
             "date": "Julio 2019",
-            "text": "Incorporación de una puerta de enlace para tokens ERC20 al ecosistema de Waves, lo que significa que tokens populares de Ethereum pueden ser intercambiados en la plataforma.",
-            "text_2": "Los desarrolladores han simplificado los procesos de desarrollo móvil y obtenido descripciones exhaustivas de los medios para interactuar con la cadena de bloques Waves.",
+            "text": "Incorporación de una puerta de enlace para tokens ERC20 al ecosistema de Bancoin, lo que significa que tokens populares de Ethereum pueden ser intercambiados en la plataforma.",
+            "text_2": "Los desarrolladores han simplificado los procesos de desarrollo móvil y obtenido descripciones exhaustivas de los medios para interactuar con la cadena de bloques Bancoin.",
             "text_3": "Los usuarios tienen la posibilidad de cambiar fácilmente entre varias cuentas dentro de una aplicación de billetera.",
             "title": "Puerta de enlace ERC-20",
             "title_2": "Mejora de la biblioteca Mobile SDK y JS",
@@ -108,12 +108,12 @@
         },
         "sep2018": {
             "date": "Septiembre 2018",
-            "text": "La integración con Waves DEX permite a los usuarios operar con la máxima seguridad.",
+            "text": "La integración con Bancoin DEX permite a los usuarios operar con la máxima seguridad.",
             "title": "Ledger Nano S"
         },
         "sep2019": {
             "date": "Septiembre 2019",
-            "text": "La autenticación de dos factores ofrece a los usuarios del Waves DEX una seguridad aún mayor.",
+            "text": "La autenticación de dos factores ofrece a los usuarios del Bancoin DEX una seguridad aún mayor.",
             "title": "2FA"
         }
     },
@@ -133,16 +133,16 @@
         "api": "API",
         "apple": "App Store",
         "blog": "Blog",
-        "broughtBy": "Traído a usted por Waves Team",
+        "broughtBy": "Traído a usted por Bancoin Team",
         "cancel": "Cancelar",
         "change": "CAMBIAR",
         "changeName": "Cambiar nombre",
         "chart": "GRÁFICO",
-        "contestLinkDescription": "¡Gana 5.000 BCT en un concurso de trading en Waves DEX!",
+        "contestLinkDescription": "¡Gana 5.000 BCT en un concurso de trading en Bancoin DEX!",
         "contestLinkLink": "Reglas",
         "controlAssets": "El control de los activos es solo suyo, los fondos no salen de su billetera y no se pueden congelar",
         "copyAddress": "Copiar la dirección",
-        "copyright": "© 2019 Waves Platform",
+        "copyright": "© 2019 Bancoin Platform",
         "createToken": "Crear token",
         "currentAccountName": "Nombre de cuenta actual",
         "dashboard": "Tablero",
@@ -180,7 +180,7 @@
         "mainPage": "Pagina principal",
         "majorFiatCryptocurrencies": "Compatible con las principales criptomonedas y fiat: BTC, LTC, ETH, USD y otros",
         "markets": "Mercados",
-        "marketsDescription": "Waves DEX le permite ejecutar operaciones de forma rápida y segura, independientemente de si se realizan transacciones a través de una aplicación móvil, un cliente de escritorio, una billetera web o la API de Waves.",
+        "marketsDescription": "Bancoin DEX le permite ejecutar operaciones de forma rápida y segura, independientemente de si se realizan transacciones a través de una aplicación móvil, un cliente de escritorio, una billetera web o la API de Bancoin.",
         "marketsTableDescription": "Para ver más pares negociados, haga clic en",
         "marketsTableDescriptionLink": "Ver intercambio",
         "menu": "Menú",
@@ -194,7 +194,7 @@
         "productsTools": "Productos y herramientas",
         "renameAccount": "Cambiar el nombre de la cuenta",
         "roadmap": "Hoja de ruta",
-        "roadmapOpportunitiesAhead": "El futuro de Waves DEX: nuestra hoja de ruta para las oportunidades que tenemos por delante.",
+        "roadmapOpportunitiesAhead": "El futuro de Bancoin DEX: nuestra hoja de ruta para las oportunidades que tenemos por delante.",
         "save": "Guardar",
         "scanQrCode": "Escanear código QR",
         "scriptAccount": "La cuenta del Script",
@@ -209,20 +209,20 @@
         "termsOfUse": "Términos de uso",
         "tokenCreation": "Creación rápida de tokens",
         "tokenCreationCosts": "La creación de tokens cuesta solo 1 BCT y tarda 1 minuto",
-        "tradeOnWaves": "Utilizar el intercambio descentralizado de Waves",
+        "tradeOnWaves": "Utilizar el intercambio descentralizado de Bancoin",
         "tradeOnWavesDescription": "Compre y venda tokens de forma rápida y segura con todas las ventajas de un intercambio centralizado, pero conservando el control total de sus fondos.",
         "transactions": "Transacciones",
         "twitter": "Twitter",
         "volume": "VOLUMEN",
         "wallet": "Billetera (Wallet)",
-        "wavesBlockchain": "Cadena de Bloques Waves",
-        "wavesDexWeb": "Cliente Beta Waves ",
-        "wavesExplorer": "Explorador de Waves",
-        "wavesIde": "IDE de Waves",
-        "wavesKeeper": "Waves Keeper",
-        "wavesLabs": "Waves Labs",
+        "wavesBlockchain": "Cadena de Bloques Bancoin",
+        "wavesDexWeb": "Cliente Beta Bancoin ",
+        "wavesExplorer": "Explorador de Bancoin",
+        "wavesIde": "IDE de Bancoin",
+        "wavesKeeper": "Bancoin Keeper",
+        "wavesLabs": "Bancoin Labs",
         "wavesOrderFilled": "0.003 BCT por pedido completado",
-        "wavesWallet": "Billetera Waves",
+        "wavesWallet": "Billetera Bancoin",
         "windows": "Windows",
         "windowsDescription": "Descargar aplicación de Windows"
     }

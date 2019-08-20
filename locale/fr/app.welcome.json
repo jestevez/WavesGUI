@@ -61,7 +61,7 @@
         "feb2017": {
             "date": "Déc 2017",
             "text": "La première version de l'emblématique échange intégré est lancée.",
-            "title": "Beta de l'échange décentralisé de Waves"
+            "title": "Beta de l'échange décentralisé de Bancoin"
         },
         "feb2018": {
             "date": "Fév 2018",
@@ -70,7 +70,7 @@
         },
         "jan2019": {
             "date": "Jan 2019",
-            "text": "La prise en charge du trading sur l'échange décentralisé de Waves avec des comptes intelligents est activée.",
+            "text": "La prise en charge du trading sur l'échange décentralisé de Bancoin avec des comptes intelligents est activée.",
             "text_2": "Lancement du portail Bitcoin Satoshi Vision",
             "title": "Trading de compte intelligent",
             "title_2": "Portail BSV"
@@ -80,12 +80,12 @@
             "text": "Le nouvel échange offre une meilleure expérience utilisateur et de meilleures performances que tout autre échange décentralisé sur le marché.",
             "text_2": "Le portefeuille populaire sort de la version bêta avec une nouvelle version majeure.",
             "title": "Nouvel échange décentralisé",
-            "title_2": "Portefeuille Waves"
+            "title_2": "Portefeuille Bancoin"
         },
         "jul2019": {
             "date": "Juil 2019",
-            "text": "Ajout d'un portail de jetons ERC20 à l'écosystème Waves, ce qui signifie que les jetons Ethereum populaires peuvent être trader sur la plateforme.",
-            "text_2": "Les développeurs ont simplifié les processus de développement mobile et ont obtenu une description détaillée des moyens d'interagir avec la blockchain de Waves.",
+            "text": "Ajout d'un portail de jetons ERC20 à l'écosystème Bancoin, ce qui signifie que les jetons Ethereum populaires peuvent être trader sur la plateforme.",
+            "text_2": "Les développeurs ont simplifié les processus de développement mobile et ont obtenu une description détaillée des moyens d'interagir avec la blockchain de Bancoin.",
             "text_3": "Les utilisateurs ont la possibilité de basculer facilement entre plusieurs comptes au sein d'une même application portefeuille.",
             "title": "Portail ERC-20",
             "title_2": "Amélioration du kit de développement mobile et de la bibliothèque JS",
@@ -108,12 +108,12 @@
         },
         "sep2018": {
             "date": "Sept 2018",
-            "text": "L'intégration à l'échange décentralisé de Waves permet aux utilisateurs de trader avec une sécurité maximale.",
+            "text": "L'intégration à l'échange décentralisé de Bancoin permet aux utilisateurs de trader avec une sécurité maximale.",
             "title": "Ledger Nano S"
         },
         "sep2019": {
             "date": "Sept 2019",
-            "text": "L'authentification à deux facteurs offre aux utilisateurs de l'échange décentralisé de Waves une sécurité encore accrue.",
+            "text": "L'authentification à deux facteurs offre aux utilisateurs de l'échange décentralisé de Bancoin une sécurité encore accrue.",
             "title": "A2F"
         }
     },
@@ -133,16 +133,16 @@
         "api": "API",
         "apple": "App Store",
         "blog": "Blog",
-        "broughtBy": "Présenté par l'équipe de Waves",
+        "broughtBy": "Présenté par l'équipe de Bancoin",
         "cancel": "Cancel",
         "change": "CHANGEMENT",
         "changeName": "Change Name",
         "chart": "GRAPHIQUE",
-        "contestLinkDescription": "Gagnez 5 000 BCT dans un concours de trading sur l'échange décentralisé de Waves !",
+        "contestLinkDescription": "Gagnez 5 000 BCT dans un concours de trading sur l'échange décentralisé de Bancoin !",
         "contestLinkLink": "Règles",
         "controlAssets": "Le contrôle des actifs est à vous seul - les fonds ne sortent pas de votre portefeuille et ne peuvent pas être gelés",
         "copyAddress": "Copier l'adresse",
-        "copyright": "© 2019 Waves Platform",
+        "copyright": "© 2019 Bancoin Platform",
         "createToken": "Créer un jeton",
         "currentAccountName": "Current account name",
         "dashboard": "Tableau de bord",
@@ -180,7 +180,7 @@
         "mainPage": "Page d'accueil",
         "majorFiatCryptocurrencies": "Prise en charge des principales devises et cryptomonnaies : BTC, LTC, ETH, USD, et d'autres",
         "markets": "Marchés",
-        "marketsDescription": "L'échange décentralisé de Waves vous permet d'exécuter des transactions rapidement et en toute sécurité, que vous tradiez via l'application mobile, le client de bureau, le portefeuille web ou l'API de Waves.",
+        "marketsDescription": "L'échange décentralisé de Bancoin vous permet d'exécuter des transactions rapidement et en toute sécurité, que vous tradiez via l'application mobile, le client de bureau, le portefeuille web ou l'API de Bancoin.",
         "marketsTableDescription": "Cliquez pour afficher plus de paires échangées",
         "marketsTableDescriptionLink": "Afficher l'échange",
         "menu": "Menu",
@@ -194,7 +194,7 @@
         "productsTools": "Produits et outils",
         "renameAccount": "Renommer le compte",
         "roadmap": "Feuille de route",
-        "roadmapOpportunitiesAhead": "Le futur de l'échange décentralisé (DEX) de Waves : notre feuille de route pour les opportunités à venir.",
+        "roadmapOpportunitiesAhead": "Le futur de l'échange décentralisé (DEX) de Bancoin : notre feuille de route pour les opportunités à venir.",
         "save": "Save",
         "scanQrCode": "Scan QR Code",
         "scriptAccount": "Compte script",
@@ -209,20 +209,20 @@
         "termsOfUse": "Conditions d'utilisation",
         "tokenCreation": "Création rapide de jetons",
         "tokenCreationCosts": "La création de jetons coûte seulement 1 BCT et dure 1 minute",
-        "tradeOnWaves": "Échangez sur la plateforme d'échange décentralisé de Waves",
+        "tradeOnWaves": "Échangez sur la plateforme d'échange décentralisé de Bancoin",
         "tradeOnWavesDescription": "Achetez et vendez des jetons rapidement et en toute sécurité avec tous les avantages d'un échange centralisé, tout en gardant le contrôle total de vos fonds.",
         "transactions": "Transactions",
         "twitter": "Twitter",
         "volume": "VOLUME",
         "wallet": "Portefeuille",
-        "wavesBlockchain": "Blockchain Waves",
-        "wavesDexWeb": "Plateforme Web d'échange décentralisée Waves",
-        "wavesExplorer": "Explorateur Waves",
-        "wavesIde": "EDI Waves",
-        "wavesKeeper": "Waves Keeper",
-        "wavesLabs": "Waves Labs",
+        "wavesBlockchain": "Blockchain Bancoin",
+        "wavesDexWeb": "Plateforme Web d'échange décentralisée Bancoin",
+        "wavesExplorer": "Explorateur Bancoin",
+        "wavesIde": "EDI Bancoin",
+        "wavesKeeper": "Bancoin Keeper",
+        "wavesLabs": "Bancoin Labs",
         "wavesOrderFilled": "0.003 BCT par ordre rempli",
-        "wavesWallet": "Portefeuille Waves",
+        "wavesWallet": "Portefeuille Bancoin",
         "windows": "Windows",
         "windowsDescription": "Télécharger l'application Windows"
     }

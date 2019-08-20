@@ -44,7 +44,7 @@
         "confirmBackupDescription": "Verifier votre phrase de sauvegarde",
         "next": "Confirmer",
         "prev": "Retour",
-        "successContent": "Vous ne pouvez pas modifier votre phrase secrète. Si vous l'envoyez accidentellement à quelqu'un ou que vous suspectez que des escrocs y ont accès, veuillez créer un nouveau portefeuille Waves immédiatemment et y transférer vos fonds.",
+        "successContent": "Vous ne pouvez pas modifier votre phrase secrète. Si vous l'envoyez accidentellement à quelqu'un ou que vous suspectez que des escrocs y ont accès, veuillez créer un nouveau portefeuille Bancoin immédiatemment et y transférer vos fonds.",
         "successHeadline": "Conservez soigneusement votre phrase de sauvegarde !",
         "understand": "Je comprends"
     },
@@ -52,9 +52,9 @@
         "backup": "Sauvegarder maintenant",
         "description": "Vous devez conserver la phrase secrète (SEED). C'est crucial afin d'accéder à votre compte.",
         "modal": {
-            "descriptionP1": "Waves Platform aimerait vous mettre en garde contre l'augmentation de la fréquence des escroqueries et des attaques d'hameçonnage au cours du dernier mois. Les escrocs cachent leur programme malveillant dans leur propre version de l'application Waves, promettant des bonus et des remises pour attirer des utilisateurs.",
+            "descriptionP1": "Bancoin Platform aimerait vous mettre en garde contre l'augmentation de la fréquence des escroqueries et des attaques d'hameçonnage au cours du dernier mois. Les escrocs cachent leur programme malveillant dans leur propre version de l'application Bancoin, promettant des bonus et des remises pour attirer des utilisateurs.",
             "descriptionP2": "Veuillez agir avec caution et n'entrez jamais votre phrase de sauvegarde dans ces \"applications\" car votre compte sera alors compromis et vous perdrez tous vos fonds.",
-            "descriptionP3": "Veuillez utilisez UNIQUEMENT l'application officielle de Waves.",
+            "descriptionP3": "Veuillez utilisez UNIQUEMENT l'application officielle de Bancoin.",
             "ok": "Je comprends.",
             "title": "Conservez soigneusement votre phrase de sauvegarde !"
         },

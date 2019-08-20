@@ -52,9 +52,9 @@
         "backup": "Sicherung jetzt durchführen",
         "description": "Sie müssen die geheime Phrase sichern. Sie ist elementar für den Zugang zu ihrem Account.",
         "modal": {
-            "descriptionP1": "Die Waves Platform warnt über immer häufiger werdende scam und phishing Angriffe in den letzten Monaten. Betrüger verstehen Malware in ihrer eigenen Version des Waves Clients und versprechen Bonusse und Rabatte um ahnungslose Nutzer zu überlisten.",
+            "descriptionP1": "Die Bancoin Platform warnt über immer häufiger werdende scam und phishing Angriffe in den letzten Monaten. Betrüger verstehen Malware in ihrer eigenen Version des Bancoin Clients und versprechen Bonusse und Rabatte um ahnungslose Nutzer zu überlisten.",
             "descriptionP2": "Seien sie vorsichtig und geben sie niemals ihren SEED in fragwürdigen Clients ein, ansonsten wird ihr Konto kompromittiert und sich verlieren ihr Guthaben.",
-            "descriptionP3": "Verwenden sie nur den offiziellen Waves Client.",
+            "descriptionP3": "Verwenden sie nur den offiziellen Bancoin Client.",
             "ok": "Ich verstehe",
             "title": "Behandeln sie ihre Backup Phrase sorgfältig."
         },

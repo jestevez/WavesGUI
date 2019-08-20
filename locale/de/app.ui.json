@@ -75,7 +75,7 @@
         "success": "Ihre Transaktion ist auf dem Weg!",
         "wavesKeeperUnconfirmed": {
             "description": "Bitte versuchen Sie es erneut. Wenn der Fehler weiterhin besteht, senden Sie bitte ein Ticket an [Support](https://support.wavesplatform.com).",
-            "header": "Sie haben die Anfrage nicht mit Waves Keeper bestätigt"
+            "header": "Sie haben die Anfrage nicht mit Bancoin Keeper bestätigt"
         }
     },
     "copyError": "Kann nicht kopiert werden! Ihr Browser ist möglicherweise veraltet",
@@ -99,9 +99,9 @@
             "confirmRequestKeeper": {
                 "cancel": "Abbrechen",
                 "errorDescription": "Bitte versuchen Sie es erneut. Wenn der Fehler weiterhin besteht, senden Sie bitte ein Ticket an [Support](https://support.wavesplatform.com).",
-                "errorHeader": "Sie haben die Anfrage nicht mit Waves Keeper bestätigt",
+                "errorHeader": "Sie haben die Anfrage nicht mit Bancoin Keeper bestätigt",
                 "sign": "Wiederholen",
-                "waiting": "Warten auf Bestätigung von Waves Keeper ..."
+                "waiting": "Warten auf Bestätigung von Bancoin Keeper ..."
             },
             "confirmRequestLedger": {
                 "cancel": "Abbrechen",

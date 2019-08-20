@@ -61,7 +61,7 @@
         "feb2017": {
             "date": "Dec 2017",
             "text": "De eerste versie van het flagship-built-in-exchange wordt gelanceerd.",
-            "title": "Waves DEX Beta"
+            "title": "Bancoin DEX Beta"
         },
         "feb2018": {
             "date": "Feb 2018",
@@ -70,7 +70,7 @@
         },
         "jan2019": {
             "date": "Jan 2019",
-            "text": "Ondersteuning voor de handel op Waves DEX met Smart Accounts is ingeschakeld.",
+            "text": "Ondersteuning voor de handel op Bancoin DEX met Smart Accounts is ingeschakeld.",
             "text_2": "Lancering van de Bitcoin Satoshi Vision gateway",
             "title": "Smart Account Trading",
             "title_2": "BSV Gateway"
@@ -80,12 +80,12 @@
             "text": "De opnieuw gelanceerde Exchange biedt een betere UX en betere prestaties dan alle andere DEX's op de markt.",
             "text_2": "De populaire wallet komt uit bèta met een grote nieuwe release.",
             "title": "Nieuwe DEX",
-            "title_2": "Waves Wallet"
+            "title_2": "Bancoin Wallet"
         },
         "jul2019": {
             "date": "Juli 2019",
-            "text": "Toevoeging van ERC20-token gateway in het Waves-ecosysteem, wat betekent dat populaire Ethereum-tokens kunnen worden verhandeld op het platform.",
-            "text_2": "Ontwikkelaars hebben de mobiele ontwikkelingsprocessen vereenvoudigd en uitgebreide beschrijvingen verkregen om interactie te hebben met de Waves-blockchain.",
+            "text": "Toevoeging van ERC20-token gateway in het Bancoin-ecosysteem, wat betekent dat populaire Ethereum-tokens kunnen worden verhandeld op het platform.",
+            "text_2": "Ontwikkelaars hebben de mobiele ontwikkelingsprocessen vereenvoudigd en uitgebreide beschrijvingen verkregen om interactie te hebben met de Bancoin-blockchain.",
             "text_3": "Gebruikers hebben de mogelijkheid om eenvoudig te schakelen tussen meerdere accounts binnen één wallet-app.",
             "title": "ERC-20 Gateway",
             "title_2": "Mobiele SDK en JS library verbetering",
@@ -108,12 +108,12 @@
         },
         "sep2018": {
             "date": "Sep 2018",
-            "text": "Integratie met Waves DEX stelt gebruikers in staat om te handelen met maximale veiligheid.",
+            "text": "Integratie met Bancoin DEX stelt gebruikers in staat om te handelen met maximale veiligheid.",
             "title": "Ledger Nano S"
         },
         "sep2019": {
             "date": "Sep 2019",
-            "text": "Two-factor-authenticatie geeft gebruikers van Waves DEX nog meer veiligheid.",
+            "text": "Two-factor-authenticatie geeft gebruikers van Bancoin DEX nog meer veiligheid.",
             "title": "2FA"
         }
     },
@@ -133,16 +133,16 @@
         "api": "API",
         "apple": "App Store",
         "blog": "Blog",
-        "broughtBy": "Bij u gebracht door het Waves Team",
+        "broughtBy": "Bij u gebracht door het Bancoin Team",
         "cancel": "Annuleer",
         "change": "WIJZIGING",
         "changeName": "Naam veranderen",
         "chart": "CHART",
-        "contestLinkDescription": "Win 5.000 BCT in een handelswedstrijd op Waves DEX!",
+        "contestLinkDescription": "Win 5.000 BCT in een handelswedstrijd op Bancoin DEX!",
         "contestLinkLink": "Regels",
         "controlAssets": "U alleen beheert uw assets - geld verlaat uw portemonnee niet en kan niet worden bevroren.",
         "copyAddress": "Kopieer adres",
-        "copyright": "© 2019 Waves Platform",
+        "copyright": "© 2019 Bancoin Platform",
         "createToken": "Token maken",
         "currentAccountName": "Huidige accountnaam",
         "dashboard": "Dashboard",
@@ -180,7 +180,7 @@
         "mainPage": "Hoofdpagina",
         "majorFiatCryptocurrencies": "Grote fiat en cryptocurrencies ondersteund: BTC, LTC, ETH, USD en anderen",
         "markets": "Markten",
-        "marketsDescription": "Met Waves DEX kunt u transacties snel en veilig uitvoeren, ongeacht of u handelt via een mobiele app, desktopclient, webportefeuille of de Waves-API.",
+        "marketsDescription": "Met Bancoin DEX kunt u transacties snel en veilig uitvoeren, ongeacht of u handelt via een mobiele app, desktopclient, webportefeuille of de Bancoin-API.",
         "marketsTableDescription": "Om meer verhandelde paren te bekijken klikt u op",
         "marketsTableDescriptionLink": "Exchange bekijken",
         "menu": "Menu",
@@ -194,7 +194,7 @@
         "productsTools": "Producten & tools",
         "renameAccount": "Hernoem account",
         "roadmap": "Roadmap",
-        "roadmapOpportunitiesAhead": "De toekomst van Waves DEX: onze roadmap voor de toekomst.",
+        "roadmapOpportunitiesAhead": "De toekomst van Bancoin DEX: onze roadmap voor de toekomst.",
         "save": "Opslaan",
         "scanQrCode": "Scan QR-code",
         "scriptAccount": "Script account",
@@ -209,20 +209,20 @@
         "termsOfUse": "Gebruiksvoorwaarden",
         "tokenCreation": "Snelle tokencreatie",
         "tokenCreationCosts": "Het aanmaken van tokens kost slechts 1 BCT en duurt 1 minuut",
-        "tradeOnWaves": "Handel op de Waves gedecentraliseerde exchange",
+        "tradeOnWaves": "Handel op de Bancoin gedecentraliseerde exchange",
         "tradeOnWavesDescription": "Koop en verkoop tokens snel en veilig met alle voordelen van een centrale uitwisseling, maar behoud de volledige controle over uw geld.",
         "transactions": "Transacties",
         "twitter": "Twitter",
         "volume": "VOLUME",
         "wallet": "Wallet",
-        "wavesBlockchain": "Waves Blockchain",
-        "wavesDexWeb": "Waves DEX Web",
-        "wavesExplorer": "Waves Explorer",
-        "wavesIde": "Waves IDE",
-        "wavesKeeper": "Waves Keeper",
-        "wavesLabs": "Waves Labs",
+        "wavesBlockchain": "Bancoin Blockchain",
+        "wavesDexWeb": "Bancoin DEX Web",
+        "wavesExplorer": "Bancoin Explorer",
+        "wavesIde": "Bancoin IDE",
+        "wavesKeeper": "Bancoin Keeper",
+        "wavesLabs": "Bancoin Labs",
         "wavesOrderFilled": "0.003 BCT per gevulde order",
-        "wavesWallet": "Waves Wallet",
+        "wavesWallet": "Bancoin Wallet",
         "windows": "Windows",
         "windowsDescription": "Download Windows-applicatie"
     }

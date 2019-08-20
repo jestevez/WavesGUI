@@ -6,7 +6,7 @@
     "importAccount": "Impor Akun",
     "importAccountInfo": "Pilih tempat untuk mengimpor akun",
     "KeeperClient": "Keeper Client",
-    "keeperDescription": "Impor akun dari Waves Keeper",
+    "keeperDescription": "Impor akun dari Bancoin Keeper",
     "keeperForm": "Pasang",
     "LedgerClient": "Perangkat Ledger",
     "ledgerDescription": "Impor akun dari Perangkat Ledger Anda",
@@ -14,10 +14,10 @@
     "seedAndKey": "SEED atau kunci",
     "seedAndKeyDescription": "Impor akun dari SEED cadangan atau kunci pribadi",
     "selectButton": "Memilih",
-    "wavesClient": "Klien Waves",
-    "wavesClientDescription": "Mengimpor akun dari klien Waves",
-    "wavesLiteClient": "Waves Lite Client",
-    "wavesLiteClientDescription": "Impor akun dari Waves Lite Client",
+    "wavesClient": "Klien Bancoin",
+    "wavesClientDescription": "Mengimpor akun dari klien Bancoin",
+    "wavesLiteClient": "Bancoin Lite Client",
+    "wavesLiteClientDescription": "Impor akun dari Bancoin Lite Client",
     "wavesSeedClient": "Cadangkan prase SEED",
     "wavesSeedClientDescription": "Impor akun dari SEED cadangan"
 }

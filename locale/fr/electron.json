@@ -14,7 +14,7 @@
     "modal": {
         "set_protocol_error": {
             "close": "Fermer",
-            "message": "Impossible de fixer le protocole par défaut pour le lancement du Waves Client. Les liens du navigateur ne sont temporairement pas supportés !",
+            "message": "Impossible de fixer le protocole par défaut pour le lancement du Bancoin Client. Les liens du navigateur ne sont temporairement pas supportés !",
             "report": "Rapporter",
             "title": "Fixer le protocol ouvert d'erreur"
         }

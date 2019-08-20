@@ -1,7 +1,7 @@
 #!/usr/bin/env groovy
 
 /*
-This is a Jenkins scripted pipeline for building and deploying Waves Web Client docker images
+This is a Jenkins scripted pipeline for building and deploying Bancoin Web Client docker images
 This pipeline requires:
 - Active Choices Plug-in: https://wiki.jenkins.io/display/JENKINS/Active+Choices+Plugin
 - Generic Webhook Trigger plugin: https://wiki.jenkins.io/display/JENKINS/Generic+Webhook+Trigger+Plugin
@@ -68,7 +68,7 @@ properties([
                         def authString = ""
                         def credentials_store =
                         Jenkins.instance.getAllItems(Folder.class)
-                            .findAll{it.name.equals('Waves')}
+                            .findAll{it.name.equals('Bancoin')}
                             .each{
                                 AbstractFolder<?> folderAbs = AbstractFolder.class.cast(it)
                                 FolderCredentialsProperty property = folderAbs.getProperties().get(FolderCredentialsProperty.class)

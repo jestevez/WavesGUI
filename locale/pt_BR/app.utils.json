@@ -36,7 +36,7 @@
                 "required": "Este campo é obrigatório"
             },
             "fee": "Taxa {{fee, money-currency}}",
-            "ideLink": "Script pode ser desenvolvido com [Waves Ride IDE](https://ide.wavesplatform.com/)",
+            "ideLink": "Script pode ser desenvolvido com [Bancoin Ride IDE](https://ide.wavesplatform.com/)",
             "ok": "Entrar",
             "textAreaTitle": "Base64 Script",
             "warning": {
@@ -65,19 +65,19 @@
         "addressSaved": "Address saved",
         "back": "Voltar",
         "error": {
-            "hasLockedKeeperDescription": "Para continuar trabalhando com a Waves Keeper, você deve inserir uma senha criada anteriormente ou criar uma nova.",
-            "hasLockedKeeperHeader": "Digite a senha do Waves Keeper",
+            "hasLockedKeeperDescription": "Para continuar trabalhando com a Bancoin Keeper, você deve inserir uma senha criada anteriormente ou criar uma nova.",
+            "hasLockedKeeperHeader": "Digite a senha do Bancoin Keeper",
             "hasNoUsersDescription": "Faça login em uma conta existente ou crie uma nova e tente novamente.",
             "hasNoUsersHeader": "Você não tem uma conta ativa",
             "install": "Instalar",
             "networkDescription": "A conta que você selecionou está na rede errada. Altere a rede e tente novamente.",
             "networkHeader": "Alterar rede",
             "notInstalledDescription": "Após a instalação, crie uma conta, faça login e atualize a página para continuar.",
-            "notInstalledHeader": "Não tem Waves Keeper?",
+            "notInstalledHeader": "Não tem Bancoin Keeper?",
             "refresh": "Tente novamente"
         },
-        "heading": "Importar conta da Waves Keeper",
-        "loading": "Import account from the Waves Keeper",
+        "heading": "Importar conta da Bancoin Keeper",
+        "loading": "Import account from the Bancoin Keeper",
         "login": "Continuar",
         "name": "Nome da conta",
         "nameExists": "That name is taken",
@@ -86,7 +86,7 @@
         "saveUserData": "Mantenha me conectado neste computador"
     },
     "LedgerClient_utils": "Ledger Device",
-    "LedgerClientDescription": "Importar conta a partir da Waves Keeper",
+    "LedgerClientDescription": "Importar conta a partir da Bancoin Keeper",
     "modal": {
         "acceptNewTerms": {
             "title": "Termos de Uso"
@@ -195,7 +195,7 @@
         },
         "deposit": {
             "coinomatBCH": {
-                "helpDescrText": "Após a transação ser confirmada, o gateway processará a transferência de BCH através de um token para sua conta da Waves.",
+                "helpDescrText": "Após a transação ser confirmada, o gateway processará a transferência de BCH através de um token para sua conta da Bancoin.",
                 "helpDescrTitle": "Digite este endereço no seu client ou carteira de Bitcoin Cash",
                 "warningMinAmountText": "Se você enviar menos de {{minAmount, BigNumber}} {{assetTicker}}, você perderá esse dinheiro.",
                 "warningMinAmountTitle": "O depósito mínimo é {{minAmount, BigNumber}} {{assetTicker}}",
@@ -203,7 +203,7 @@
                 "warningTitle": "Envie apenas BCH para este endereço de depósito"
             },
             "coinomatBSV": {
-                "helpDescrText": "Once the transaction is confirmed, the gateway will process the transfer of BSV to a token in your Waves account.",
+                "helpDescrText": "Once the transaction is confirmed, the gateway will process the transfer of BSV to a token in your Bancoin account.",
                 "helpDescrTitle": "Enter this address into your Bitcoin Satoshi Vision client or wallet",
                 "warningMinAmountText": "Se você enviar menos de {{minAmount, BigNumber}} {{assetTicker}}, perderá esse dinheiro.",
                 "warningMinAmountTitle": "O depósito mínimo é {{minAmount, BigNumber}} {{assetTicker}}",
@@ -211,7 +211,7 @@
                 "warningTitle": "Enviar apenas BSV para este endereço de depósito"
             },
             "coinomatBTC": {
-                "helpDescrText": "Após a transação ser confirmada, o gateway processará a transferência de BTC através de um token para sua conta da Waves.",
+                "helpDescrText": "Após a transação ser confirmada, o gateway processará a transferência de BTC através de um token para sua conta da Bancoin.",
                 "helpDescrTitle": "Digite este endereço no seu client ou carteira de Bitcoin",
                 "warningMinAmountText": "Se você enviar menos de {{minAmount, BigNumber}} {{assetTicker}}, você perderá esse dinheiro.",
                 "warningMinAmountTitle": "O depósito mínimo é {{minAmount, BigNumber}} {{assetTicker}}",
@@ -219,7 +219,7 @@
                 "warningTitle": "Envie apenas BTC para este endereço de depósito"
             },
             "coinomatDASH": {
-                "helpDescrText": "Após a transação ser confirmada, o gateway processará a transferência de DASH através de um token para sua conta da Waves.",
+                "helpDescrText": "Após a transação ser confirmada, o gateway processará a transferência de DASH através de um token para sua conta da Bancoin.",
                 "helpDescrTitle": "Digite este endereço no seu client ou carteira de DASH",
                 "warningMinAmountText": "Se você enviar menos de {{minAmount, BigNumber}} {{assetTicker}}, você perderá esse dinheiro.",
                 "warningMinAmountTitle": "O depósito mínimo é {{minAmount, BigNumber}} {{assetTicker}}",
@@ -227,7 +227,7 @@
                 "warningTitle": "Envie apenas DASH para este endereço de depósito"
             },
             "coinomatETH": {
-                "helpDescrText": "Após a transação ser confirmada, o gateway processará a transferência de ETH através de um token para sua conta da Waves.",
+                "helpDescrText": "Após a transação ser confirmada, o gateway processará a transferência de ETH através de um token para sua conta da Bancoin.",
                 "helpDescrTitle": "Digite este endereço no seu client ou carteira de Ethereum",
                 "warningMinAmountText": "Se você enviar menos de {{minAmount, BigNumber}} {{assetTicker}}, você perderá esse dinheiro.",
                 "warningMinAmountTitle": "O depósito mínimo é {{minAmount, BigNumber}} {{assetTicker}}",
@@ -235,7 +235,7 @@
                 "warningTitle": "Por favor, não deposite ETH através de smart contracts! Não deposite tokens ERC20! Apenas Ethereum é permitido."
             },
             "coinomatLTC": {
-                "helpDescrText": "Após a transação ser confirmada, o gateway processará a transferência de LTC através de um token para sua conta da Waves.",
+                "helpDescrText": "Após a transação ser confirmada, o gateway processará a transferência de LTC através de um token para sua conta da Bancoin.",
                 "helpDescrTitle": "Digite este endereço no seu client ou carteira de Litecoin",
                 "warningMinAmountText": "Se você enviar menos de {{minAmount, BigNumber}} {{assetTicker}}, você perderá esse dinheiro.",
                 "warningMinAmountTitle": "O depósito mínimo é {{minAmount, BigNumber}} {{assetTicker}}",
@@ -243,7 +243,7 @@
                 "warningTitle": "Envie apenas LTC para este endereço de depósito"
             },
             "coinomatXMR": {
-                "helpDescrText": "Após a transação ser confirmada, o gateway processará a transferência de XMR através de um token para sua conta da Waves.",
+                "helpDescrText": "Após a transação ser confirmada, o gateway processará a transferência de XMR através de um token para sua conta da Bancoin.",
                 "helpDescrTitle": "Digite este endereço no seu client ou carteira de Monero",
                 "warningMinAmountText": "Se você enviar menos de {{minAmount, BigNumber}} {{assetTicker}}, você perderá esse dinheiro.",
                 "warningMinAmountTitle": "O depósito mínimo é {{minAmount, BigNumber}} {{assetTicker}}",
@@ -251,7 +251,7 @@
                 "warningTitle": "Envie apenas XMR para este endereço de depósito"
             },
             "coinomatZEC": {
-                "helpDescrText": "Após a transação ser confirmada, o gateway processará a transferência de ZEC através de um token para sua conta da Waves.",
+                "helpDescrText": "Após a transação ser confirmada, o gateway processará a transferência de ZEC através de um token para sua conta da Bancoin.",
                 "helpDescrTitle": "Digite este endereço no seu client ou carteira de Zcash",
                 "warningMinAmountText": "Se você enviar menos de {{minAmount, BigNumber}} {{assetTicker}}, você perderá esse dinheiro.",
                 "warningMinAmountTitle": "O depósito mínimo é {{minAmount, BigNumber}} {{assetTicker}}",
@@ -265,7 +265,7 @@
             "scanQrCode": "Capturar QR Code",
             "title": "Depositar {{assetName}}",
             "wavesGatewayERGO": {
-                "helpDescrText": "Once the transaction is confirmed, the gateway will process the transfer of ERGO to a token in your Waves account.",
+                "helpDescrText": "Once the transaction is confirmed, the gateway will process the transfer of ERGO to a token in your Bancoin account.",
                 "helpDescrTitle": "Enter this address into your ERGO client or wallet",
                 "warningMinAmountText": "If you will send less than 0.1 ERGO, you will lose that money.",
                 "warningMinAmountTitle": "The minimum amount of deposit is 0.1 ERGO, the maximum amount of deposit is 50 000 ERGO",
@@ -273,7 +273,7 @@
                 "warningTitle": "Send only ERGO to this deposit address"
             },
             "wavesGatewayVST": {
-                "helpDescrText": "Once the transaction is confirmed, the gateway will process the transfer of Vostok to a token in your Waves account.",
+                "helpDescrText": "Once the transaction is confirmed, the gateway will process the transfer of Vostok to a token in your Bancoin account.",
                 "helpDescrTitle": "Enter this address into your Vostok client or wallet",
                 "warningMinAmountTitle": "The minimum amount of deposit is 0.1 VST, the maximum amount of deposit is 50 000 VST"
             }
@@ -294,7 +294,7 @@
         "gatewaySign": {
             "cancel": "Cancelar",
             "continue": "Continuar",
-            "description": "{{name}} terá acesso ao seu endereço de Waves, mas não terá acesso a sua SEED ou chave privada. Não insira sua frase secreta (SEED) em sites nos quais você seja redirecionado.",
+            "description": "{{name}} terá acesso ao seu endereço de Bancoin, mas não terá acesso a sua SEED ou chave privada. Não insira sua frase secreta (SEED) em sites nos quais você seja redirecionado.",
             "descriptionDesktop1": "O link será aberto no seu navegador da web padrão. Se você quiser usar outro navegador da web,",
             "descriptionDesktop2": "copie",
             "descriptionDesktop3": "e cole o link em sua barra de URL.",
@@ -303,16 +303,16 @@
                 "headline": "Algo deu errado",
                 "title": "Erro"
             },
-            "headline": "{span.link}[{{url}}] deseja acessar o endereço da sua carteira Waves",
+            "headline": "{span.link}[{{url}}] deseja acessar o endereço da sua carteira Bancoin",
             "retrySign": "Tente novamente",
-            "title": "Entre com Waves",
+            "title": "Entre com Bancoin",
             "txHash": "TXHASH",
             "warning": "Não insira sua frase secreta (SEED) em sites que você for redirecionado."
         },
         "import": {
-            "errorBeta": "Não foi possível recuperar suas contas do Waves Beta Client. Tente importar através do Waves Lite Client.",
+            "errorBeta": "Não foi possível recuperar suas contas do Bancoin Beta Client. Tente importar através do Bancoin Lite Client.",
             "errorHeader": "Nenhuma conta foi encontrada",
-            "errorLite": "Não foi possível recuperar suas contas do Waves Lite Client. Tente importar através do Waves Beta Client.",
+            "errorLite": "Não foi possível recuperar suas contas do Bancoin Lite Client. Tente importar através do Bancoin Beta Client.",
             "errorUnable": "Não foi possível recuperar suas contas. Por favor, restaure-as usando suas SEEDs de backup.",
             "fromBetaButton": "Importar do Beta Client",
             "fromLiteButton": "Importar do Lite Client",
@@ -327,10 +327,10 @@
             "selectAccountToImport": "Selecione quais contas você deseja importar",
             "selectAccountToImportFrom": "Selecione onde importará as contas",
             "selectButton": "Selecionar",
-            "wavesBetaClient": "Waves Beta Client",
-            "wavesBetaClientDescription": "Importar contas da Waves Beta Client",
-            "wavesLiteClient": "Waves Lite Client",
-            "wavesLiteClientDescription": "Importar contas da Waves Lite Client"
+            "wavesBetaClient": "Bancoin Beta Client",
+            "wavesBetaClientDescription": "Importar contas da Bancoin Beta Client",
+            "wavesLiteClient": "Bancoin Lite Client",
+            "wavesLiteClientDescription": "Importar contas da Bancoin Lite Client"
         },
         "open-main": {
             "dex": {
@@ -386,7 +386,7 @@
             "scanQrCode": "Capturar QR Code",
             "title": "Compartilhar seu endereço",
             "warningText": "Se enviar qualquer outro ativo digital para esse endereço resultará na perda permanente de seus fundos.",
-            "warningTitle": "Envie apenas BCT e tokens Waves para este endereço"
+            "warningTitle": "Envie apenas BCT e tokens Bancoin para este endereço"
         },
         "receive": {
             "accountStatus": "Status da conta",
@@ -435,7 +435,7 @@
             "maximumIs": "O máximo é",
             "minimumIs": "O mínimo é",
             "providedByCoinomat": {
-                "descriprion": "{div}[Este serviço é fornecido pela Coinomat Company (Coinomat).\nA Waves Platform AG não assume qualquer responsabilidade pelas atividades realizadas pela Coinomat e não tomará qualquer  partido na relação que possa surgir entre a Coinomat e os usuários da Waves Platform.] {div}[Ao usar os serviços da Coinomat, você está de acordo com os [Termos de Serviço e Condução de Transações da Coinomat](https://coinomat.com/terms.php). Se você não concordar com estes termos, não use os serviços Coinomat.]",
+                "descriprion": "{div}[Este serviço é fornecido pela Coinomat Company (Coinomat).\nA Bancoin Platform AG não assume qualquer responsabilidade pelas atividades realizadas pela Coinomat e não tomará qualquer  partido na relação que possa surgir entre a Coinomat e os usuários da Bancoin Platform.] {div}[Ao usar os serviços da Coinomat, você está de acordo com os [Termos de Serviço e Condução de Transações da Coinomat](https://coinomat.com/terms.php). Se você não concordar com estes termos, não use os serviços Coinomat.]",
                 "header": "Este serviço é fornecido pela Coinomat Company (Coinomat).",
                 "termsReadedInputLabel": "Eu concordo com os [Termos de Serviço e Condução de Transações](https://coinomat.com/terms.php), [Limites](https://coinomat.com/limits.php) e [Política de Privacidade](https://coinomat.com/privacy.php) da Coinomat Company.",
                 "warning": "Caso ocorra problemas de verificação, processamento de pagamentos ou para revogação de consentimento, por favor, entre em contato com a equipe de suporte da Coinomat - [support@coinomat.com](mailto:support@coinomat.com)"
@@ -465,8 +465,8 @@
             "warning": "Você não salvou seu SEED"
         },
         "removeKeeperAccount": {
-            "heading": "Remover conta da Waves Keeper",
-            "text": "Isso excluirá apenas o atalho salvo para esta conta. Ele não excluirá a conta da Waves Keeper."
+            "heading": "Remover conta da Bancoin Keeper",
+            "text": "Isso excluirá apenas o atalho salvo para esta conta. Ele não excluirá a conta da Bancoin Keeper."
         },
         "removeLedgerAccount": {
             "heading": "Remover conta Ledger",
@@ -570,7 +570,7 @@
             "titleComplete": "Envio Concluído",
             "toBank": "Sacar para uma conta bancária",
             "total": "Total",
-            "toWaves": "Enviar para o endereço Waves",
+            "toWaves": "Enviar para o endereço Bancoin",
             "txFee": "Taxa de transação",
             "validationError": {
                 "notEnoughFunds": "Você não tem saldo suficientes para pagar as taxas exigidas. Você deve pagar {{fee, money-currency}} taxa da transação.",
@@ -602,7 +602,7 @@
             "general": {
                 "auto": "Auto",
                 "blockHeight": "Bloco atual",
-                "blue": "Waves",
+                "blue": "Bancoin",
                 "color": "Cor",
                 "dark": "Escuro",
                 "green": "Clássico",
@@ -627,9 +627,9 @@
             "message": "Para entrar em Configurações, acesse ou crie uma conta",
             "network": {
                 "apiAddress": "Data service",
-                "apiAddressHelp": "The Data Service provides additional APIs for interacting with Waves blockchain data.",
+                "apiAddressHelp": "The Data Service provides additional APIs for interacting with Bancoin blockchain data.",
                 "assetNameFilter": "Naming service",
-                "assetNameFilterHelp": "This service checks the name of the token with the Waves token library.\nFor completely disable it, clear the field.",
+                "assetNameFilterHelp": "This service checks the name of the token with the Bancoin token library.\nFor completely disable it, clear the field.",
                 "copy": "copiar",
                 "dataProvider": "Provedor de dados",
                 "dataProviderDescription": "{{dataProviderDescription}}",
@@ -654,7 +654,7 @@
                 "unavailable": {
                     "description": {
                         "ledger": "A exportação não está disponível para contas armazenadas na Ledger Nano S",
-                        "wavesKeeper": "A exportação para contas importadas da Waves Keeper estão disponíveis nas Configurações da Waves Keeper"
+                        "wavesKeeper": "A exportação para contas importadas da Bancoin Keeper estão disponíveis nas Configurações da Bancoin Keeper"
                     },
                     "header": {
                         "ledger": "Exportação indisponível",
@@ -686,7 +686,7 @@
             "confirm": "Confirmar",
             "confirmRequest": "Confirmar pedido",
             "confirmRequest_utils": "Confirmar pedido",
-            "confirmRequestKeeper": "Aguardando confirmação na Waves Keeper...",
+            "confirmRequestKeeper": "Aguardando confirmação na Bancoin Keeper...",
             "confirmRequestLedger": {
                 "cancel": "Cancelar",
                 "errorDescription": "Por favor, tente novamente. Se o erro persistir, consulte [este artigo](https://support.ledgerwallet.com/hc/en-us/articles/115005165269-Fix-connection-issues)",
@@ -697,7 +697,7 @@
             "confirmRequestMatcher_utils": "Confime a solicitação no Matcher. Se você não confirmar, não poderá negociar na DEX com uma conta Ledger.",
             "confirmRequestToMatcher": "Confime a solicitação no Matcher. Se você não confirmar, não poderá negociar na DEX.",
             "connecting": "Conectando...",
-            "connectingKeeper": "Conectando-se à Waves Keeper ...",
+            "connectingKeeper": "Conectando-se à Bancoin Keeper ...",
             "connectionError": "Não é possível conectar sua Ledger",
             "connectionErrorKeeper": "Não é possível acessar a conta",
             "connectionText": "A conexão pode ter expirado. Por favor, tente novamente.",
@@ -705,19 +705,19 @@
             "enterPin": "Digite seu código PIN",
             "fee": "Taxa",
             "matcher": "Criar ordens",
-            "openApp": "Abrir o aplicativo Waves",
+            "openApp": "Abrir o aplicativo Bancoin",
             "price": "Preço",
             "refererTo": "Se o erro persistir, nos informe",
             "referTo": "Se o erro persistir, nos informe",
             "request": "solicitar",
             "requestId": "Solicitar hash",
             "retry": "Tente novamente",
-            "signByKeeper": "Aguardando confirmação na Waves Keeper...",
+            "signByKeeper": "Aguardando confirmação na Bancoin Keeper...",
             "signByLedger": "Aguardando confirmação na Ledger…",
             "signError": "A autorização não foi confirmada.",
-            "signErrorKeeper": "Você não confirmou o pedido usando o Waves Keeper",
+            "signErrorKeeper": "Você não confirmou o pedido usando o Bancoin Keeper",
             "signErrorText": "Você não confirmou a autorização em sua Ledger Nano S",
-            "signErrorTextImportKeeper": "Entre na Waves Keeper com o endereço {{address}}, e atualize a página para continuar.",
+            "signErrorTextImportKeeper": "Entre na Bancoin Keeper com o endereço {{address}}, e atualize a página para continuar.",
             "signErrorTextKeeper": "Por favor, tente novamente. Se o erro persistir, crie um ticket para o [Suporte](https://support.wavesplatform.com/)",
             "txId": "TXID"
         },
@@ -754,18 +754,18 @@
         "termsAccept": {
             "body": {
                 "advancedMode": "Recursos avançados",
-                "analytics": "Eu gostaria de ajudar a melhorar a Plataforma Waves enviando estatísticas de uso anônimas para os desenvolvedores.",
-                "backup": "Eu entendo que se este aplicativo for excluído ou movido para outro dispositivo, minhas Waves só poderão ser recuperadas com a frase de backup.",
+                "analytics": "Eu gostaria de ajudar a melhorar a Plataforma Bancoin enviando estatísticas de uso anônimas para os desenvolvedores.",
+                "backup": "Eu entendo que se este aplicativo for excluído ou movido para outro dispositivo, minhas Bancoin só poderão ser recuperadas com a frase de backup.",
                 "ok": "Confirmar e Iniciar",
                 "privacyPolicy": "I have read and agree with the [Privacy Policy](https://wavesplatform.com/files/docs/Privacy Policy_SW.pdf).",
                 "read": "Eu li, compreendi e concordo com o",
                 "readTermsAndConditions": "Eu li, compreendi e concordo com os [Termos e Condições](https://wavesplatform.com/files/docs/Waves_terms_and_conditions.pdf)",
                 "security": "Eu entendo que meus fundos são mantidos com segurança neste dispositivo, não por uma empresa",
-                "securityAndBackup": "I understand that my funds are held securely on this device, not by a company. If this app is moved to another device or deleted, my Waves can only be recovered with the backup phrase.",
+                "securityAndBackup": "I understand that my funds are held securely on this device, not by a company. If this app is moved to another device or deleted, my Bancoin can only be recovered with the backup phrase.",
                 "terms": "Termos de Uso"
             },
             "header": {
-                "description": "A Waves é diferente - a carteira é armazenada com segurança em seu dispositivo",
+                "description": "A Bancoin é diferente - a carteira é armazenada com segurança em seu dispositivo",
                 "title": "Feito! Vamos revisar",
                 "title2": "Termos de Uso"
             }
@@ -804,17 +804,17 @@
                 "buttonMobile": "Avançar",
                 "p1": "Por favor, dedique um momento para entender algumas coisas importantes para sua própria segurança. 🙏",
                 "p2": "Não podemos recuperar seus fundos ou congelar sua conta se você visitar um site de phishing ou perder sua frase de backup (também conhecido como SEED).",
-                "p3": "Ao continuar usando nossa plataforma, você concorda com todos os riscos associados à perda de seu SEED, incluindo, entre outros, a impossibilidade de resgatar e descartar seus fundos. Caso você perca seu SEED, você concorda e reconhece que a Plataforma Waves não é responsável pelas consequências negativas que isso pode causar.",
-                "title": "Bem-vindo à Plataforma Waves!"
+                "p3": "Ao continuar usando nossa plataforma, você concorda com todos os riscos associados à perda de seu SEED, incluindo, entre outros, a impossibilidade de resgatar e descartar seus fundos. Caso você perca seu SEED, você concorda e reconhece que a Plataforma Bancoin não é responsável pelas consequências negativas que isso pode causar.",
+                "title": "Bem-vindo à Plataforma Bancoin!"
             },
             "step2": {
                 "backButton": "Voltar",
                 "cell1": "Você usa sua carteira anonimamente, o que significa que sua conta não está vinculada a uma conta de e-mail ou qualquer outro meio de identificação.",
                 "cell2": "Sua senha protege sua conta ao entrar em um dispositivo ou navegador. É necessário para garantir que sua frase secreta não seja salva na memória.",
                 "cell3": "Se você esquecer sua senha, poderá criar facilmente uma nova usando o formulário de recuperação de conta através de sua frase secreta (SEED). Se você perder sua frase secreta, não terá como acessar sua conta.",
-                "cell4": "Você não pode mudar sua frase secreta. Se você enviar acidentalmente para alguém ou suspeita que algum golpista lhe roubou, crie uma nova carteira Waves imediatamente e transfira seus fundos para ela.",
+                "cell4": "Você não pode mudar sua frase secreta. Se você enviar acidentalmente para alguém ou suspeita que algum golpista lhe roubou, crie uma nova carteira Bancoin imediatamente e transfira seus fundos para ela.",
                 "nextButton": "Proteja-se",
-                "p1": "Ao registrar sua conta, você será solicitado que salve sua frase secreta (SEED) e proteja sua conta com uma senha. Em servidores centralizados, a atenção especial é dada à senha, que pode ser alterada e redefinida via e-mail, se necessário. No entanto, em plataformas descentralizadas como a Waves, tudo funciona de forma diferente:",
+                "p1": "Ao registrar sua conta, você será solicitado que salve sua frase secreta (SEED) e proteja sua conta com uma senha. Em servidores centralizados, a atenção especial é dada à senha, que pode ser alterada e redefinida via e-mail, se necessário. No entanto, em plataformas descentralizadas como a Bancoin, tudo funciona de forma diferente:",
                 "title": "O que você precisa saber sobre seu SEED"
             },
             "step3": {
@@ -854,12 +854,12 @@
     "utils": {
         "whatsNew": {
             "body": {
-                "1_0_0": "{span.line} [1. A Waves Client saiu da versão beta.] {span.line} [2. Agora você pode fixar e remover qualquer ativo na página principal.] {span.line} [3. Modo noturno adicionado.] {span.line} [4. Agora você pode importar facilmente todas as suas contas do antigo Client.] {span.line} [5. Correção de pequenos bugs.]",
+                "1_0_0": "{span.line} [1. A Bancoin Client saiu da versão beta.] {span.line} [2. Agora você pode fixar e remover qualquer ativo na página principal.] {span.line} [3. Modo noturno adicionado.] {span.line} [4. Agora você pode importar facilmente todas as suas contas do antigo Client.] {span.line} [5. Correção de pequenos bugs.]",
                 "1_0_0-beta_23": "{span.line}[1. Adicionamos a seção 'O que há de novo'!]{span.line}[2. Agora você pode adicionar um nome à sua conta.]{span.line}[3. Pequenos bugs adicionais foram corrigidos.]",
                 "1_0_0-beta_25": "{span.line}[1. Agora você pode alterar o tempo da sessão em Configurações.]{span.line}[2. Nós corrigimos um bug na janela Comprar/Vender na DEX para evitar que ela seja movida para fora da área de visualização.]{span.line}[3. Agora iremos lembrá-lo se você ainda não salvou seu SEED.]{span.line}[4. Pequenos bugs adicionais foram corrigidos.]",
                 "1_0_0-beta_26": "{span.line}[1. Pequenos bugs adicionais foram corrigidos.]",
                 "1_0_0-beta_27": "{span.line}[1. Adicionado o idioma Chinês.]{span.line}[2. Adicionado o idioma Turco.]",
-                "1_0_0-beta_30": "{span.line}[1. Agora você pode queimar e reemitir os tokens criados por você.]{span.line}[2. Adicionado o suporte para Waves Auth API.]{span.line}[3. Pequenos bugs adicionais foram corrigidos.]",
+                "1_0_0-beta_30": "{span.line}[1. Agora você pode queimar e reemitir os tokens criados por você.]{span.line}[2. Adicionado o suporte para Bancoin Auth API.]{span.line}[3. Pequenos bugs adicionais foram corrigidos.]",
                 "1_0_0-beta_31": "{span.line}[1. Agora você pode comprar BCT e BTC com cartão de crédito.]{span.line}[2. O aparência da janela Comprar/Vender foi melhorada.]{span.line}[3. Suporte para Windows de 32 bits adicionado.]{span.line}[4. Vários outros bugs foram corrigidos.]",
                 "1_0_0-beta_32": "{span.line}[1. Agora você pode fazer transferências simultâneas pelo Client.]{span.line}[2. Pequenos bugs adicionais foram corrigidos.]",
                 "1_0_0-beta_35": "{span.line}[1. Agora você pode classificar, filtrar e ocultar tokens na guia Portfólio.]{span.line}[2. O gateway de DASH foi lançado.]{span.line}[3. Adicionado o idioma Hindi.]{span.line}[4. Adicionado o idioma Holandês.]{span.line}[5. Agora você pode criar fatura para outros usuários.]{span.line}[6. Pequenos bugs adicionais foram corrigidos.]",
@@ -870,12 +870,12 @@
                 "1_0_0-beta_47": "{span.line} [1. A interface da DEX foi totalmente reformulada.] {span.line}[2. Client mais rápido e estável.] {span.line}[3. A funcionalidade de alias está disponível novamente.] {span.line}[4. Pequenos bugs adicionais foram corrigidos.] {span.line}[5. Participe de nossas competições fazendo um [video](https://forum.wavesplatform.com/t/contest-best-waves-dex-video-review/822) ou escrevendo um [artigo](https://forum.wavesplatform.com/t/contest-for-the-writers-waves-dex-overview/835).]",
                 "1_0_0-beta_50": "{span.line}[1. Agora você pode queimar todos os tokens que tiverem em sua conta.]\n{span.line}[2. Correção de pequenos bugs.]",
                 "1_0_10": "{span.line}[1. Adicionado suporte para transação de patrocinada. [Leia mais](https://docs.wavesplatform.com/en/waves-client/assets-management/sponsored-transaction.html)]\n{span.line}[2. Adicionado os idiomas Português e Polonês.]",
-                "1_0_14": "{span.line}[1. Corrigido o erro de uso do recurso Ativo Patrocinado sem Waves.]\n{span.line}[2. Corrigido o erro de ordens com expiração em 30 dias.]\n{span.line}[3. Correção de pequenos bugs.]",
+                "1_0_14": "{span.line}[1. Corrigido o erro de uso do recurso Ativo Patrocinado sem Bancoin.]\n{span.line}[2. Corrigido o erro de ordens com expiração em 30 dias.]\n{span.line}[3. Correção de pequenos bugs.]",
                 "1_0_15": "{span.line}[1. Problemas de confirmação na Ledger foram corrigidos.]\n{span.line}[2. Aumento do tempo de espera para confirmação da Ledger.]\n{span.line}[3. Informações detalhadas foram adicionadas às mensagens de erro.]",
                 "1_0_18": "{span.line}[1. Agora você pode definir um script para sua conta.]\n{span.line}[2. Correção de pequenos bugs.]",
                 "1_0_21": "{span.line}[1. Corrigida a confirmação de autorização via Ledger.]\n{span.line}[2. Correção de pequenos bugs.]",
                 "1_0_22": "{span.line}[1. Adicionado recursos avançados para trabalhar em contas com script.]",
-                "1_0_25": "{span.line}[1. Adicionado suporte para [Waves Keeper](https://chrome.google.com/webstore/detail/waves-keeper/lpilbniiabackdjcionkobglmddfbcjo?hl=pt-br).]",
+                "1_0_25": "{span.line}[1. Adicionado suporte para [Bancoin Keeper](https://chrome.google.com/webstore/detail/waves-keeper/lpilbniiabackdjcionkobglmddfbcjo?hl=pt-br).]",
                 "1_0_27": "{span.line}[1. Adicionada a categoria \"Meus ativos\" no Portfólio.]\n{span.line}[2. Correção de pequenos bugs.]",
                 "1_0_28": "{span.line}[1. Função de emparelhamento adicionada para importar contas existentes para os dispositivos móveis.]\n{span.line}[2. Correção de pequenos bugs.]",
                 "1_0_29": "{span.line}[1. A geração do QR code usando o alfabeto Cirílico foi corrigida.]\n{span.line}[2. Adicionado um pop up para pesquisa na lista de favoritos.]\n{span.line}[3. Outras correções estéticas. ]",
@@ -889,14 +889,14 @@
                 "1_0_41": "{span.line}[1. Otimização da DEX.]\n{span.line}[2. Sistema de notificações adicionado.]\n{span.line}[3. Correção de pequenos bugs.]",
                 "1_0_42": "{span.line}[1. Correção de pequenos bugs.]",
                 "1_0_5": "{span.line}[1. Uma escala de volume das negociações foi adicionada no gráficos da DEX.]\n{span.line}[2. Correção de pequenos bugs.]",
-                "1_0_6": "{span.line}[1. A autorização via Waves Desktop Client foi adicionada.]",
+                "1_0_6": "{span.line}[1. A autorização via Bancoin Desktop Client foi adicionada.]",
                 "1_0_7": "{span.line}[1. Algumas falhas do client desktop foram corrigidas.]\n{span.line}[2. Foi otimizada a transição entre as páginas TX e de Portfólio, com uma grande quantidade de conteúdo.]\n{span.line}[3. O nome dos tokens spam estão ocultos na lista TX.]\n{span.line}[4. O envio de mensagens de erro foi reformulado.]",
                 "1_0_8": "{span.line}[1. O suporte à Ledger Nano S foi adicionado.]\n{span.line}[2. Uma nova opção de método de autenticação foi adicionada.]",
                 "1_1_0": "{span.line}[1. Agora o período de expiração da ordem é salvo por padrão.]\n{span.line}[2. Correção de pequenos bugs.]",
                 "1_2_0": "{span.line}[1. Added Japanese and Estonian languages.]\n{span.line}[2. Improved UI in the Buy/Sell window.]\n{span.line}[3. Numerous minor bugs fixed.]",
                 "1_2_1": "{span.line}[1. The application now saves the chart size and scale settings as well as the time interval.]\n{span.line}[2. Fixed minor bugs.]",
                 "1_2_2": "{span.line}[1. Security updates.]{span.line}[2. Fixed minor bugs.]",
-                "1_2_3": "{span.line}[1. Added support for Ledger Waves 1.0.0 app.]",
+                "1_2_3": "{span.line}[1. Added support for Ledger Bancoin 1.0.0 app.]",
                 "1_2_6": "{span.line}[1. Invocation script transaction support added. [Read more](https://blog.wavesplatform.com/ride-for-dapps-hits-waves-testnet-e3f2906dd2aa)]\n{span.line}[2. Improved UI and additional minor bugs have been fixed.]",
                 "1_2_8": "{span.line}[1. Spam tokens and transactions have been hidden in client.]\n{span.line}[2. Improved UI and additional minor bugs have been fixed.]",
                 "1_3_0": "{span.line}[1. Improved app navigation and start page interface.]",

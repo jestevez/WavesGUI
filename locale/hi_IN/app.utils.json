@@ -77,7 +77,7 @@
             "refresh": "पुन: प्रयास करें"
         },
         "heading": "वेव्स कीपर से खाता आयात करे",
-        "loading": "Import account from the Waves Keeper",
+        "loading": "Import account from the Bancoin Keeper",
         "login": "जारी रहना",
         "name": "खाते का नाम",
         "nameExists": "That name is taken",
@@ -195,7 +195,7 @@
         },
         "deposit": {
             "coinomatBCH": {
-                "helpDescrText": "लेनदेन की पुष्टि हो जाने पर, यह गेटवे BCH के ट्रांसफर को आपके Waves खाते में एक टोकन में प्रोसेस करेगा।",
+                "helpDescrText": "लेनदेन की पुष्टि हो जाने पर, यह गेटवे BCH के ट्रांसफर को आपके Bancoin खाते में एक टोकन में प्रोसेस करेगा।",
                 "helpDescrTitle": "अपने Bitcoin कैश क्लाइंट या वॉलेट में इस पते को दर्ज करें",
                 "warningMinAmountText": "यदि आप {{minAmount, BigNumber}} {{assetTicker}} से कम राशि भेजेंगे तो आप उस धन को खो देंगे।",
                 "warningMinAmountTitle": "न्यूनतम जमा राशि {{minAmount, BigNumber}} {{assetTicker}} है",
@@ -203,7 +203,7 @@
                 "warningTitle": "इस जमा पते पर केवल BCH ही भेजें"
             },
             "coinomatBSV": {
-                "helpDescrText": "Once the transaction is confirmed, the gateway will process the transfer of BSV to a token in your Waves account.",
+                "helpDescrText": "Once the transaction is confirmed, the gateway will process the transfer of BSV to a token in your Bancoin account.",
                 "helpDescrTitle": "Enter this address into your Bitcoin Satoshi Vision client or wallet",
                 "warningMinAmountText": "यदि आप {{minAmount, BigNumber}} {{assetTicker}} से कम भेजेंगे, तो आप उस पैसे को खो देंगे।",
                 "warningMinAmountTitle": "जमा की न्यूनतम राशि {{minAmount, BigNumber}} {{assetTicker}} है",
@@ -211,7 +211,7 @@
                 "warningTitle": "इस जमा पते पर केवल BSV भेजें"
             },
             "coinomatBTC": {
-                "helpDescrText": "लेनदेन की पुष्टि हो जाने पर, यह गेटवे BTC के ट्रांसफर को आपके Waves खाते में एक टोकन में रोसेस करेगा।",
+                "helpDescrText": "लेनदेन की पुष्टि हो जाने पर, यह गेटवे BTC के ट्रांसफर को आपके Bancoin खाते में एक टोकन में रोसेस करेगा।",
                 "helpDescrTitle": "अपने Bitcoin क्लाइंट या वॉलेट में इस पते को दर्ज करें",
                 "warningMinAmountText": "यदि आप {{minAmount, BigNumber}} {{assetTicker}} से कम राशि भेजेंगे तो आप उस धन को खो देंगे।",
                 "warningMinAmountTitle": "न्यूनतम जमा राशि {{minAmount, BigNumber}} {{assetTicker}} है।",
@@ -219,7 +219,7 @@
                 "warningTitle": "इस जमा पते पर केवल BTC ही भेजें"
             },
             "coinomatDASH": {
-                "helpDescrText": "लेनदेन की पुष्टि हो जाने पर, यह गेटवे DASH के ट्रांसफर को आपके Waves खाते में एक टोकन में प्रोसेस करेगा। कृपया नोट करें कि यह गेटवे इस ऑपरेशन के लिए कोई फीस नहीं लगाता है।",
+                "helpDescrText": "लेनदेन की पुष्टि हो जाने पर, यह गेटवे DASH के ट्रांसफर को आपके Bancoin खाते में एक टोकन में प्रोसेस करेगा। कृपया नोट करें कि यह गेटवे इस ऑपरेशन के लिए कोई फीस नहीं लगाता है।",
                 "helpDescrTitle": "अपने DASH क्लाइंट या वॉलेट में इस पते को दर्ज करें",
                 "warningMinAmountText": "यदि आप {{minAmount, BigNumber}} {{assetTicker}} से कम भेज देंगे, तो आप उस पैसे को खो देंगे।",
                 "warningMinAmountTitle": "जमा की न्यूनतम राशि {{minAmount, BigNumber}} {{assetTicker}} है",
@@ -227,7 +227,7 @@
                 "warningTitle": "इस जमा पते पर केवल DASH ही भेजें"
             },
             "coinomatETH": {
-                "helpDescrText": "लेनदेन की पुष्टि हो जाने पर, यह गेटवे ETH के ट्रांसफर को आपके Waves खाते में एक टोकन में रोसेस करेगा।",
+                "helpDescrText": "लेनदेन की पुष्टि हो जाने पर, यह गेटवे ETH के ट्रांसफर को आपके Bancoin खाते में एक टोकन में रोसेस करेगा।",
                 "helpDescrTitle": "अपने Ethereum क्लाइंट या वॉलेट में इस पते को दर्ज करें",
                 "warningMinAmountText": "यदि आप {{minAmount, BigNumber}} {{assetTicker}} से कम राशि भेजेंगे तो आप उस धन को खो देंगे।",
                 "warningMinAmountTitle": "यूनतम जमा राशि {{minAmount, BigNumber}} {{assetTicker}} है।",
@@ -235,7 +235,7 @@
                 "warningTitle": "कृपया स्मार्ट-कॉन्ट्रैक्ट से ETH जमा ना करें! ERC20 टोकन जमा ना करें! केवल Ethereum अनुमत है।"
             },
             "coinomatLTC": {
-                "helpDescrText": "लेनदेन की पुष्टि हो जाने पर, यह गेटवे LTC के ट्रांसफर को आपके Waves खाते में एक टोकन में प्रोसेस करेगा।",
+                "helpDescrText": "लेनदेन की पुष्टि हो जाने पर, यह गेटवे LTC के ट्रांसफर को आपके Bancoin खाते में एक टोकन में प्रोसेस करेगा।",
                 "helpDescrTitle": "अपने Litecoin क्लाइंट या वॉलेट में इस पते को दर्ज करें",
                 "warningMinAmountText": "यदि आप {{minAmount, BigNumber}} {{assetTicker}} से कम राशि भेजेंगे तो आप उस धन को खो देंगे।",
                 "warningMinAmountTitle": "यूनतम जमा राशि {{minAmount, BigNumber}} {{assetTicker}} है",
@@ -243,7 +243,7 @@
                 "warningTitle": "इस जमा पते पर केवल LTC ही भेजें"
             },
             "coinomatXMR": {
-                "helpDescrText": "लेनदेन की पुष्टि हो जाने पर, यह गेटवे XMR के ट्रांसफर को आपके Waves खाते में एक टोकन में प्रोसेस करेगा।",
+                "helpDescrText": "लेनदेन की पुष्टि हो जाने पर, यह गेटवे XMR के ट्रांसफर को आपके Bancoin खाते में एक टोकन में प्रोसेस करेगा।",
                 "helpDescrTitle": "अपने Monero क्लाइंट या वॉलेट में इस पते को दर्ज करें",
                 "warningMinAmountText": "यदि आप {{minAmount, BigNumber}} {{assetTicker}} से कम राशि भेजेंगे तो आप उस धन को खो देंगे।",
                 "warningMinAmountTitle": "न्यूनतम जमा राशि {{minAmount, BigNumber}} {{assetTicker}} है",
@@ -251,7 +251,7 @@
                 "warningTitle": "इस जमा पते पर केवल XMR ही भेजें"
             },
             "coinomatZEC": {
-                "helpDescrText": "लेनदेन की पुष्टि हो जाने पर, यह गेटवे LTC के ट्रांसफर को आपके Waves खाते में एक टोकन में प्रोसेस करेगा।",
+                "helpDescrText": "लेनदेन की पुष्टि हो जाने पर, यह गेटवे LTC के ट्रांसफर को आपके Bancoin खाते में एक टोकन में प्रोसेस करेगा।",
                 "helpDescrTitle": "अपने Litecoin क्लाइंट या वॉलेट में इस पते को दर्ज करें",
                 "warningMinAmountText": "यदि आप {{minAmount, BigNumber}} {{assetTicker}} से कम राशि भेजेंगे तो आप उस धन को खो देंगे।",
                 "warningMinAmountTitle": "यूनतम जमा राशि {{minAmount, BigNumber}} {{assetTicker}} है।",
@@ -265,7 +265,7 @@
             "scanQrCode": "QR कोड स्कैन करें",
             "title": "{{assetName}} जमा करें",
             "wavesGatewayERGO": {
-                "helpDescrText": "Once the transaction is confirmed, the gateway will process the transfer of ERGO to a token in your Waves account.",
+                "helpDescrText": "Once the transaction is confirmed, the gateway will process the transfer of ERGO to a token in your Bancoin account.",
                 "helpDescrTitle": "Enter this address into your ERGO client or wallet",
                 "warningMinAmountText": "If you will send less than 0.1 ERGO, you will lose that money.",
                 "warningMinAmountTitle": "The minimum amount of deposit is 0.1 ERGO, the maximum amount of deposit is 50 000 ERGO",
@@ -273,7 +273,7 @@
                 "warningTitle": "Send only ERGO to this deposit address"
             },
             "wavesGatewayVST": {
-                "helpDescrText": "Once the transaction is confirmed, the gateway will process the transfer of Vostok to a token in your Waves account.",
+                "helpDescrText": "Once the transaction is confirmed, the gateway will process the transfer of Vostok to a token in your Bancoin account.",
                 "helpDescrTitle": "Enter this address into your Vostok client or wallet",
                 "warningMinAmountTitle": "The minimum amount of deposit is 0.1 VST, the maximum amount of deposit is 50 000 VST"
             }
@@ -294,7 +294,7 @@
         "gatewaySign": {
             "cancel": "रद्द करें",
             "continue": "जारी रखें",
-            "description": "{{name}} इस ऐप्लिकेशन के पास आपके Waves पते की पहुंच होगी। मैं आपका SEED या निजी कुंजी नहीं लूंगा।",
+            "description": "{{name}} इस ऐप्लिकेशन के पास आपके Bancoin पते की पहुंच होगी। मैं आपका SEED या निजी कुंजी नहीं लूंगा।",
             "descriptionDesktop1": "लिंक आपके डिफ़ॉल्ट वेब ब्राउज़र में खुल जाएगा। यदि आप किसी अन्य वेब ब्राउज़र का उपयोग करना चाहते हैं,",
             "descriptionDesktop2": "कापी",
             "descriptionDesktop3": "और उसके URL बार में लिंक पेस्ट करें।",
@@ -305,7 +305,7 @@
             },
             "headline": "यह ऐप्लिकेशन {span.link}[{{url}}] आपका पता देखेगा। आपको पर रीडायरेक्ट किया जाएगा",
             "retrySign": "पुन: प्रयास करें",
-            "title": "Waves के साथ साइन इन हों",
+            "title": "Bancoin के साथ साइन इन हों",
             "txHash": "TXHASH",
             "warning": "उन वेबसाइटों पर अपना गुप्त वाक्यांश (SEED) न डालें, जिन पर आपको पुनर्निर्देशित किया जाएगा।"
         },
@@ -386,7 +386,7 @@
             "scanQrCode": "QR कोड स्कैन करें",
             "title": "अपना पता साझा करें",
             "warningText": "इस पते पर कोई और डिजिटल एसेट भेजने से आपके फंड की स्थायी हानि हो जाएगी।",
-            "warningTitle": "इस पते पर केवल BCT और Waves टोकन ही भेजें"
+            "warningTitle": "इस पते पर केवल BCT और Bancoin टोकन ही भेजें"
         },
         "receive": {
             "accountStatus": "खाते की स्थिति",
@@ -586,7 +586,7 @@
             "step2Description": "आपका सत्यापन हो जाने के बाद आपको आगे के निर्देश मिलेंगे",
             "title": "{{assetName}} जमा करें",
             "warning": "सत्यापन या भुगतान प्रोसेसिंग में किसी समस्या की स्थिति में, कृपया Coinomat सपोर्टिंग टीम से संपर्क करें — [support@coinomat.com](mailto:support@coinomat.com)",
-            "warningTitle": "इस पते पर केवल BCT और Waves टोकन ही भेजें"
+            "warningTitle": "इस पते पर केवल BCT और Bancoin टोकन ही भेजें"
         },
         "setAssetScript": {
             "errorNoMoney": "आवश्यक शुल्क का भुगतान करने के लिए आपके पास पर्याप्त धन नहीं है। आपको {{fee, money-currency}} लेन-देन शुल्क का भुगतान करना होगा।",
@@ -602,7 +602,7 @@
             "general": {
                 "auto": "ऑटो",
                 "blockHeight": "वर्तमान ऊंचाई",
-                "blue": "Waves",
+                "blue": "Bancoin",
                 "color": "रंग",
                 "dark": "गहरा",
                 "green": "क्लासिक",
@@ -627,9 +627,9 @@
             "message": "सेटिंग्स खोलने के लिए, साइन इन हों या खाता बनाएं",
             "network": {
                 "apiAddress": "Data service",
-                "apiAddressHelp": "The Data Service provides additional APIs for interacting with Waves blockchain data.",
+                "apiAddressHelp": "The Data Service provides additional APIs for interacting with Bancoin blockchain data.",
                 "assetNameFilter": "Naming service",
-                "assetNameFilterHelp": "This service checks the name of the token with the Waves token library.\nFor completely disable it, clear the field.",
+                "assetNameFilterHelp": "This service checks the name of the token with the Bancoin token library.\nFor completely disable it, clear the field.",
                 "copy": "कॉपी करें",
                 "dataProvider": "डेटा प्रदान करने वाला",
                 "dataProviderDescription": "{{dataProviderDescription}}",
@@ -754,18 +754,18 @@
         "termsAccept": {
             "body": {
                 "advancedMode": "उन्नत सुविधाओं",
-                "analytics": "डवलपरों को गुमनाम उपयोग आंकड़ें भेज कर Waves प्लेटफार्म को बेहतर करने में सहायता करना चाहूँगा।",
-                "backup": "मैं समझता हूँ कि यदि ये ऐप एक अन्य डिवाइस पर जाता है हट जाता है तो मेरा Waves केवल मेरे बैकअप वाक्य से ही रिकवर किया जा सकता है।",
+                "analytics": "डवलपरों को गुमनाम उपयोग आंकड़ें भेज कर Bancoin प्लेटफार्म को बेहतर करने में सहायता करना चाहूँगा।",
+                "backup": "मैं समझता हूँ कि यदि ये ऐप एक अन्य डिवाइस पर जाता है हट जाता है तो मेरा Bancoin केवल मेरे बैकअप वाक्य से ही रिकवर किया जा सकता है।",
                 "ok": "पुष्टि करें और शुरु करें",
                 "privacyPolicy": "I have read and agree with the [Privacy Policy](https://wavesplatform.com/files/docs/Privacy Policy_SW.pdf).",
                 "read": "मैने इसे पढ़, समझ लिया है और सहमतच हूँ",
                 "readTermsAndConditions": "I have read and agree with the [Terms and Conditions](https://wavesplatform.com/files/docs/Waves_terms_and_conditions.pdf).",
                 "security": "मैं समझता हूँ कि मेरे फंड मेरी डिवाइस पर सुरक्षित रूप से रखे हैं, ना कि कंपनी के पास",
-                "securityAndBackup": "I understand that my funds are held securely on this device, not by a company. If this app is moved to another device or deleted, my Waves can only be recovered with the backup phrase.",
+                "securityAndBackup": "I understand that my funds are held securely on this device, not by a company. If this app is moved to another device or deleted, my Bancoin can only be recovered with the backup phrase.",
                 "terms": "उपयोग की शर्तें"
             },
             "header": {
-                "description": "Waves अलग है — यह वॉलेट आपकी डिवाइस पर सुरक्षित रूप से स्टोर रहती है",
+                "description": "Bancoin अलग है — यह वॉलेट आपकी डिवाइस पर सुरक्षित रूप से स्टोर रहती है",
                 "title": "हो गया! आइये समीक्षा करें",
                 "title2": "उपयोग की शर्तें"
             }
@@ -804,17 +804,17 @@
                 "buttonMobile": "अगला",
                 "p1": "अपनी खुद की सुरक्षा के लिए कुछ महत्वपूर्ण चीजों को समझने के लिए कृपया कुछ समय निकालें।",
                 "p2": "यदि आप किसी फिशिंग साइट पर जाते हैं या अपना बैकअप वाक्य खो देते हैं (उर्फ SEED वाक्य) हम आपके फंड को रिकवर या आपके खाते को फ्रीज़ नहीं कर सकते हैं।",
-                "p3": "हमारे प्लेटफार्म को उपयोग करना जारी रखते हुए, आप अपने SEED को होने वाली हानि से संबंधित जोखिमों को स्वीकार करने की सहमति देते हैं, जिसमें आपके फंड को हासिल करने या उनको निबटाने मे अक्षम रहना भी शामिल है लेकिन ये उन तक सीमित नहीं है। यदि आप अपना SEED खो देते हैं तो आप सहमत हैं व अभिस्वीकृति देते हैं कि Waves प्लेटफार्म इसके नकारात्मक परिणामों के लिए उत्तरदायी नहीं होगा।",
-                "title": "Waves प्लेटफार्म पर आपका स्वागत है!"
+                "p3": "हमारे प्लेटफार्म को उपयोग करना जारी रखते हुए, आप अपने SEED को होने वाली हानि से संबंधित जोखिमों को स्वीकार करने की सहमति देते हैं, जिसमें आपके फंड को हासिल करने या उनको निबटाने मे अक्षम रहना भी शामिल है लेकिन ये उन तक सीमित नहीं है। यदि आप अपना SEED खो देते हैं तो आप सहमत हैं व अभिस्वीकृति देते हैं कि Bancoin प्लेटफार्म इसके नकारात्मक परिणामों के लिए उत्तरदायी नहीं होगा।",
+                "title": "Bancoin प्लेटफार्म पर आपका स्वागत है!"
             },
             "step2": {
                 "backButton": "वापस जाएं",
                 "cell1": "आप अपने वॉलेट को गुमनाम तरीके से उपयोग करते हैं, जिसका अर्थ है कि आपका खाता किसी ईमेल खाते या पहचान वाले किसी अन्य डेटा से जुड़ा नहीं होता है।",
                 "cell2": "किसी डिवाइस या ब्राउज़र से काम करते समय आपका पासवर्ड आपके खाते को सुरक्षित रखता है। यह इस बात को सुनिश्चित करने के लिए चाहिए होता है जिससे कि आपका सीक्रेट वाक्य स्टोरेज में सहेजा ना जाए।",
                 "cell3": "यदि आप अपना पासवर्ड भूल गए हैं तो आप अपने सीक्रेट वाक्य के माध्यम से खाता रिकवरी फार्म का उपयोग करके आसानी से एक नया बना सकते हैं। यदि आप अपना सीक्रेट वाक्य खो देते हैं तो आपके पास अपने खाते तक जाने का कोई भी तरीका नहीं होगा।",
-                "cell4": "आप अपना सीक्रेट वाक्य बदल नहीं सकते। यदि आप दुर्घटनावश इसे किसी को भेज दें या किसी स्कैमर द्वारा इसे हासिल किए जाने का शक हो तो फौरन नया Waves वॉलेट बना कर अपने फंड उसमें ट्रांसफर कर दें।",
+                "cell4": "आप अपना सीक्रेट वाक्य बदल नहीं सकते। यदि आप दुर्घटनावश इसे किसी को भेज दें या किसी स्कैमर द्वारा इसे हासिल किए जाने का शक हो तो फौरन नया Bancoin वॉलेट बना कर अपने फंड उसमें ट्रांसफर कर दें।",
                 "nextButton": "खुद को सुरक्षित करें",
-                "p1": "अपना खाता पंजीकृत करते समय आपसे अपना सीक्रेट वाक्य (SEED) सहेजने को और अपने खाते को एक पासवर्ड से सुरक्षित करने को कहा जाएगा। सामान्य केन्द्रीकृत सर्वरों पर पासवर्ड पर विशेष ध्यान दिया जाता है, जिसे बदला जा सकता है और जरूरत पड़ने पर ईमेल के माध्यम से रीसेट किया जा सकता है। हालांकि, Waves जैसा विकेन्द्रित प्लेटफार्मों पर सभी कुछ अलग तरीके से व्यवस्थित किया जाता है:",
+                "p1": "अपना खाता पंजीकृत करते समय आपसे अपना सीक्रेट वाक्य (SEED) सहेजने को और अपने खाते को एक पासवर्ड से सुरक्षित करने को कहा जाएगा। सामान्य केन्द्रीकृत सर्वरों पर पासवर्ड पर विशेष ध्यान दिया जाता है, जिसे बदला जा सकता है और जरूरत पड़ने पर ईमेल के माध्यम से रीसेट किया जा सकता है। हालांकि, Bancoin जैसा विकेन्द्रित प्लेटफार्मों पर सभी कुछ अलग तरीके से व्यवस्थित किया जाता है:",
                 "title": "अपने SEED के बारे में आपको क्या जानना चाहिए"
             },
             "step3": {
@@ -859,7 +859,7 @@
                 "1_0_0-beta_25": "{span.line}[1. आप अब सेटिंग्स में सत्र समय बदल सकते हैं।]{span.line}[2. हमने DEX में खरीद/बिक्री विंडो के बग को ठीक कर दिया है जिससे इसे व्यूइंग क्षेत्र से बाहर जाने से रोका जा सके।]{span.line}[3. यदि आप अपना SEED नहीं सहेजेंगे तो अब हम आपको याद दिलाएंगे।]{span.line}[4. कुछ छोटे बग्स ठीक किए गए हैं।]",
                 "1_0_0-beta_26": "{span.line}[1. कुछ छोटे बग्स ठीक किए गए हैं।]",
                 "1_0_0-beta_27": "{span.line}[1. चीनी भाषा जोड़ी।]{span.line}[2. तुर्की भाषा जोड़ी।]",
-                "1_0_0-beta_30": "{span.line}[1. अब आप उन टोकन को जला या पुनः जारी कर सकते हैं जिनको आपने जनरेट किया है।]{span.line}[2. Waves Auth API सपोर्ट जोड़ा।]{span.line}[3. कुछ छोटे बग्स ठीक किए गए हैं।]",
+                "1_0_0-beta_30": "{span.line}[1. अब आप उन टोकन को जला या पुनः जारी कर सकते हैं जिनको आपने जनरेट किया है।]{span.line}[2. Bancoin Auth API सपोर्ट जोड़ा।]{span.line}[3. कुछ छोटे बग्स ठीक किए गए हैं।]",
                 "1_0_0-beta_31": "{span.line}[1। अब आप क्रेडिट कार्ड के साथ वेव्स और बीटीसी खरीद सकते हैं।]{span.line}[2। खरीदें / बेचें विंडो में बेहतर यूआई।]{span.line}[3। 32-बिट विंडोज़ के लिए समर्थन जोड़ा गया।]{span.line}[4। कई अन्य बग तय।]",
                 "1_0_0-beta_32": "{span.line}[1. You can now make mass transfers from the Client.]{span.line}[2. Some minor bugs have been fixed.]",
                 "1_0_0-beta_35": "{span.line}[1. अब आप पोर्टफोलियो टैब में टोकन छांट, फिल्टर या छिपा कर रख सकते हैं।]{span.line}[2. DASH गेटवे लॉन्च कर दिया गया है।]{span.line}[3. हिन्दी भाषा सपोर्ट जोड़ा गया।]{span.line}[4. डच भाषा सपोर्ट जोड़ा गया।]{span.line}[5. अब आप दूसरे प्रयोक्ताओं को इनवाइस कर सकते हैं।]{span.line}[6. कुछ अतिरिक्त छोटे बग्स ठीक किए गए हैं।]",
@@ -896,7 +896,7 @@
                 "1_2_0": "{span.line}[1. Added Japanese and Estonian languages.]\n{span.line}[2. Improved UI in the Buy/Sell window.]\n{span.line}[3. Numerous minor bugs fixed.]",
                 "1_2_1": "{span.line}[1. The application now saves the chart size and scale settings as well as the time interval.]\n{span.line}[2. Fixed minor bugs.]",
                 "1_2_2": "{span.line}[1. Security updates.]{span.line}[2. Fixed minor bugs.]",
-                "1_2_3": "{span.line}[1. Added support for Ledger Waves 1.0.0 app.]",
+                "1_2_3": "{span.line}[1. Added support for Ledger Bancoin 1.0.0 app.]",
                 "1_2_6": "{span.line}[1. Invocation script transaction support added. [Read more](https://blog.wavesplatform.com/ride-for-dapps-hits-waves-testnet-e3f2906dd2aa)]\n{span.line}[2. Improved UI and additional minor bugs have been fixed.]",
                 "1_2_8": "{span.line}[1. Spam tokens and transactions have been hidden in client.]\n{span.line}[2. Improved UI and additional minor bugs have been fixed.]",
                 "1_3_0": "{span.line}[1. Improved app navigation and start page interface.]",

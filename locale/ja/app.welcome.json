@@ -61,7 +61,7 @@
         "feb2017": {
             "date": "2017年12月",
             "text": "フラッグシップとなるビルトイン取引所の最初のバージョンが発表。",
-            "title": "Waves DEXベータ"
+            "title": "Bancoin DEXベータ"
         },
         "feb2018": {
             "date": "2018年2月",
@@ -70,7 +70,7 @@
         },
         "jan2019": {
             "date": "2019年1月",
-            "text": "スマートアカウントによるWaves DEXでの取引がサポート。",
+            "text": "スマートアカウントによるBancoin DEXでの取引がサポート。",
             "text_2": "ビットコインSVゲートウェイのローンチ。",
             "title": "スマートアカウントトレード",
             "title_2": "BSV ゲートウェイ"
@@ -78,14 +78,14 @@
         "jul2018": {
             "date": "2018年7月",
             "text": "リニューアルされた取引所は、どのDEXよりも優れたUXとパフォーマンスを提供します。",
-            "text_2": "Wavesの人気のウォレットは主要なリリースでベータ版として登場します。",
+            "text_2": "Bancoinの人気のウォレットは主要なリリースでベータ版として登場します。",
             "title": "新しいDEX",
-            "title_2": "Wavesウォレット"
+            "title_2": "Bancoinウォレット"
         },
         "jul2019": {
             "date": "2019年7月",
-            "text": "ERC20トークンのゲートウェイをWavesのエコシステムに追加することは、人気の EthereumトークンがWavesのプラットフォームでトレード可能になることを意味します。",
-            "text_2": "開発者はモバイル開発プロセスを簡素化し、Wavesブロックチェーンと通信するための手段について包括的な説明を得ることができます。",
+            "text": "ERC20トークンのゲートウェイをBancoinのエコシステムに追加することは、人気の EthereumトークンがBancoinのプラットフォームでトレード可能になることを意味します。",
+            "text_2": "開発者はモバイル開発プロセスを簡素化し、Bancoinブロックチェーンと通信するための手段について包括的な説明を得ることができます。",
             "text_3": "ユーザーは、1つのウォレットアプリ内で複数のアカウントを簡単に切り替えることができます。",
             "title": "ERC-20 ゲートウェイ",
             "title_2": "モバイルSDKとJSライブラリの改良",
@@ -108,12 +108,12 @@
         },
         "sep2018": {
             "date": "2018年9月",
-            "text": "Waves DEXとの統合により、ユーザーは最高のセキュリティで取引することができます。",
+            "text": "Bancoin DEXとの統合により、ユーザーは最高のセキュリティで取引することができます。",
             "title": "Ledger Nano S"
         },
         "sep2019": {
             "date": "2019年9月",
-            "text": "二段階認証は、Waves DEXユーザーにさらに高いセキュリティを提供します。",
+            "text": "二段階認証は、Bancoin DEXユーザーにさらに高いセキュリティを提供します。",
             "title": "2FA"
         }
     },
@@ -133,16 +133,16 @@
         "api": "API",
         "apple": "App Store",
         "blog": "ブログ",
-        "broughtBy": "Wavesチームからあなたへ",
+        "broughtBy": "Bancoinチームからあなたへ",
         "cancel": "キャンセル",
         "change": "変化",
         "changeName": "名前を変更",
         "chart": "チャート",
-        "contestLinkDescription": "Waves DEXのトレーディングコンテストで5,000WAVESを勝ち取ろう！",
+        "contestLinkDescription": "Bancoin DEXのトレーディングコンテストで5,000WAVESを勝ち取ろう！",
         "contestLinkLink": "ルール",
         "controlAssets": "資産の管理はあなたの責任です - 資金はあなたのウォレットに管理されています。そして、資産を凍結することはできません",
         "copyAddress": "アドレスをコピー",
-        "copyright": "©2019 Waves Platform",
+        "copyright": "©2019 Bancoin Platform",
         "createToken": "トークンを作成",
         "currentAccountName": "現在のアカウント名",
         "dashboard": "ダッシュボード",
@@ -180,7 +180,7 @@
         "mainPage": "メインページ",
         "majorFiatCryptocurrencies": "対応する主要な法定通貨と暗号通貨：BTC、LTC、ETH、USDなど",
         "markets": "マーケット",
-        "marketsDescription": "Waves DEXを使用すると、モバイルアプリ、デスクトップクライアント、Web ウォレット、またはWaves APIのいずれを使用して取引しているかに関係なく、取引を迅速かつ安全に実行できます。",
+        "marketsDescription": "Bancoin DEXを使用すると、モバイルアプリ、デスクトップクライアント、Web ウォレット、またはBancoin APIのいずれを使用して取引しているかに関係なく、取引を迅速かつ安全に実行できます。",
         "marketsTableDescription": "もっと取引ペアを見るためにクリック",
         "marketsTableDescriptionLink": "取引所を見る",
         "menu": "メニュー",
@@ -194,7 +194,7 @@
         "productsTools": "製品とツール",
         "renameAccount": "アカウント名を変更",
         "roadmap": "ロードマップ",
-        "roadmapOpportunitiesAhead": "Waves DEXの将来：将来の機会に向けたWavesのロードマップ",
+        "roadmapOpportunitiesAhead": "Bancoin DEXの将来：将来の機会に向けたBancoinのロードマップ",
         "save": "保存",
         "scanQrCode": "QRコードをスキャン",
         "scriptAccount": "スクリプトアカウント",
@@ -209,20 +209,20 @@
         "termsOfUse": "利用規約",
         "tokenCreation": "高速なトークン生成",
         "tokenCreationCosts": "トークン生成にかかる費用はわずか1 BCTで、わずか1分で完了",
-        "tradeOnWaves": "Wavesの分散型取引所でトレード",
+        "tradeOnWaves": "Bancoinの分散型取引所でトレード",
         "tradeOnWavesDescription": "中央型取引所のすべての利点をすべて提供しつつ、資金を完全に管理しながらトークンを迅速かつ安全に売買できます。",
         "transactions": "トランザクション",
         "twitter": "Twitter",
         "volume": "ボリューム",
         "wallet": "ウォレット",
-        "wavesBlockchain": "Waves ブロックチェーン",
-        "wavesDexWeb": "Waves DEX ウェブ",
-        "wavesExplorer": "Waves エクスプローラー",
-        "wavesIde": "Waves IDE",
-        "wavesKeeper": "Waves Keeper",
-        "wavesLabs": "Waves Labs",
+        "wavesBlockchain": "Bancoin ブロックチェーン",
+        "wavesDexWeb": "Bancoin DEX ウェブ",
+        "wavesExplorer": "Bancoin エクスプローラー",
+        "wavesIde": "Bancoin IDE",
+        "wavesKeeper": "Bancoin Keeper",
+        "wavesLabs": "Bancoin Labs",
         "wavesOrderFilled": "約定毎に0.003 BCT",
-        "wavesWallet": "Waves ウォレット",
+        "wavesWallet": "Bancoin ウォレット",
         "windows": "Windows",
         "windowsDescription": "Windowsアプリケーションをダウンロード"
     }

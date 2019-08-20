@@ -75,7 +75,7 @@
         "success": "Transferiniz yolda!",
         "wavesKeeperUnconfirmed": {
             "description": "Lütfen tekrar deneyin. Eğer hata devam ederse lütfen [destek] ile iletişime geçin. (https://support.wavesplatform.com)",
-            "header": "Talebi Waves Keeper'dan onaylamadınız"
+            "header": "Talebi Bancoin Keeper'dan onaylamadınız"
         }
     },
     "copyError": "Kopyalanamıyor. Tarayıcınızı güncellemeyi deneyin",
@@ -99,9 +99,9 @@
             "confirmRequestKeeper": {
                 "cancel": "İptal",
                 "errorDescription": "Lütfen tekrar deneyin. Eğer hata devam ederse lütfen [destek] ile iletişime geçin. (https://support.wavesplatform.com)",
-                "errorHeader": "Talebi Waves Keeper'dan onaylamadınız",
+                "errorHeader": "Talebi Bancoin Keeper'dan onaylamadınız",
                 "sign": "Tekrar deneyin",
-                "waiting": "Waves Keeper'dan onay bekleniyor..."
+                "waiting": "Bancoin Keeper'dan onay bekleniyor..."
             },
             "confirmRequestLedger": {
                 "cancel": "İptal",

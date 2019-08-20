@@ -30,7 +30,7 @@
     },
     "name": "あなたのアセットの名称",
     "NFT": {
-        "description": "Non-fungibleトークン（NFT）は、Wavesブロックチェーンに存在する一意かつ個別のトークンです。現在、Waves WalletおよびWaves DEXでのNFTの表示はサポートされていません。 NFTは[Waves Explorer]（https://wavesexplorer.com/）で確認可能です。",
+        "description": "Non-fungibleトークン（NFT）は、Bancoinブロックチェーンに存在する一意かつ個別のトークンです。現在、Bancoin WalletおよびBancoin DEXでのNFTの表示はサポートされていません。 NFTは[Bancoin Explorer]（https://wavesexplorer.com/）で確認可能です。",
         "title": "あなたはNFTを作成しています。"
     },
     "notifications": {

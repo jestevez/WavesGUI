@@ -35,7 +35,7 @@
                 "title": "Cüzdan"
             },
             {
-                "description": "Hızlı ve güvenli bir şekilde takas yapın! Waves Platform merkezsiz borsasında işlem yaparak kripto paralarınız üzerinde tam hakimiyete sahip olursunuz.",
+                "description": "Hızlı ve güvenli bir şekilde takas yapın! Bancoin Platform merkezsiz borsasında işlem yaparak kripto paralarınız üzerinde tam hakimiyete sahip olursunuz.",
                 "title": "Merkezsiz Borsa"
             },
             {
@@ -61,7 +61,7 @@
         "feb2017": {
             "date": "Aralık 2017",
             "text": "Yerleşik borsaya sahip amiral gemisinin ilk sürümü hayata geçirildi.",
-            "title": "Waves DEX Beta"
+            "title": "Bancoin DEX Beta"
         },
         "feb2018": {
             "date": "Şubat 2018",
@@ -70,7 +70,7 @@
         },
         "jan2019": {
             "date": "Ocak 2019",
-            "text": "Akıllı Hesaplarla Waves DEX'te alım satım desteği etkinleştirildi.",
+            "text": "Akıllı Hesaplarla Bancoin DEX'te alım satım desteği etkinleştirildi.",
             "text_2": "Bitcoin Satoshi Vision Geçidi'nin faaliyete başlaması",
             "title": "Akıllı Hesap Takası",
             "title_2": "BSV Geçidi"
@@ -80,12 +80,12 @@
             "text": "Piyasadaki tüm DEX'lerden daha iyi performans ve kullanıcı deneyimi sunan merkezsiz borsa yenilendi.",
             "text_2": "Popüler cüzdan büyük bir sürümle Beta'dan çıktı.",
             "title": "Yeni DEX",
-            "title_2": "Waves Cüzdanı"
+            "title_2": "Bancoin Cüzdanı"
         },
         "jul2019": {
             "date": "Temmuz 2019",
-            "text": "Waves ekosistemine ERC20 kripto paralarının eklenmesi ile birlikte Ethereum üzerindeki kripto paralar borsada alınıp satılabilecektir.",
-            "text_2": "Geliştiriciler, mobil geliştirme işlemlerini basitleştirdi ve Waves blok zinciri ile etkileşimde bulunma araçları için kapsamlı açıklamalar edindi.",
+            "text": "Bancoin ekosistemine ERC20 kripto paralarının eklenmesi ile birlikte Ethereum üzerindeki kripto paralar borsada alınıp satılabilecektir.",
+            "text_2": "Geliştiriciler, mobil geliştirme işlemlerini basitleştirdi ve Bancoin blok zinciri ile etkileşimde bulunma araçları için kapsamlı açıklamalar edindi.",
             "text_3": "Kullanıcılar bir cüzdan uygulaması içindeki birden fazla hesap arasında kolayca geçiş yapabilir.",
             "title": "ERC-20 Geçidi",
             "title_2": "Mobil SDK ve JS kütüphanesi geliştirme",
@@ -108,12 +108,12 @@
         },
         "sep2018": {
             "date": "Eylül 2018",
-            "text": "Waves DEX ile entegrasyon, kullanıcıların maksimum güvenlikle takas yapmalarını sağlar.",
+            "text": "Bancoin DEX ile entegrasyon, kullanıcıların maksimum güvenlikle takas yapmalarını sağlar.",
             "title": "Ledger Nano S"
         },
         "sep2019": {
             "date": "Eylül 2019",
-            "text": "İki faktörlü doğrulama, Waves DEX kullanıcılarına daha fazla güvenlik sağlar.",
+            "text": "İki faktörlü doğrulama, Bancoin DEX kullanıcılarına daha fazla güvenlik sağlar.",
             "title": "2FA"
         }
     },
@@ -133,16 +133,16 @@
         "api": "API",
         "apple": "App Store",
         "blog": "Blog",
-        "broughtBy": "Size Waves Takımı tarafından sunuldu",
+        "broughtBy": "Size Bancoin Takımı tarafından sunuldu",
         "cancel": "İptal",
         "change": "DEĞİŞİM",
         "changeName": "İsmi değiştir",
         "chart": "GRAFİK",
-        "contestLinkDescription": "Waves DEX'teki takas yarışmasından 5,000 BCT kazan!",
+        "contestLinkDescription": "Bancoin DEX'teki takas yarışmasından 5,000 BCT kazan!",
         "contestLinkLink": "Kurallar",
         "controlAssets": "Varlıkların kontrolü yalnızca sizindir - varlıklarınız sizden habersiz cüzdanınızdan çıkmaz ve dondurulamaz.",
         "copyAddress": "Adresi kopyala",
-        "copyright": "© 2019 Waves Platform",
+        "copyright": "© 2019 Bancoin Platform",
         "createToken": "Kripto para oluştur",
         "currentAccountName": "Şu anki hesap adı",
         "dashboard": "Panel",
@@ -180,7 +180,7 @@
         "mainPage": "Ana Sayfa",
         "majorFiatCryptocurrencies": "Başlıca fiat ve kripto para birimleri desteklenir: BTC, LTC, ETH, USD, TRY ve diğerleri",
         "markets": "Pazarlar",
-        "marketsDescription": "Waves DEX, mobil ve masaüstü uygulama, web cüzdanı veya Waves API üzerinden hızlı ve güvenli bir şekilde alım satım yapmanıza olanak sağlar.",
+        "marketsDescription": "Bancoin DEX, mobil ve masaüstü uygulama, web cüzdanı veya Bancoin API üzerinden hızlı ve güvenli bir şekilde alım satım yapmanıza olanak sağlar.",
         "marketsTableDescription": "Daha fazla takas çiftleri görüntülemek için tıklayın",
         "marketsTableDescriptionLink": "Borsayı Gör",
         "menu": "Menü",
@@ -194,7 +194,7 @@
         "productsTools": "Ürünler ve araçlar",
         "renameAccount": "Hesabı yeniden adlandır",
         "roadmap": "Yol Haritası",
-        "roadmapOpportunitiesAhead": "Waves DEX'in geleceği: Önümüzdeki yol haritamız",
+        "roadmapOpportunitiesAhead": "Bancoin DEX'in geleceği: Önümüzdeki yol haritamız",
         "save": "Kaydet",
         "scanQrCode": "QR kodu tara",
         "scriptAccount": "Script hesabı",
@@ -209,20 +209,20 @@
         "termsOfUse": "Kullanım koşulları",
         "tokenCreation": "Hızlı kripto para oluşturma",
         "tokenCreationCosts": "Kripto para oluşturma maliyeti yalnızca 1 BCT ve 1 dakika sürer",
-        "tradeOnWaves": "Waves Merkezsiz Kripto Para Borsasında Kripto Para Alın ve Satın",
+        "tradeOnWaves": "Bancoin Merkezsiz Kripto Para Borsasında Kripto Para Alın ve Satın",
         "tradeOnWavesDescription": "Merkezi bir borsanın tüm avantajları ile birlikte kripto paralarınızı hızlı ve güvenli bir şekilde alın ve satın, bu esnada varlıklarınızın kontrolünü elinizde tutun.",
         "transactions": "İşlemler",
         "twitter": "Twitter",
         "volume": "HACİM",
         "wallet": "Cüzdan",
-        "wavesBlockchain": "Waves Blok Zinciri",
-        "wavesDexWeb": "Waves DEX Web",
-        "wavesExplorer": "Waves Gezgini",
+        "wavesBlockchain": "Bancoin Blok Zinciri",
+        "wavesDexWeb": "Bancoin DEX Web",
+        "wavesExplorer": "Bancoin Gezgini",
         "wavesIde": "BCT IDE",
-        "wavesKeeper": "Waves Keeper",
-        "wavesLabs": "Waves Labs",
+        "wavesKeeper": "Bancoin Keeper",
+        "wavesLabs": "Bancoin Labs",
         "wavesOrderFilled": "Doldurulan her bir emir için 0.003 BCT",
-        "wavesWallet": "Waves Cüzdanı",
+        "wavesWallet": "Bancoin Cüzdanı",
         "windows": "Windows",
         "windowsDescription": "Windows uygulamasını indir"
     }

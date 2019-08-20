@@ -61,7 +61,7 @@
         "feb2017": {
             "date": "2017年12月",
             "text": "推出旗舰内置交换的第一个版本。",
-            "title": "Waves DEX Beta"
+            "title": "Bancoin DEX Beta"
         },
         "feb2018": {
             "date": "2018年2月",
@@ -70,7 +70,7 @@
         },
         "jan2019": {
             "date": "2019年1月",
-            "text": "支持使用智能帐户进行Waves DEX交易。",
+            "text": "支持使用智能帐户进行Bancoin DEX交易。",
             "text_2": "推出比特币Satoshi Vision网关",
             "title": "智能账户交易",
             "title_2": "BSV网关"
@@ -84,8 +84,8 @@
         },
         "jul2019": {
             "date": "2019年7月",
-            "text": "向Waves生态系统添加ERC20令牌网关，这意味着流行的以太坊令牌可以在平台上交易。",
-            "text_2": "开发人员简化了移动开发流程，并获得了与Waves区块链交互方式的全面描述。",
+            "text": "向Bancoin生态系统添加ERC20令牌网关，这意味着流行的以太坊令牌可以在平台上交易。",
+            "text_2": "开发人员简化了移动开发流程，并获得了与Bancoin区块链交互方式的全面描述。",
             "text_3": "用户可以在一个钱包应用程序中轻松切换多个帐户。",
             "title": "ERC-20网关",
             "title_2": "移动SDK和JS库改进",
@@ -108,12 +108,12 @@
         },
         "sep2018": {
             "date": "2018年9月",
-            "text": "与Waves集成DEX使用户能够以最高的安全性进行交易。",
+            "text": "与Bancoin集成DEX使用户能够以最高的安全性进行交易。",
             "title": "Ledger Nano S."
         },
         "sep2019": {
             "date": "2019年9月",
-            "text": "双因素身份验证为Waves DEX用户提供了更高的安全性。",
+            "text": "双因素身份验证为Bancoin DEX用户提供了更高的安全性。",
             "title": "2FA"
         }
     },
@@ -133,12 +133,12 @@
         "api": "API",
         "apple": "苹果应用商店",
         "blog": "博客",
-        "broughtBy": "由Waves Team带给您",
+        "broughtBy": "由Bancoin Team带给您",
         "cancel": "取消",
         "change": "更改",
         "changeName": "更换名字",
         "chart": "图表",
-        "contestLinkDescription": "在Waves DEX的交易竞赛中赢得5,000个BCT！",
+        "contestLinkDescription": "在Bancoin DEX的交易竞赛中赢得5,000个BCT！",
         "contestLinkLink": "规则",
         "controlAssets": "资产控制权是你自己的 - 资金不会留下你的钱包，也不能冻结",
         "copyAddress": "复制地址",
@@ -180,7 +180,7 @@
         "mainPage": "主页",
         "majorFiatCryptocurrencies": "支持的主要法定货币和加密货币：BTC，LTC，ETH，USD等",
         "markets": "市场",
-        "marketsDescription": "Waves DEX允许您快速安全地执行交易，无论您是通过移动应用程序，桌面客户端，网络钱包还是Waves API进行交易。",
+        "marketsDescription": "Bancoin DEX允许您快速安全地执行交易，无论您是通过移动应用程序，桌面客户端，网络钱包还是Bancoin API进行交易。",
         "marketsTableDescription": "要查看更多交易对，请单击",
         "marketsTableDescriptionLink": "查看Exchange",
         "menu": "菜单",
@@ -194,7 +194,7 @@
         "productsTools": "产品和工具",
         "renameAccount": "重命名帐户",
         "roadmap": "路线图",
-        "roadmapOpportunitiesAhead": "Waves DEX的未来：我们未来机遇的路线图。",
+        "roadmapOpportunitiesAhead": "Bancoin DEX的未来：我们未来机遇的路线图。",
         "save": "保存",
         "scanQrCode": "扫描二维码",
         "scriptAccount": "脚本帐户",
@@ -216,11 +216,11 @@
         "volume": "值",
         "wallet": "智能数字钱包",
         "wavesBlockchain": "波浪幣区块链",
-        "wavesDexWeb": "Waves DEX Web",
-        "wavesExplorer": "Waves Explorer",
-        "wavesIde": "Waves IDE",
-        "wavesKeeper": "Waves Keeper",
-        "wavesLabs": "Waves Labs",
+        "wavesDexWeb": "Bancoin DEX Web",
+        "wavesExplorer": "Bancoin Explorer",
+        "wavesIde": "Bancoin IDE",
+        "wavesKeeper": "Bancoin Keeper",
+        "wavesLabs": "Bancoin Labs",
         "wavesOrderFilled": "每个订单填写0.003波浪幣",
         "wavesWallet": "波浪幣钱包",
         "windows": "视窗",

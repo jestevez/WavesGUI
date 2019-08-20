@@ -14,7 +14,7 @@
     "modal": {
         "set_protocol_error": {
             "close": "Fechar",
-            "message": "Não é possível definir o protocolo padrão para a Waves client. Os links do navegador estão temporalmente desabilitados!",
+            "message": "Não é possível definir o protocolo padrão para a Bancoin client. Os links do navegador estão temporalmente desabilitados!",
             "report": "Reportar",
             "title": "Definir erro de protocolo"
         }

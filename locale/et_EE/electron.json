@@ -14,7 +14,7 @@
     "modal": {
         "set_protocol_error": {
             "close": "Sulge",
-            "message": "Waves Kliendi käivituse vaikeprotokolli ei saa seadistada. Lingid brauserist ajutiselt ei toeta!",
+            "message": "Bancoin Kliendi käivituse vaikeprotokolli ei saa seadistada. Lingid brauserist ajutiselt ei toeta!",
             "report": "Aruanne",
             "title": "Määrake avatud protokolli viga"
         }

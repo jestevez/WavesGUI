@@ -29,7 +29,7 @@
         "createNewAccount": "Kies een afbeelding",
         "from": "Deze avatar is uniek, u kunt deze later niet wijzigen.",
         "import": "Importeer accounts",
-        "importDescription": "via back-up regel, Ledger of Waves Keeper",
+        "importDescription": "via back-up regel, Ledger of Bancoin Keeper",
         "protect": "Beveilig uw account met een wachtwoord of",
         "protectYourAccount": "Beveilig uw account",
         "restore": "bestaand account terug zetten",
@@ -44,7 +44,7 @@
         "confirmBackupDescription": "Bevestig uw back-up regel",
         "next": "Bevestig",
         "prev": "Terug",
-        "successContent": "U kunt uw geheime regel later niet wijzigen. Als deze geheime regel per abuis in het bezit van iemand anders komt of u vermoed dat het in het bezit van scammers is gekomen dient u onmiddelijk een nieuwe Waves wallet te maken en alle inhoud over te zetten.",
+        "successContent": "U kunt uw geheime regel later niet wijzigen. Als deze geheime regel per abuis in het bezit van iemand anders komt of u vermoed dat het in het bezit van scammers is gekomen dient u onmiddelijk een nieuwe Bancoin wallet te maken en alle inhoud over te zetten.",
         "successHeadline": "Behandel uw backup regel zorgvuldig!",
         "understand": "Ik begrijp het"
     },
@@ -52,9 +52,9 @@
         "backup": "Maak nu een backup",
         "description": "U moet uw geheime regel (backup regel) opslaan. Dit is cruciaal om in uw account te komen.",
         "modal": {
-            "descriptionP1": "Waves Platform waarschuwt u voor de steeds vaker terugkerende scam en phishing aanvallen. Fraudeurs verbergen hun malware in eigen versies van Waves software uit en beloven bonussen en korting om gebruikers te lokken hun credentials in te voeren.",
+            "descriptionP1": "Bancoin Platform waarschuwt u voor de steeds vaker terugkerende scam en phishing aanvallen. Fraudeurs verbergen hun malware in eigen versies van Bancoin software uit en beloven bonussen en korting om gebruikers te lokken hun credentials in te voeren.",
             "descriptionP2": "Kijk uit voor deze scams en voer nooit uw SEED bij deze clients in. Uw account is dan gecompromitteerd en u raakt de gehele inhoud van uw account kwijt.",
-            "descriptionP3": "Gebruik enkel de officiële Waves client.",
+            "descriptionP3": "Gebruik enkel de officiële Bancoin client.",
             "ok": "Ik begrijp het",
             "title": "Behandel uw backup regel zorgvuldig!"
         },
